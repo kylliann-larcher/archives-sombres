@@ -141,7 +141,7 @@ def wig_face(im, cx, cy, s=1.0, crown=False, mood=0, hair=(150,150,150)):
     d.polygon([(cx-60*s, cy+150*s), (cx+60*s, cy+150*s), (cx, cy+300*s)], fill=(235,225,205,255), outline=INK+(255,))
     for k in range(5): d.ellipse((cx-8*s, cy+300*s+k*38*s, cx+8*s, cy+316*s+k*38*s), fill=(190,150,60,255))
     if crown:
-        d.polygon([(cx-90*s, cy-150*s), (cx-70*s, cy-260*s), (cx-30*s, cy-190*s), (cx, cy-280*s), (cx+30*s, cy-190*s), (cx+70*s, cy-260*s), (cx+90*s, cy-150*s)], fill=(200,160,50,255), outline=INK+(255,))
+        d.polygon([(cx-90*s, cy-40*s), (cx-70*s, cy-150*s), (cx-30*s, cy-85*s), (cx, cy-170*s), (cx+30*s, cy-85*s), (cx+70*s, cy-150*s), (cx+90*s, cy-40*s)], fill=(200,160,50,255), outline=INK+(255,))
 
 def woman(im, cx, cy, s=1.0, fan=True, point=False, dress=(110,20,40)):
     d = ImageDraw.Draw(im)

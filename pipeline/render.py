@@ -46,8 +46,10 @@ Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
     # groupes de 3 mots max, un seul calque de texte, mot actif en jaune
     i = 0
     while i < len(words):
-        grp = words[i:i + 3]
-        i += 3
+        j = i + 1
+        while j < len(words) and j < i + 3 and words[j]["start"] - words[j-1]["end"] < 0.8: j += 1
+        grp = words[i:j]
+        i = j
         g_start, g_end = grp[0]["start"], grp[-1]["end"]
         for k, w in enumerate(grp):
             s = w["start"]
