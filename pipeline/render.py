@@ -22,7 +22,7 @@ def ass_time(t):
     h = int(t // 3600); m = int((t % 3600) // 60); s = t % 60
     return f"{h}:{m:02d}:{s:05.2f}"
 
-def build_ass(words, stamp, part, duration, path):
+def build_ass(words, stamp, part, duration, path, tracker=None, tracker_from=0.0):
     hdr = f"""[Script Info]
 ScriptType: v4.00+
 PlayResX: {W}
@@ -31,6 +31,7 @@ PlayResY: {H}
 [V4+ Styles]
 Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
 Style: Cap,{FONT},84,&H00FFFFFF,&H0000D7FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,7,2,5,70,140,0,1
+Style: Track,{FONT},34,&H00C8DCEB,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,2,0,1,4,0,8,70,140,372,1
 Style: Stamp,{FONT},46,&H0000D7FF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,3,0,1,4,0,8,70,140,300,1
 
 [Events]
@@ -40,6 +41,8 @@ Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
     if stamp or part:
         txt = " - ".join(x for x in (stamp, part) if x)
         ev.append(f"Dialogue: 1,{ass_time(0)},{ass_time(duration)},Stamp,,0,0,0,,{txt}")
+    if tracker:
+        ev.append(f"Dialogue: 1,{ass_time(tracker_from)},{ass_time(duration)},Track,,0,0,0,,{tracker}")
     # groupes de 3 mots max, un seul calque de texte, mot actif en jaune
     i = 0
     while i < len(words):
@@ -48,7 +51,7 @@ Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
         g_start, g_end = grp[0]["start"], grp[-1]["end"]
         for k, w in enumerate(grp):
             s = w["start"]
-            e = grp[k + 1]["start"] if k + 1 < len(grp) else g_end
+            e = min(grp[k + 1]["start"] if k + 1 < len(grp) else g_end, w["end"] + 0.4)
             parts = []
             for j, ww in enumerate(grp):
                 word = ww["w"].upper().replace("{", "").replace("}", "")
@@ -67,14 +70,14 @@ def main():
     scenes[-1]["end"] = max(scenes[-1]["end"], dur)
     tmp = tempfile.mkdtemp()
     ass = os.path.join(tmp, "cap.ass")
-    build_ass(spec["words"], spec.get("stamp"), spec.get("part"), dur, ass)
+    build_ass(spec["words"], spec.get("stamp"), spec.get("part"), dur, ass, spec.get("tracker"), spec.get("tracker_from", 0.0))
 
     inputs, filters, labels = [], [], []
     for n, sc in enumerate(scenes):
         d = max(sc["end"] - sc["start"], 0.5)
         frames = int(d * FPS) + 1
-        inputs += ["-loop", "1", "-t", f"{d:.2f}", "-i", P(sc["image"])]
-        zoom = f"min(zoom+0.0007,1.25)" if n % 2 == 0 else f"if(eq(on,1),1.25,max(zoom-0.0007,1.0))"
+        inputs += ["-i", P(sc["image"])]
+        zoom = f"min(zoom+0.00035,1.1)" if n % 2 == 0 else f"if(eq(on,1),1.1,max(zoom-0.00035,1.0))"
         filters.append(f"[{n}:v]scale=2160:3840:force_original_aspect_ratio=increase,crop=2160:3840,"
                        f"zoompan=z='{zoom}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={frames}:s={W}x{H}:fps={FPS},"
                        f"eq=brightness=-0.08:saturation=0.85,setsar=1[v{n}]")
