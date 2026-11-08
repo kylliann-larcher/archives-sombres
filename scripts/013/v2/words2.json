@@ -1,0 +1,1214 @@
+{
+"words": [
+{
+"text": "Il",
+"start": 0.0,
+"end": 0.16
+},
+{
+"text": "te",
+"start": 0.2,
+"end": 0.24
+},
+{
+"text": "reste",
+"start": 0.32,
+"end": 0.64
+},
+{
+"text": "quelques",
+"start": 0.72,
+"end": 1.04
+},
+{
+"text": "heures",
+"start": 1.08,
+"end": 1.2
+},
+{
+"text": "à",
+"start": 1.28,
+"end": 1.36
+},
+{
+"text": "vivre.",
+"start": 1.493,
+"end": 1.84
+},
+{
+"text": "Tu",
+"start": 2.06,
+"end": 2.14
+},
+{
+"text": "écris",
+"start": 2.22,
+"end": 2.54
+},
+{
+"text": "une",
+"start": 2.62,
+"end": 2.7
+},
+{
+"text": "dernière",
+"start": 2.74,
+"end": 3.1
+},
+{
+"text": "lettre.",
+"start": 3.18,
+"end": 3.58
+},
+{
+"text": "Elle",
+"start": 3.76,
+"end": 3.88
+},
+{
+"text": "n'arrivera",
+"start": 3.92,
+"end": 4.32
+},
+{
+"text": "jamais.",
+"start": 4.4,
+"end": 5.01
+},
+{
+"text": "Tu",
+"start": 5.24,
+"end": 5.4
+},
+{
+"text": "es",
+"start": 5.44,
+"end": 5.48
+},
+{
+"text": "Marie-Antoinette.",
+"start": 5.56,
+"end": 6.52
+},
+{
+"text": "Et",
+"start": 6.71,
+"end": 6.79
+},
+{
+"text": "la",
+"start": 6.83,
+"end": 6.87
+},
+{
+"text": "phrase",
+"start": 6.95,
+"end": 7.27
+},
+{
+"text": "qu'on",
+"start": 7.31,
+"end": 7.43
+},
+{
+"text": "te",
+"start": 7.51,
+"end": 7.59
+},
+{
+"text": "prête",
+"start": 7.67,
+"end": 7.99
+},
+{
+"text": "depuis",
+"start": 8.07,
+"end": 8.31
+},
+{
+"text": "deux",
+"start": 8.35,
+"end": 8.47
+},
+{
+"text": "siècles…",
+"start": 8.55,
+"end": 9.28
+},
+{
+"text": "tu",
+"start": 9.32,
+"end": 9.36
+},
+{
+"text": "ne",
+"start": 9.44,
+"end": 9.48
+},
+{
+"text": "l'as",
+"start": 9.52,
+"end": 9.6
+},
+{
+"text": "jamais",
+"start": 9.68,
+"end": 9.84
+},
+{
+"text": "dite.",
+"start": 9.92,
+"end": 10.32
+},
+{
+"text": "Ton",
+"start": 10.79,
+"end": 10.95
+},
+{
+"text": "mari",
+"start": 11.057,
+"end": 11.27
+},
+{
+"text": "a",
+"start": 11.31,
+"end": 11.35
+},
+{
+"text": "été",
+"start": 11.43,
+"end": 11.59
+},
+{
+"text": "guillotiné",
+"start": 11.67,
+"end": 12.15
+},
+{
+"text": "en",
+"start": 12.23,
+"end": 12.31
+},
+{
+"text": "janvier.",
+"start": 12.43,
+"end": 12.99
+},
+{
+"text": "En",
+"start": 13.07,
+"end": 13.15
+},
+{
+"text": "juillet,",
+"start": 13.23,
+"end": 13.87
+},
+{
+"text": "on",
+"start": 13.95,
+"end": 14.03
+},
+{
+"text": "t'arrache",
+"start": 14.11,
+"end": 14.43
+},
+{
+"text": "ton",
+"start": 14.51,
+"end": 14.59
+},
+{
+"text": "fils.",
+"start": 14.67,
+"end": 15.2
+},
+{
+"text": "Il",
+"start": 15.28,
+"end": 15.36
+},
+{
+"text": "a",
+"start": 15.4,
+"end": 15.44
+},
+{
+"text": "huit",
+"start": 15.52,
+"end": 15.68
+},
+{
+"text": "ans.",
+"start": 15.76,
+"end": 16.05
+},
+{
+"text": "Ton",
+"start": 16.13,
+"end": 16.21
+},
+{
+"text": "procès",
+"start": 16.33,
+"end": 16.61
+},
+{
+"text": "dure",
+"start": 16.69,
+"end": 16.93
+},
+{
+"text": "deux",
+"start": 16.97,
+"end": 17.09
+},
+{
+"text": "jours.",
+"start": 17.17,
+"end": 17.75
+},
+{
+"text": "On",
+"start": 17.79,
+"end": 17.83
+},
+{
+"text": "t'accuse",
+"start": 17.87,
+"end": 18.23
+},
+{
+"text": "de",
+"start": 18.31,
+"end": 18.39
+},
+{
+"text": "trahison…",
+"start": 18.43,
+"end": 19.14
+},
+{
+"text": "et",
+"start": 19.22,
+"end": 19.3
+},
+{
+"text": "même",
+"start": 19.38,
+"end": 19.46
+},
+{
+"text": "du",
+"start": 19.54,
+"end": 19.62
+},
+{
+"text": "pire,",
+"start": 19.7,
+"end": 20.26
+},
+{
+"text": "envers",
+"start": 20.34,
+"end": 20.66
+},
+{
+"text": "ton",
+"start": 20.78,
+"end": 20.9
+},
+{
+"text": "propre",
+"start": 20.98,
+"end": 21.22
+},
+{
+"text": "enfant.",
+"start": 21.34,
+"end": 21.84
+},
+{
+"text": "Tu",
+"start": 21.88,
+"end": 21.92
+},
+{
+"text": "te",
+"start": 22.0,
+"end": 22.08
+},
+{
+"text": "tournes",
+"start": 22.16,
+"end": 22.4
+},
+{
+"text": "vers",
+"start": 22.48,
+"end": 22.56
+},
+{
+"text": "la",
+"start": 22.64,
+"end": 22.72
+},
+{
+"text": "salle",
+"start": 22.76,
+"end": 23.04
+},
+{
+"text": "J'en",
+"start": 23.374,
+"end": 23.47
+},
+{
+"text": "appelle",
+"start": 23.55,
+"end": 23.87
+},
+{
+"text": "à",
+"start": 23.95,
+"end": 24.11
+},
+{
+"text": "toutes",
+"start": 24.19,
+"end": 24.35
+},
+{
+"text": "les",
+"start": 24.43,
+"end": 24.51
+},
+{
+"text": "mères.",
+"start": 24.55,
+"end": 25.06
+},
+{
+"text": "La",
+"start": 25.19,
+"end": 25.27
+},
+{
+"text": "salle",
+"start": 25.35,
+"end": 25.51
+},
+{
+"text": "est",
+"start": 25.59,
+"end": 25.67
+},
+{
+"text": "émue.",
+"start": 25.75,
+"end": 26.21
+},
+{
+"text": "Les",
+"start": 26.29,
+"end": 26.37
+},
+{
+"text": "jurés…",
+"start": 26.45,
+"end": 27.41
+},
+{
+"text": "non.",
+"start": 27.49,
+"end": 27.79
+},
+{
+"text": "Quatre",
+"start": 27.88,
+"end": 28.04
+},
+{
+"text": "heures",
+"start": 28.12,
+"end": 28.28
+},
+{
+"text": "du",
+"start": 28.32,
+"end": 28.36
+},
+{
+"text": "matin",
+"start": 28.48,
+"end": 28.76
+},
+{
+"text": "la",
+"start": 29.103,
+"end": 29.13
+},
+{
+"text": "mort.",
+"start": 29.21,
+"end": 30.15
+},
+{
+"text": "Quatre",
+"start": 30.19,
+"end": 30.31
+},
+{
+"text": "heures",
+"start": 30.39,
+"end": 30.47
+},
+{
+"text": "et",
+"start": 30.51,
+"end": 30.55
+},
+{
+"text": "demie",
+"start": 30.63,
+"end": 30.79
+},
+{
+"text": "tu",
+"start": 31.207,
+"end": 31.26
+},
+{
+"text": "écris",
+"start": 31.3,
+"end": 31.58
+},
+{
+"text": "à",
+"start": 31.62,
+"end": 31.66
+},
+{
+"text": "ta",
+"start": 31.7,
+"end": 31.74
+},
+{
+"text": "belle-sœur.",
+"start": 31.82,
+"end": 32.45
+},
+{
+"text": "C'est",
+"start": 32.61,
+"end": 32.77
+},
+{
+"text": "à",
+"start": 32.81,
+"end": 32.85
+},
+{
+"text": "vous,",
+"start": 32.93,
+"end": 33.25
+},
+{
+"text": "ma",
+"start": 33.33,
+"end": 33.41
+},
+{
+"text": "sœur,",
+"start": 33.49,
+"end": 34.05
+},
+{
+"text": "que",
+"start": 34.09,
+"end": 34.13
+},
+{
+"text": "j'écris",
+"start": 34.17,
+"end": 34.53
+},
+{
+"text": "pour",
+"start": 34.61,
+"end": 34.69
+},
+{
+"text": "la",
+"start": 34.73,
+"end": 34.77
+},
+{
+"text": "dernière",
+"start": 34.85,
+"end": 35.17
+},
+{
+"text": "fois.",
+"start": 35.29,
+"end": 35.56
+},
+{
+"text": "Elle",
+"start": 35.62,
+"end": 35.78
+},
+{
+"text": "ne",
+"start": 35.82,
+"end": 35.86
+},
+{
+"text": "la",
+"start": 35.9,
+"end": 35.94
+},
+{
+"text": "recevra",
+"start": 36.02,
+"end": 36.5
+},
+{
+"text": "jamais.",
+"start": 36.58,
+"end": 36.95
+},
+{
+"text": "La",
+"start": 37.04,
+"end": 37.12
+},
+{
+"text": "lettre",
+"start": 37.2,
+"end": 37.36
+},
+{
+"text": "est",
+"start": 37.44,
+"end": 37.52
+},
+{
+"text": "saisie.",
+"start": 37.56,
+"end": 38.15
+},
+{
+"text": "Elle",
+"start": 38.19,
+"end": 38.31
+},
+{
+"text": "meurt",
+"start": 38.35,
+"end": 38.55
+},
+{
+"text": "à",
+"start": 38.63,
+"end": 38.71
+},
+{
+"text": "son",
+"start": 38.79,
+"end": 38.87
+},
+{
+"text": "tour",
+"start": 38.99,
+"end": 39.11
+},
+{
+"text": "sur",
+"start": 39.19,
+"end": 39.27
+},
+{
+"text": "l'échafaud…",
+"start": 39.323,
+"end": 40.15
+},
+{
+"text": "sans",
+"start": 40.23,
+"end": 40.31
+},
+{
+"text": "savoir",
+"start": 40.43,
+"end": 40.71
+},
+{
+"text": "que",
+"start": 40.79,
+"end": 40.87
+},
+{
+"text": "tu",
+"start": 40.91,
+"end": 40.95
+},
+{
+"text": "es",
+"start": 41.03,
+"end": 41.11
+},
+{
+"text": "morte.",
+"start": 41.15,
+"end": 41.72
+},
+{
+"text": "Au",
+"start": 41.76,
+"end": 41.8
+},
+{
+"text": "matin,",
+"start": 41.88,
+"end": 42.52
+},
+{
+"text": "on",
+"start": 42.56,
+"end": 42.6
+},
+{
+"text": "te",
+"start": 42.68,
+"end": 42.76
+},
+{
+"text": "coupe",
+"start": 42.84,
+"end": 43.0
+},
+{
+"text": "les",
+"start": 43.04,
+"end": 43.08
+},
+{
+"text": "cheveux.",
+"start": 43.16,
+"end": 43.73
+},
+{
+"text": "On",
+"start": 43.77,
+"end": 43.81
+},
+{
+"text": "te",
+"start": 43.89,
+"end": 43.97
+},
+{
+"text": "lie",
+"start": 44.05,
+"end": 44.13
+},
+{
+"text": "les",
+"start": 44.21,
+"end": 44.29
+},
+{
+"text": "mains.",
+"start": 44.33,
+"end": 44.71
+},
+{
+"text": "Une",
+"start": 44.79,
+"end": 44.87
+},
+{
+"text": "charrette",
+"start": 44.95,
+"end": 45.35
+},
+{
+"text": "t'emmène",
+"start": 45.377,
+"end": 45.67
+},
+{
+"text": "à",
+"start": 45.71,
+"end": 45.75
+},
+{
+"text": "travers",
+"start": 45.79,
+"end": 46.07
+},
+{
+"text": "Paris,",
+"start": 46.15,
+"end": 46.63
+},
+{
+"text": "sous",
+"start": 46.657,
+"end": 46.71
+},
+{
+"text": "les",
+"start": 46.79,
+"end": 46.87
+},
+{
+"text": "insultes.",
+"start": 46.95,
+"end": 47.73
+},
+{
+"text": "Midi",
+"start": 48.03,
+"end": 48.27
+},
+{
+"text": "et",
+"start": 48.35,
+"end": 48.43
+},
+{
+"text": "quart.",
+"start": 48.47,
+"end": 49.23
+},
+{
+"text": "Sur",
+"start": 49.31,
+"end": 49.39
+},
+{
+"text": "l'échafaud,",
+"start": 49.443,
+"end": 50.19
+},
+{
+"text": "tu",
+"start": 50.27,
+"end": 50.35
+},
+{
+"text": "marches",
+"start": 50.43,
+"end": 50.83
+},
+{
+"text": "sur",
+"start": 50.87,
+"end": 50.91
+},
+{
+"text": "le",
+"start": 50.99,
+"end": 51.07
+},
+{
+"text": "pied",
+"start": 51.15,
+"end": 51.23
+},
+{
+"text": "du",
+"start": 51.31,
+"end": 51.39
+},
+{
+"text": "bourreau.",
+"start": 51.47,
+"end": 51.9
+},
+{
+"text": "Tes",
+"start": 51.99,
+"end": 52.07
+},
+{
+"text": "derniers",
+"start": 52.15,
+"end": 52.47
+},
+{
+"text": "mots,",
+"start": 52.51,
+"end": 52.71
+},
+{
+"text": "dit-on",
+"start": 52.83,
+"end": 53.11
+},
+{
+"text": "Pardon,",
+"start": 53.374,
+"end": 53.67
+},
+{
+"text": "monsieur.",
+"start": 53.71,
+"end": 54.35
+},
+{
+"text": "Je",
+"start": 54.39,
+"end": 54.43
+},
+{
+"text": "ne",
+"start": 54.47,
+"end": 54.51
+},
+{
+"text": "l'ai",
+"start": 54.537,
+"end": 54.59
+},
+{
+"text": "pas",
+"start": 54.67,
+"end": 54.75
+},
+{
+"text": "fait",
+"start": 54.79,
+"end": 54.83
+},
+{
+"text": "exprès.",
+"start": 54.91,
+"end": 55.45
+},
+{
+"text": "Et",
+"start": 55.82,
+"end": 55.9
+},
+{
+"text": "cette",
+"start": 55.94,
+"end": 56.06
+},
+{
+"text": "phrase",
+"start": 56.14,
+"end": 56.46
+},
+{
+"text": "Qu'ils",
+"start": 56.763,
+"end": 56.95
+},
+{
+"text": "mangent",
+"start": 56.99,
+"end": 57.19
+},
+{
+"text": "de",
+"start": 57.23,
+"end": 57.27
+},
+{
+"text": "la",
+"start": 57.35,
+"end": 57.39
+},
+{
+"text": "brioche.",
+"start": 57.43,
+"end": 58.19
+},
+{
+"text": "Tu",
+"start": 58.513,
+"end": 58.54
+},
+{
+"text": "ne",
+"start": 58.62,
+"end": 58.647
+},
+{
+"text": "l'as",
+"start": 58.673,
+"end": 58.78
+},
+{
+"text": "jamais",
+"start": 58.86,
+"end": 59.1
+},
+{
+"text": "dite.",
+"start": 59.207,
+"end": 59.5
+},
+{
+"text": "Rousseau",
+"start": 59.74,
+"end": 60.14
+},
+{
+"text": "l'écrivait",
+"start": 60.18,
+"end": 60.54
+},
+{
+"text": "déjà",
+"start": 60.62,
+"end": 60.94
+},
+{
+"text": "quand",
+"start": 60.98,
+"end": 61.1
+},
+{
+"text": "tu",
+"start": 61.18,
+"end": 61.26
+},
+{
+"text": "étais",
+"start": 61.38,
+"end": 61.5
+},
+{
+"text": "une",
+"start": 61.54,
+"end": 61.58
+},
+{
+"text": "enfant,",
+"start": 61.66,
+"end": 62.22
+},
+{
+"text": "en",
+"start": 62.26,
+"end": 62.3
+},
+{
+"text": "Autriche.",
+"start": 62.38,
+"end": 63.14
+},
+{
+"text": "Envoie",
+"start": 63.22,
+"end": 63.46
+},
+{
+"text": "ça",
+"start": 63.54,
+"end": 63.62
+},
+{
+"text": "à",
+"start": 63.7,
+"end": 63.78
+},
+{
+"text": "quelqu'un",
+"start": 63.86,
+"end": 64.1
+},
+{
+"text": "qui",
+"start": 64.18,
+"end": 64.26
+},
+{
+"text": "croit",
+"start": 64.34,
+"end": 64.5
+},
+{
+"text": "encore",
+"start": 64.58,
+"end": 64.82
+},
+{
+"text": "à",
+"start": 64.847,
+"end": 64.873
+},
+{
+"text": "la",
+"start": 64.9,
+"end": 64.98
+},
+{
+"text": "brioche.",
+"start": 65.02,
+"end": 65.78
+}
+],
+"dur": 66.37997732426304,
+"cuts": [
+[
+1.9700000000000002,
+2.23
+],
+[
+3.96,
+4.34
+],
+[
+5.65,
+5.93
+],
+[
+7.550000000000001,
+7.84
+],
+[
+10.41,
+10.72
+],
+[
+12.09,
+12.58
+],
+[
+14.94,
+15.22
+],
+[
+17.46,
+17.73
+],
+[
+18.54,
+18.970000000000002
+],
+[
+20.65,
+20.87
+],
+[
+22.29,
+22.5
+],
+[
+23.66,
+23.82
+],
+[
+25.33,
+25.91
+],
+[
+27.37,
+27.66
+],
+[
+29.51,
+29.87
+],
+[
+30.93,
+31.27
+],
+[
+32.32,
+32.32
+],
+[
+32.94,
+33.75
+],
+[
+34.910000000000004,
+35.1
+],
+[
+36.050000000000004,
+36.07
+],
+[
+37.2,
+37.45
+],
+[
+38.87,
+39.28
+],
+[
+42.39,
+42.9
+],
+[
+44.29,
+44.63
+],
+[
+45.72,
+46.13
+],
+[
+48.09,
+48.33
+],
+[
+49.980000000000004,
+50.65
+],
+[
+52.63,
+52.78
+],
+[
+53.77,
+54.07
+],
+[
+57.18,
+57.300000000000004
+],
+[
+58.575,
+58.575
+],
+[
+61.47,
+61.910000000000004
+],
+[
+63.26,
+63.54
+],
+[
+65.87,
+65.92
+],
+[
+66.97,
+67.2
+],
+[
+68.78,
+68.79
+],
+[
+70.19,
+70.51
+],
+[
+73.93,
+74.21000000000001
+]
+]
+}
