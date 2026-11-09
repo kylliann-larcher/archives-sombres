@@ -1,0 +1,1232 @@
+{
+"words": [
+{
+"text": "Pendant",
+"start": 0.0,
+"end": 0.32
+},
+{
+"text": "deux",
+"start": 0.4,
+"end": 0.48
+},
+{
+"text": "cents",
+"start": 0.56,
+"end": 0.8
+},
+{
+"text": "ans,",
+"start": 0.88,
+"end": 1.28
+},
+{
+"text": "on",
+"start": 1.36,
+"end": 1.44
+},
+{
+"text": "a",
+"start": 1.48,
+"end": 1.52
+},
+{
+"text": "dit",
+"start": 1.6,
+"end": 1.68
+},
+{
+"text": "que",
+"start": 1.72,
+"end": 1.76
+},
+{
+"text": "le",
+"start": 1.84,
+"end": 1.92
+},
+{
+"text": "fils",
+"start": 2.0,
+"end": 2.24
+},
+{
+"text": "de",
+"start": 2.28,
+"end": 2.32
+},
+{
+"text": "Marie-Antoinette",
+"start": 2.4,
+"end": 3.12
+},
+{
+"text": "s'était",
+"start": 3.227,
+"end": 3.44
+},
+{
+"text": "évadé.",
+"start": 3.52,
+"end": 3.92
+},
+{
+"text": "Un",
+"start": 4.4,
+"end": 4.56
+},
+{
+"text": "cœur",
+"start": 4.6,
+"end": 4.8
+},
+{
+"text": "desséché",
+"start": 4.88,
+"end": 5.52
+},
+{
+"text": "a",
+"start": 5.68,
+"end": 5.84
+},
+{
+"text": "prouvé",
+"start": 5.893,
+"end": 6.08
+},
+{
+"text": "le",
+"start": 6.12,
+"end": 6.16
+},
+{
+"text": "contraire.",
+"start": 6.24,
+"end": 7.03
+},
+{
+"text": "Imagine",
+"start": 7.27,
+"end": 7.75
+},
+{
+"text": "tu",
+"start": 8.137,
+"end": 8.19
+},
+{
+"text": "as",
+"start": 8.27,
+"end": 8.35
+},
+{
+"text": "sept",
+"start": 8.39,
+"end": 8.59
+},
+{
+"text": "ans.",
+"start": 8.67,
+"end": 8.92
+},
+{
+"text": "Ton",
+"start": 9.0,
+"end": 9.08
+},
+{
+"text": "père",
+"start": 9.16,
+"end": 9.48
+},
+{
+"text": "est",
+"start": 9.56,
+"end": 9.72
+},
+{
+"text": "guillotiné.",
+"start": 9.76,
+"end": 10.36
+},
+{
+"text": "Pour",
+"start": 10.51,
+"end": 10.59
+},
+{
+"text": "les",
+"start": 10.67,
+"end": 10.75
+},
+{
+"text": "royalistes,",
+"start": 10.83,
+"end": 11.63
+},
+{
+"text": "tu",
+"start": 11.71,
+"end": 11.79
+},
+{
+"text": "es",
+"start": 11.83,
+"end": 11.87
+},
+{
+"text": "Louis",
+"start": 11.95,
+"end": 12.11
+},
+{
+"text": "dix-sept,",
+"start": 12.15,
+"end": 12.91
+},
+{
+"text": "roi",
+"start": 12.99,
+"end": 13.15
+},
+{
+"text": "de",
+"start": 13.19,
+"end": 13.23
+},
+{
+"text": "France.",
+"start": 13.31,
+"end": 13.79
+},
+{
+"text": "Mais",
+"start": 14.28,
+"end": 14.36
+},
+{
+"text": "tu",
+"start": 14.4,
+"end": 14.44
+},
+{
+"text": "es",
+"start": 14.52,
+"end": 14.6
+},
+{
+"text": "enfermé",
+"start": 14.68,
+"end": 15.0
+},
+{
+"text": "dans",
+"start": 15.08,
+"end": 15.16
+},
+{
+"text": "la",
+"start": 15.2,
+"end": 15.24
+},
+{
+"text": "prison",
+"start": 15.32,
+"end": 15.56
+},
+{
+"text": "du",
+"start": 15.64,
+"end": 15.72
+},
+{
+"text": "Temple,",
+"start": 15.8,
+"end": 16.36
+},
+{
+"text": "à",
+"start": 16.4,
+"end": 16.44
+},
+{
+"text": "Paris.",
+"start": 16.52,
+"end": 16.98
+},
+{
+"text": "On",
+"start": 17.04,
+"end": 17.12
+},
+{
+"text": "t'arrache",
+"start": 17.2,
+"end": 17.6
+},
+{
+"text": "à",
+"start": 17.627,
+"end": 17.653
+},
+{
+"text": "ta",
+"start": 17.68,
+"end": 17.76
+},
+{
+"text": "mère.",
+"start": 17.84,
+"end": 18.16
+},
+{
+"text": "Tu",
+"start": 18.33,
+"end": 18.41
+},
+{
+"text": "ne",
+"start": 18.49,
+"end": 18.517
+},
+{
+"text": "la",
+"start": 18.543,
+"end": 18.57
+},
+{
+"text": "reverras",
+"start": 18.65,
+"end": 19.05
+},
+{
+"text": "jamais.",
+"start": 19.13,
+"end": 19.64
+},
+{
+"text": "Un",
+"start": 19.68,
+"end": 19.72
+},
+{
+"text": "cordonnier",
+"start": 19.8,
+"end": 20.28
+},
+{
+"text": "doit",
+"start": 20.32,
+"end": 20.44
+},
+{
+"text": "faire",
+"start": 20.48,
+"end": 20.6
+},
+{
+"text": "de",
+"start": 20.64,
+"end": 20.68
+},
+{
+"text": "toi",
+"start": 20.76,
+"end": 21.0
+},
+{
+"text": "un",
+"start": 21.16,
+"end": 21.24
+},
+{
+"text": "petit",
+"start": 21.32,
+"end": 21.56
+},
+{
+"text": "républicain.",
+"start": 21.64,
+"end": 22.28
+},
+{
+"text": "Puis",
+"start": 22.45,
+"end": 22.61
+},
+{
+"text": "tu",
+"start": 22.69,
+"end": 22.77
+},
+{
+"text": "te",
+"start": 22.81,
+"end": 22.85
+},
+{
+"text": "retrouves",
+"start": 22.93,
+"end": 23.33
+},
+{
+"text": "seul,",
+"start": 23.41,
+"end": 23.97
+},
+{
+"text": "des",
+"start": 24.05,
+"end": 24.13
+},
+{
+"text": "mois,",
+"start": 24.21,
+"end": 24.77
+},
+{
+"text": "dans",
+"start": 24.81,
+"end": 24.89
+},
+{
+"text": "l'obscurité.",
+"start": 24.93,
+"end": 25.71
+},
+{
+"text": "Le",
+"start": 25.82,
+"end": 25.9
+},
+{
+"text": "huit",
+"start": 25.98,
+"end": 26.06
+},
+{
+"text": "juin",
+"start": 26.22,
+"end": 26.38
+},
+{
+"text": "dix-sept",
+"start": 26.46,
+"end": 26.7
+},
+{
+"text": "cent",
+"start": 26.78,
+"end": 26.86
+},
+{
+"text": "quatre-vingt-quinze,",
+"start": 26.94,
+"end": 27.93
+},
+{
+"text": "tu",
+"start": 28.01,
+"end": 28.09
+},
+{
+"text": "meurs.",
+"start": 28.17,
+"end": 28.68
+},
+{
+"text": "Tu",
+"start": 28.76,
+"end": 28.84
+},
+{
+"text": "as",
+"start": 28.92,
+"end": 29.0
+},
+{
+"text": "dix",
+"start": 29.04,
+"end": 29.16
+},
+{
+"text": "ans.",
+"start": 29.24,
+"end": 29.56
+},
+{
+"text": "Probablement",
+"start": 29.68,
+"end": 30.12
+},
+{
+"text": "de",
+"start": 30.16,
+"end": 30.2
+},
+{
+"text": "la",
+"start": 30.24,
+"end": 30.28
+},
+{
+"text": "tuberculose.",
+"start": 30.36,
+"end": 31.18
+},
+{
+"text": "On",
+"start": 31.28,
+"end": 31.36
+},
+{
+"text": "t'enterre",
+"start": 31.4,
+"end": 31.76
+},
+{
+"text": "dans",
+"start": 31.813,
+"end": 31.92
+},
+{
+"text": "une",
+"start": 31.96,
+"end": 32.0
+},
+{
+"text": "fosse",
+"start": 32.08,
+"end": 32.28
+},
+{
+"text": "commune.",
+"start": 32.32,
+"end": 32.8
+},
+{
+"text": "Mais",
+"start": 33.28,
+"end": 33.44
+},
+{
+"text": "selon",
+"start": 33.52,
+"end": 33.68
+},
+{
+"text": "la",
+"start": 33.72,
+"end": 33.76
+},
+{
+"text": "tradition,",
+"start": 33.84,
+"end": 34.72
+},
+{
+"text": "le",
+"start": 34.8,
+"end": 34.88
+},
+{
+"text": "médecin",
+"start": 34.96,
+"end": 35.2
+},
+{
+"text": "qui",
+"start": 35.28,
+"end": 35.36
+},
+{
+"text": "t'a",
+"start": 35.44,
+"end": 35.52
+},
+{
+"text": "ouvert",
+"start": 35.6,
+"end": 36.0
+},
+{
+"text": "cache",
+"start": 36.16,
+"end": 36.4
+},
+{
+"text": "ton",
+"start": 36.48,
+"end": 36.56
+},
+{
+"text": "cœur",
+"start": 36.64,
+"end": 36.8
+},
+{
+"text": "dans",
+"start": 36.88,
+"end": 37.04
+},
+{
+"text": "un",
+"start": 37.08,
+"end": 37.12
+},
+{
+"text": "mouchoir.",
+"start": 37.2,
+"end": 38.03
+},
+{
+"text": "Aussitôt,",
+"start": 38.27,
+"end": 38.99
+},
+{
+"text": "la",
+"start": 39.03,
+"end": 39.07
+},
+{
+"text": "rumeur",
+"start": 39.15,
+"end": 39.47
+},
+{
+"text": "court",
+"start": 39.55,
+"end": 39.87
+},
+{
+"text": "l'enfant",
+"start": 40.183,
+"end": 40.53
+},
+{
+"text": "mort",
+"start": 40.61,
+"end": 40.85
+},
+{
+"text": "n'est",
+"start": 40.93,
+"end": 41.09
+},
+{
+"text": "pas",
+"start": 41.17,
+"end": 41.25
+},
+{
+"text": "le",
+"start": 41.29,
+"end": 41.33
+},
+{
+"text": "vrai",
+"start": 41.41,
+"end": 41.57
+},
+{
+"text": "roi.",
+"start": 41.65,
+"end": 42.21
+},
+{
+"text": "Le",
+"start": 42.25,
+"end": 42.29
+},
+{
+"text": "vrai",
+"start": 42.37,
+"end": 42.61
+},
+{
+"text": "s'est",
+"start": 42.69,
+"end": 42.85
+},
+{
+"text": "enfui.",
+"start": 42.93,
+"end": 43.33
+},
+{
+"text": "Pendant",
+"start": 43.79,
+"end": 44.03
+},
+{
+"text": "ce",
+"start": 44.11,
+"end": 44.19
+},
+{
+"text": "temps,",
+"start": 44.27,
+"end": 44.75
+},
+{
+"text": "ton",
+"start": 44.83,
+"end": 44.91
+},
+{
+"text": "cœur",
+"start": 44.99,
+"end": 45.15
+},
+{
+"text": "passe",
+"start": 45.31,
+"end": 45.55
+},
+{
+"text": "de",
+"start": 45.59,
+"end": 45.63
+},
+{
+"text": "main",
+"start": 45.71,
+"end": 45.87
+},
+{
+"text": "en",
+"start": 45.95,
+"end": 46.03
+},
+{
+"text": "main.",
+"start": 46.11,
+"end": 46.45
+},
+{
+"text": "Il",
+"start": 46.53,
+"end": 46.61
+},
+{
+"text": "échappe",
+"start": 46.65,
+"end": 47.01
+},
+{
+"text": "même",
+"start": 47.13,
+"end": 47.25
+},
+{
+"text": "à",
+"start": 47.277,
+"end": 47.303
+},
+{
+"text": "un",
+"start": 47.33,
+"end": 47.41
+},
+{
+"text": "pillage.",
+"start": 47.49,
+"end": 48.42
+},
+{
+"text": "En",
+"start": 48.5,
+"end": 48.58
+},
+{
+"text": "l'an",
+"start": 48.633,
+"end": 48.74
+},
+{
+"text": "deux",
+"start": 48.78,
+"end": 48.86
+},
+{
+"text": "mille,",
+"start": 48.9,
+"end": 49.38
+},
+{
+"text": "des",
+"start": 49.46,
+"end": 49.54
+},
+{
+"text": "chercheurs",
+"start": 49.62,
+"end": 50.02
+},
+{
+"text": "comparent",
+"start": 50.1,
+"end": 50.42
+},
+{
+"text": "son",
+"start": 50.5,
+"end": 50.58
+},
+{
+"text": "ADN",
+"start": 50.62,
+"end": 51.14
+},
+{
+"text": "à",
+"start": 51.22,
+"end": 51.3
+},
+{
+"text": "celui",
+"start": 51.38,
+"end": 51.54
+},
+{
+"text": "de",
+"start": 51.62,
+"end": 51.7
+},
+{
+"text": "Marie-Antoinette",
+"start": 51.78,
+"end": 52.5
+},
+{
+"text": "et",
+"start": 52.58,
+"end": 52.62
+},
+{
+"text": "de",
+"start": 52.66,
+"end": 52.7
+},
+{
+"text": "ses",
+"start": 52.74,
+"end": 52.9
+},
+{
+"text": "proches.",
+"start": 52.98,
+"end": 53.85
+},
+{
+"text": "Verdict",
+"start": 53.97,
+"end": 54.41
+},
+{
+"text": "c'est",
+"start": 54.753,
+"end": 54.86
+},
+{
+"text": "bien",
+"start": 54.9,
+"end": 55.1
+},
+{
+"text": "toi.",
+"start": 55.18,
+"end": 55.87
+},
+{
+"text": "Tu",
+"start": 55.95,
+"end": 56.03
+},
+{
+"text": "es",
+"start": 56.11,
+"end": 56.19
+},
+{
+"text": "mort",
+"start": 56.31,
+"end": 56.43
+},
+{
+"text": "dans",
+"start": 56.457,
+"end": 56.51
+},
+{
+"text": "ta",
+"start": 56.59,
+"end": 56.67
+},
+{
+"text": "cellule.",
+"start": 56.75,
+"end": 57.68
+},
+{
+"text": "Depuis",
+"start": 57.76,
+"end": 57.92
+},
+{
+"text": "deux",
+"start": 57.96,
+"end": 58.04
+},
+{
+"text": "mille",
+"start": 58.08,
+"end": 58.16
+},
+{
+"text": "quatre,",
+"start": 58.24,
+"end": 58.72
+},
+{
+"text": "ton",
+"start": 58.84,
+"end": 58.96
+},
+{
+"text": "cœur",
+"start": 59.013,
+"end": 59.12
+},
+{
+"text": "repose",
+"start": 59.2,
+"end": 59.52
+},
+{
+"text": "à",
+"start": 59.6,
+"end": 59.64
+},
+{
+"text": "Saint-Denis,",
+"start": 59.68,
+"end": 60.4
+},
+{
+"text": "parmi",
+"start": 60.48,
+"end": 60.64
+},
+{
+"text": "les",
+"start": 60.68,
+"end": 60.72
+},
+{
+"text": "rois",
+"start": 60.8,
+"end": 60.92
+},
+{
+"text": "de",
+"start": 60.96,
+"end": 61.04
+},
+{
+"text": "France.",
+"start": 61.12,
+"end": 61.7
+},
+{
+"text": "Tu",
+"start": 61.78,
+"end": 61.86
+},
+{
+"text": "n'as",
+"start": 61.9,
+"end": 62.1
+},
+{
+"text": "jamais",
+"start": 62.18,
+"end": 62.42
+},
+{
+"text": "régné.",
+"start": 62.5,
+"end": 63.0
+},
+{
+"text": "Mais",
+"start": 63.08,
+"end": 63.16
+},
+{
+"text": "tu",
+"start": 63.2,
+"end": 63.24
+},
+{
+"text": "es",
+"start": 63.36,
+"end": 63.48
+},
+{
+"text": "enfin",
+"start": 63.56,
+"end": 63.8
+},
+{
+"text": "rentré.",
+"start": 63.88,
+"end": 64.76
+},
+{
+"text": "Et",
+"start": 64.84,
+"end": 64.92
+},
+{
+"text": "toi,",
+"start": 65.04,
+"end": 65.37
+},
+{
+"text": "pourquoi",
+"start": 65.49,
+"end": 65.69
+},
+{
+"text": "tant",
+"start": 65.85,
+"end": 66.01
+},
+{
+"text": "de",
+"start": 66.05,
+"end": 66.09
+},
+{
+"text": "gens",
+"start": 66.25,
+"end": 66.41
+},
+{
+"text": "ont-ils",
+"start": 66.49,
+"end": 66.81
+},
+{
+"text": "refusé",
+"start": 66.93,
+"end": 67.29
+},
+{
+"text": "de",
+"start": 67.33,
+"end": 67.37
+},
+{
+"text": "croire",
+"start": 67.45,
+"end": 67.61
+},
+{
+"text": "à",
+"start": 67.69,
+"end": 67.77
+},
+{
+"text": "sa",
+"start": 67.85,
+"end": 67.93
+},
+{
+"text": "mort",
+"start": 68.05,
+"end": 68.17
+},
+{
+"text": "N'hésite",
+"start": 68.793,
+"end": 69.06
+},
+{
+"text": "pas",
+"start": 69.1,
+"end": 69.14
+},
+{
+"text": "à",
+"start": 69.18,
+"end": 69.22
+},
+{
+"text": "t'abonner",
+"start": 69.3,
+"end": 69.7
+},
+{
+"text": "si",
+"start": 69.74,
+"end": 69.78
+},
+{
+"text": "tu",
+"start": 69.86,
+"end": 69.94
+},
+{
+"text": "aimes",
+"start": 69.993,
+"end": 70.1
+},
+{
+"text": "ce",
+"start": 70.14,
+"end": 70.18
+},
+{
+"text": "genre",
+"start": 70.26,
+"end": 70.34
+},
+{
+"text": "de",
+"start": 70.42,
+"end": 70.5
+},
+{
+"text": "contenu.",
+"start": 70.58,
+"end": 71.06
+}
+],
+"dur": 71.57995464852607,
+"cuts": [
+[
+4.16,
+4.24
+],
+[
+7.11,
+7.5200000000000005
+],
+[
+8.469999999999999,
+8.75
+],
+[
+9.66,
+9.97
+],
+[
+11.54,
+11.870000000000001
+],
+[
+15.450000000000001,
+15.52
+],
+[
+18.46,
+18.82
+],
+[
+20.11,
+20.34
+],
+[
+21.63,
+22.0
+],
+[
+24.8,
+25.19
+],
+[
+28.54,
+29.17
+],
+[
+31.330000000000002,
+31.46
+],
+[
+32.22,
+32.51
+],
+[
+33.38,
+33.7
+],
+[
+35.38,
+35.74
+],
+[
+37.6,
+37.6
+],
+[
+42.59,
+42.64
+],
+[
+44.63,
+44.77
+],
+[
+48.31,
+48.65
+],
+[
+51.49,
+51.71
+],
+[
+53.53,
+53.64
+],
+[
+59.02,
+59.03
+],
+[
+60.0,
+60.190000000000005
+],
+[
+61.28,
+61.31
+],
+[
+63.08,
+63.190000000000005
+],
+[
+67.42,
+67.72
+],
+[
+68.97,
+69.27
+],
+[
+70.92,
+71.24
+],
+[
+72.01,
+72.2
+],
+[
+75.38,
+75.45
+]
+]
+}
