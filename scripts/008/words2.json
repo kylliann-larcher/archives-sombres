@@ -1,0 +1,1033 @@
+{
+"words": [
+{
+"text": "Un",
+"start": 0.0,
+"end": 0.24
+},
+{
+"text": "homme",
+"start": 0.36,
+"end": 0.48
+},
+{
+"text": "est",
+"start": 0.52,
+"end": 0.56
+},
+{
+"text": "descendu",
+"start": 0.68,
+"end": 1.04
+},
+{
+"text": "un",
+"start": 1.08,
+"end": 1.12
+},
+{
+"text": "escalier,",
+"start": 1.2,
+"end": 2.0
+},
+{
+"text": "un",
+"start": 2.04,
+"end": 2.08
+},
+{
+"text": "soir.",
+"start": 2.16,
+"end": 2.64
+},
+{
+"text": "On",
+"start": 2.83,
+"end": 2.91
+},
+{
+"text": "l'a",
+"start": 2.95,
+"end": 3.07
+},
+{
+"text": "retrouvé",
+"start": 3.11,
+"end": 3.63
+},
+{
+"text": "onze",
+"start": 3.87,
+"end": 4.03
+},
+{
+"text": "ans",
+"start": 4.11,
+"end": 4.19
+},
+{
+"text": "plus",
+"start": 4.27,
+"end": 4.43
+},
+{
+"text": "tard.",
+"start": 4.47,
+"end": 4.83
+},
+{
+"text": "Imagine",
+"start": 5.31,
+"end": 5.87
+},
+{
+"text": "tu",
+"start": 6.227,
+"end": 6.28
+},
+{
+"text": "es",
+"start": 6.32,
+"end": 6.36
+},
+{
+"text": "portier",
+"start": 6.44,
+"end": 6.84
+},
+{
+"text": "à",
+"start": 6.88,
+"end": 6.92
+},
+{
+"text": "l'hôpital",
+"start": 6.947,
+"end": 7.4
+},
+{
+"text": "du",
+"start": 7.48,
+"end": 7.56
+},
+{
+"text": "Val-de-Grâce.",
+"start": 7.64,
+"end": 8.51
+},
+{
+"text": "Ce",
+"start": 8.64,
+"end": 8.72
+},
+{
+"text": "soir,",
+"start": 8.8,
+"end": 9.44
+},
+{
+"text": "tu",
+"start": 9.52,
+"end": 9.6
+},
+{
+"text": "descends",
+"start": 9.72,
+"end": 9.92
+},
+{
+"text": "un",
+"start": 9.96,
+"end": 10.0
+},
+{
+"text": "escalier,",
+"start": 10.08,
+"end": 10.8
+},
+{
+"text": "dans",
+"start": 10.88,
+"end": 10.96
+},
+{
+"text": "la",
+"start": 11.0,
+"end": 11.04
+},
+{
+"text": "cour.",
+"start": 11.12,
+"end": 11.52
+},
+{
+"text": "Tu",
+"start": 11.71,
+"end": 11.79
+},
+{
+"text": "ne",
+"start": 11.83,
+"end": 11.87
+},
+{
+"text": "remonteras",
+"start": 11.95,
+"end": 12.43
+},
+{
+"text": "jamais.",
+"start": 12.51,
+"end": 12.95
+},
+{
+"text": "Sous",
+"start": 13.09,
+"end": 13.25
+},
+{
+"text": "Paris,",
+"start": 13.33,
+"end": 13.97
+},
+{
+"text": "il",
+"start": 14.05,
+"end": 14.13
+},
+{
+"text": "y",
+"start": 14.157,
+"end": 14.183
+},
+{
+"text": "a",
+"start": 14.21,
+"end": 14.29
+},
+{
+"text": "des",
+"start": 14.37,
+"end": 14.45
+},
+{
+"text": "kilomètres",
+"start": 14.53,
+"end": 15.09
+},
+{
+"text": "d'anciennes",
+"start": 15.17,
+"end": 15.57
+},
+{
+"text": "carrières.",
+"start": 15.65,
+"end": 16.27
+},
+{
+"text": "Des",
+"start": 16.39,
+"end": 16.47
+},
+{
+"text": "couloirs",
+"start": 16.55,
+"end": 16.87
+},
+{
+"text": "noirs,",
+"start": 16.95,
+"end": 17.59
+},
+{
+"text": "tous",
+"start": 17.63,
+"end": 17.83
+},
+{
+"text": "identiques.",
+"start": 17.99,
+"end": 18.62
+},
+{
+"text": "Et",
+"start": 18.71,
+"end": 18.79
+},
+{
+"text": "depuis",
+"start": 18.87,
+"end": 19.11
+},
+{
+"text": "sept",
+"start": 19.19,
+"end": 19.35
+},
+{
+"text": "ans,",
+"start": 19.43,
+"end": 19.91
+},
+{
+"text": "on",
+"start": 19.99,
+"end": 20.07
+},
+{
+"text": "y",
+"start": 20.11,
+"end": 20.15
+},
+{
+"text": "a",
+"start": 20.19,
+"end": 20.23
+},
+{
+"text": "rangé",
+"start": 20.31,
+"end": 20.63
+},
+{
+"text": "les",
+"start": 20.67,
+"end": 20.71
+},
+{
+"text": "ossements",
+"start": 20.79,
+"end": 21.27
+},
+{
+"text": "de",
+"start": 21.31,
+"end": 21.35
+},
+{
+"text": "millions",
+"start": 21.51,
+"end": 21.91
+},
+{
+"text": "de",
+"start": 21.99,
+"end": 22.07
+},
+{
+"text": "Parisiens.",
+"start": 22.15,
+"end": 22.63
+},
+{
+"text": "Tu",
+"start": 22.79,
+"end": 22.95
+},
+{
+"text": "as",
+"start": 22.99,
+"end": 23.03
+},
+{
+"text": "une",
+"start": 23.11,
+"end": 23.19
+},
+{
+"text": "bougie,",
+"start": 23.23,
+"end": 23.73
+},
+{
+"text": "et",
+"start": 23.79,
+"end": 23.87
+},
+{
+"text": "ton",
+"start": 23.95,
+"end": 24.03
+},
+{
+"text": "trousseau",
+"start": 24.07,
+"end": 24.35
+},
+{
+"text": "de",
+"start": 24.39,
+"end": 24.43
+},
+{
+"text": "clés.",
+"start": 24.51,
+"end": 24.75
+},
+{
+"text": "Personne",
+"start": 24.91,
+"end": 25.39
+},
+{
+"text": "ne",
+"start": 25.47,
+"end": 25.55
+},
+{
+"text": "sait",
+"start": 25.63,
+"end": 25.79
+},
+{
+"text": "que",
+"start": 25.83,
+"end": 25.87
+},
+{
+"text": "tu",
+"start": 25.95,
+"end": 26.03
+},
+{
+"text": "es",
+"start": 26.07,
+"end": 26.11
+},
+{
+"text": "descendu.",
+"start": 26.23,
+"end": 26.67
+},
+{
+"text": "Selon",
+"start": 26.93,
+"end": 27.17
+},
+{
+"text": "la",
+"start": 27.21,
+"end": 27.25
+},
+{
+"text": "légende,",
+"start": 27.33,
+"end": 28.05
+},
+{
+"text": "tu",
+"start": 28.09,
+"end": 28.13
+},
+{
+"text": "cherchais",
+"start": 28.21,
+"end": 28.53
+},
+{
+"text": "une",
+"start": 28.61,
+"end": 28.69
+},
+{
+"text": "bouteille",
+"start": 28.77,
+"end": 29.01
+},
+{
+"text": "de",
+"start": 29.09,
+"end": 29.13
+},
+{
+"text": "liqueur.",
+"start": 29.17,
+"end": 29.73
+},
+{
+"text": "Tu",
+"start": 29.93,
+"end": 30.01
+},
+{
+"text": "avances.",
+"start": 30.09,
+"end": 30.73
+},
+{
+"text": "Peut-être",
+"start": 30.79,
+"end": 31.19
+},
+{
+"text": "que",
+"start": 31.27,
+"end": 31.31
+},
+{
+"text": "ta",
+"start": 31.35,
+"end": 31.43
+},
+{
+"text": "lumière",
+"start": 31.51,
+"end": 31.75
+},
+{
+"text": "s'éteint.",
+"start": 31.83,
+"end": 32.36
+},
+{
+"text": "Tu",
+"start": 32.44,
+"end": 32.52
+},
+{
+"text": "tournes",
+"start": 32.56,
+"end": 32.76
+},
+{
+"text": "à",
+"start": 32.8,
+"end": 32.84
+},
+{
+"text": "gauche,",
+"start": 32.92,
+"end": 33.56
+},
+{
+"text": "puis",
+"start": 33.6,
+"end": 33.72
+},
+{
+"text": "à",
+"start": 33.76,
+"end": 33.8
+},
+{
+"text": "droite.",
+"start": 33.88,
+"end": 34.28
+},
+{
+"text": "Chaque",
+"start": 34.52,
+"end": 34.84
+},
+{
+"text": "couloir",
+"start": 34.92,
+"end": 35.4
+},
+{
+"text": "ressemble",
+"start": 35.56,
+"end": 35.96
+},
+{
+"text": "au",
+"start": 36.0,
+"end": 36.04
+},
+{
+"text": "précédent.",
+"start": 36.12,
+"end": 36.78
+},
+{
+"text": "Le",
+"start": 36.86,
+"end": 36.94
+},
+{
+"text": "trois",
+"start": 37.02,
+"end": 37.18
+},
+{
+"text": "novembre",
+"start": 37.26,
+"end": 37.66
+},
+{
+"text": "dix-sept",
+"start": 37.74,
+"end": 38.06
+},
+{
+"text": "cent",
+"start": 38.14,
+"end": 38.22
+},
+{
+"text": "quatre-vingt-treize,",
+"start": 38.3,
+"end": 39.31
+},
+{
+"text": "tu",
+"start": 39.39,
+"end": 39.47
+},
+{
+"text": "disparais.",
+"start": 39.59,
+"end": 40.18
+},
+{
+"text": "Et",
+"start": 40.26,
+"end": 40.42
+},
+{
+"text": "personne",
+"start": 40.5,
+"end": 40.98
+},
+{
+"text": "ne",
+"start": 41.02,
+"end": 41.06
+},
+{
+"text": "te",
+"start": 41.14,
+"end": 41.22
+},
+{
+"text": "retrouve.",
+"start": 41.3,
+"end": 41.89
+},
+{
+"text": "Onze",
+"start": 42.0,
+"end": 42.24
+},
+{
+"text": "ans",
+"start": 42.32,
+"end": 42.4
+},
+{
+"text": "passent.",
+"start": 42.48,
+"end": 42.96
+},
+{
+"text": "En",
+"start": 43.15,
+"end": 43.23
+},
+{
+"text": "dix-huit",
+"start": 43.31,
+"end": 43.55
+},
+{
+"text": "cent",
+"start": 43.63,
+"end": 43.71
+},
+{
+"text": "quatre,",
+"start": 43.87,
+"end": 44.35
+},
+{
+"text": "on",
+"start": 44.43,
+"end": 44.51
+},
+{
+"text": "découvre",
+"start": 44.55,
+"end": 44.91
+},
+{
+"text": "un",
+"start": 44.99,
+"end": 45.07
+},
+{
+"text": "corps",
+"start": 45.15,
+"end": 45.31
+},
+{
+"text": "dans",
+"start": 45.35,
+"end": 45.47
+},
+{
+"text": "une",
+"start": 45.55,
+"end": 45.63
+},
+{
+"text": "galerie,",
+"start": 45.71,
+"end": 46.27
+},
+{
+"text": "sous",
+"start": 46.31,
+"end": 46.43
+},
+{
+"text": "la",
+"start": 46.47,
+"end": 46.51
+},
+{
+"text": "rue",
+"start": 46.59,
+"end": 46.67
+},
+{
+"text": "d'Enfer.",
+"start": 46.71,
+"end": 47.35
+},
+{
+"text": "Il",
+"start": 47.46,
+"end": 47.54
+},
+{
+"text": "porte",
+"start": 47.62,
+"end": 47.86
+},
+{
+"text": "un",
+"start": 47.9,
+"end": 47.94
+},
+{
+"text": "trousseau",
+"start": 47.98,
+"end": 48.26
+},
+{
+"text": "de",
+"start": 48.3,
+"end": 48.34
+},
+{
+"text": "clés.",
+"start": 48.42,
+"end": 48.76
+},
+{
+"text": "Celui",
+"start": 48.92,
+"end": 49.16
+},
+{
+"text": "du",
+"start": 49.24,
+"end": 49.32
+},
+{
+"text": "Val-de-Grâce.",
+"start": 49.4,
+"end": 50.12
+},
+{
+"text": "C'est",
+"start": 50.38,
+"end": 50.54
+},
+{
+"text": "toi.",
+"start": 50.66,
+"end": 50.86
+},
+{
+"text": "On",
+"start": 51.01,
+"end": 51.09
+},
+{
+"text": "t'enterre",
+"start": 51.17,
+"end": 51.57
+},
+{
+"text": "sur",
+"start": 51.65,
+"end": 51.73
+},
+{
+"text": "place.",
+"start": 51.81,
+"end": 52.36
+},
+{
+"text": "Aujourd'hui,",
+"start": 52.49,
+"end": 53.29
+},
+{
+"text": "ta",
+"start": 53.37,
+"end": 53.45
+},
+{
+"text": "tombe",
+"start": 53.53,
+"end": 53.77
+},
+{
+"text": "existe",
+"start": 53.85,
+"end": 54.17
+},
+{
+"text": "toujours.",
+"start": 54.25,
+"end": 54.81
+},
+{
+"text": "Et",
+"start": 54.98,
+"end": 55.14
+},
+{
+"text": "toi,",
+"start": 55.26,
+"end": 55.7
+},
+{
+"text": "la",
+"start": 55.78,
+"end": 55.86
+},
+{
+"text": "bougie",
+"start": 55.9,
+"end": 56.18
+},
+{
+"text": "éteinte,",
+"start": 56.26,
+"end": 56.98
+},
+{
+"text": "dans",
+"start": 57.02,
+"end": 57.1
+},
+{
+"text": "le",
+"start": 57.14,
+"end": 57.22
+},
+{
+"text": "noir,",
+"start": 57.3,
+"end": 57.81
+},
+{
+"text": "tu",
+"start": 57.89,
+"end": 57.97
+},
+{
+"text": "aurais",
+"start": 58.01,
+"end": 58.21
+},
+{
+"text": "fait",
+"start": 58.29,
+"end": 58.37
+},
+{
+"text": "quoi",
+"start": 58.45,
+"end": 58.53
+},
+{
+"text": "N'hésite",
+"start": 58.85,
+"end": 59.17
+},
+{
+"text": "pas",
+"start": 59.25,
+"end": 59.29
+},
+{
+"text": "à",
+"start": 59.33,
+"end": 59.37
+},
+{
+"text": "t'abonner",
+"start": 59.41,
+"end": 59.81
+},
+{
+"text": "si",
+"start": 59.89,
+"end": 59.97
+},
+{
+"text": "tu",
+"start": 60.05,
+"end": 60.13
+},
+{
+"text": "aimes",
+"start": 60.183,
+"end": 60.29
+},
+{
+"text": "ce",
+"start": 60.33,
+"end": 60.37
+},
+{
+"text": "genre",
+"start": 60.45,
+"end": 60.61
+},
+{
+"text": "de",
+"start": 60.65,
+"end": 60.69
+},
+{
+"text": "contenu.",
+"start": 60.81,
+"end": 61.41
+}
+],
+"dur": 61.92997732426304,
+"cuts": [
+[
+2.75,
+3.04
+],
+[
+5.38,
+5.86
+],
+[
+6.83,
+7.06
+],
+[
+9.51,
+9.71
+],
+[
+12.799999999999999,
+13.090000000000002
+],
+[
+14.44,
+15.22
+],
+[
+18.54,
+18.68
+],
+[
+21.03,
+21.19
+],
+[
+25.3,
+25.86
+],
+[
+26.86,
+26.98
+],
+[
+28.08,
+28.400000000000002
+],
+[
+30.34,
+30.720000000000002
+],
+[
+33.76,
+34.28
+],
+[
+35.2,
+35.46
+],
+[
+37.04,
+37.39
+],
+[
+39.45,
+39.690000000000005
+],
+[
+42.01,
+42.47
+],
+[
+45.03,
+45.14
+],
+[
+46.05,
+46.38
+],
+[
+48.11,
+48.85
+],
+[
+50.01,
+50.22
+],
+[
+54.52,
+54.77
+],
+[
+56.18,
+56.4
+],
+[
+57.84,
+58.14
+],
+[
+58.86,
+59.190000000000005
+],
+[
+60.63,
+60.910000000000004
+],
+[
+63.46,
+63.77
+],
+[
+66.63,
+66.84
+],
+[
+67.79,
+68.43
+]
+]
+}
