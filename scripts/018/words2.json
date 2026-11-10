@@ -1,0 +1,737 @@
+{
+"words": [
+{
+"text": "34",
+"start": 0.0,
+"end": 0.219,
+"ph": 0
+},
+{
+"text": "ans",
+"start": 0.219,
+"end": 0.511,
+"ph": 0
+},
+{
+"text": "de",
+"start": 0.511,
+"end": 0.729,
+"ph": 0
+},
+{
+"text": "prison.",
+"start": 0.729,
+"end": 1.24,
+"ph": 0
+},
+{
+"text": "S'il",
+"start": 1.46,
+"end": 1.72,
+"ph": 1
+},
+{
+"text": "parlait,",
+"start": 1.72,
+"end": 2.24,
+"ph": 1
+},
+{
+"text": "on",
+"start": 2.54,
+"end": 2.692,
+"ph": 2
+},
+{
+"text": "le",
+"start": 2.692,
+"end": 2.845,
+"ph": 2
+},
+{
+"text": "tuait.",
+"start": 2.845,
+"end": 3.15,
+"ph": 2
+},
+{
+"text": "Et",
+"start": 3.37,
+"end": 3.523,
+"ph": 3
+},
+{
+"text": "aujourd'hui",
+"start": 3.523,
+"end": 4.083,
+"ph": 3
+},
+{
+"text": "encore,",
+"start": 4.083,
+"end": 4.44,
+"ph": 3
+},
+{
+"text": "personne",
+"start": 4.66,
+"end": 5.134,
+"ph": 4
+},
+{
+"text": "ne",
+"start": 5.134,
+"end": 5.292,
+"ph": 4
+},
+{
+"text": "sait",
+"start": 5.292,
+"end": 5.555,
+"ph": 4
+},
+{
+"text": "qui",
+"start": 5.555,
+"end": 5.766,
+"ph": 4
+},
+{
+"text": "il",
+"start": 5.766,
+"end": 5.924,
+"ph": 4
+},
+{
+"text": "était.",
+"start": 5.924,
+"end": 6.24,
+"ph": 4
+},
+{
+"text": "Juillet",
+"start": 6.46,
+"end": 7.354,
+"ph": 5
+},
+{
+"text": "1669.",
+"start": 7.354,
+"end": 8.36,
+"ph": 5
+},
+{
+"text": "Un",
+"start": 8.58,
+"end": 8.712,
+"ph": 6
+},
+{
+"text": "homme",
+"start": 8.712,
+"end": 8.976,
+"ph": 6
+},
+{
+"text": "est",
+"start": 8.976,
+"end": 9.152,
+"ph": 6
+},
+{
+"text": "arrêté",
+"start": 9.152,
+"end": 9.46,
+"ph": 6
+},
+{
+"text": "près",
+"start": 9.46,
+"end": 9.68,
+"ph": 6
+},
+{
+"text": "de",
+"start": 9.68,
+"end": 9.812,
+"ph": 6
+},
+{
+"text": "Calais.",
+"start": 9.812,
+"end": 10.12,
+"ph": 6
+},
+{
+"text": "Sur",
+"start": 10.34,
+"end": 10.598,
+"ph": 7
+},
+{
+"text": "l'ordre,",
+"start": 10.598,
+"end": 11.05,
+"ph": 7
+},
+{
+"text": "un",
+"start": 11.27,
+"end": 11.418,
+"ph": 8
+},
+{
+"text": "seul",
+"start": 11.418,
+"end": 11.663,
+"ph": 8
+},
+{
+"text": "nom :",
+"start": 11.663,
+"end": 11.86,
+"ph": 8
+},
+{
+"text": "Eustache",
+"start": 12.08,
+"end": 12.637,
+"ph": 9
+},
+{
+"text": "Dauger.",
+"start": 12.637,
+"end": 13.07,
+"ph": 9
+},
+{
+"text": "Son",
+"start": 13.29,
+"end": 13.544,
+"ph": 10
+},
+{
+"text": "geôlier,",
+"start": 13.544,
+"end": 14.053,
+"ph": 10
+},
+{
+"text": "Saint-Mars,",
+"start": 14.053,
+"end": 14.689,
+"ph": 10
+},
+{
+"text": "reçoit",
+"start": 14.689,
+"end": 15.134,
+"ph": 10
+},
+{
+"text": "une",
+"start": 15.134,
+"end": 15.388,
+"ph": 10
+},
+{
+"text": "consigne :",
+"start": 15.388,
+"end": 15.96,
+"ph": 10
+},
+{
+"text": "s'il",
+"start": 16.18,
+"end": 16.384,
+"ph": 11
+},
+{
+"text": "parle",
+"start": 16.384,
+"end": 16.69,
+"ph": 11
+},
+{
+"text": "d'autre",
+"start": 16.69,
+"end": 17.046,
+"ph": 11
+},
+{
+"text": "chose",
+"start": 17.046,
+"end": 17.352,
+"ph": 11
+},
+{
+"text": "que",
+"start": 17.352,
+"end": 17.556,
+"ph": 11
+},
+{
+"text": "de",
+"start": 17.556,
+"end": 17.709,
+"ph": 11
+},
+{
+"text": "ses",
+"start": 17.709,
+"end": 17.912,
+"ph": 11
+},
+{
+"text": "besoins...",
+"start": 17.912,
+"end": 18.32,
+"ph": 11
+},
+{
+"text": "on",
+"start": 18.82,
+"end": 18.973,
+"ph": 12
+},
+{
+"text": "le",
+"start": 18.973,
+"end": 19.126,
+"ph": 12
+},
+{
+"text": "tue.",
+"start": 19.126,
+"end": 19.33,
+"ph": 12
+},
+{
+"text": "Pendant",
+"start": 19.55,
+"end": 20.142,
+"ph": 13
+},
+{
+"text": "34",
+"start": 20.142,
+"end": 20.364,
+"ph": 13
+},
+{
+"text": "ans,",
+"start": 20.364,
+"end": 20.66,
+"ph": 13
+},
+{
+"text": "il",
+"start": 20.88,
+"end": 21.04,
+"ph": 14
+},
+{
+"text": "le",
+"start": 21.04,
+"end": 21.199,
+"ph": 14
+},
+{
+"text": "suit",
+"start": 21.199,
+"end": 21.465,
+"ph": 14
+},
+{
+"text": "de",
+"start": 21.465,
+"end": 21.625,
+"ph": 14
+},
+{
+"text": "prison",
+"start": 21.625,
+"end": 21.998,
+"ph": 14
+},
+{
+"text": "en",
+"start": 21.998,
+"end": 22.157,
+"ph": 14
+},
+{
+"text": "prison.",
+"start": 22.157,
+"end": 22.53,
+"ph": 14
+},
+{
+"text": "Pignerol.",
+"start": 22.75,
+"end": 23.38,
+"ph": 15
+},
+{
+"text": "Sainte-Marguerite.",
+"start": 23.6,
+"end": 24.56,
+"ph": 16
+},
+{
+"text": "La",
+"start": 24.78,
+"end": 24.96,
+"ph": 17
+},
+{
+"text": "Bastille.",
+"start": 24.96,
+"end": 25.5,
+"ph": 17
+},
+{
+"text": "Quand",
+"start": 25.72,
+"end": 26.034,
+"ph": 18
+},
+{
+"text": "il",
+"start": 26.034,
+"end": 26.191,
+"ph": 18
+},
+{
+"text": "voyage,",
+"start": 26.191,
+"end": 26.558,
+"ph": 18
+},
+{
+"text": "ou",
+"start": 26.558,
+"end": 26.715,
+"ph": 18
+},
+{
+"text": "quand",
+"start": 26.715,
+"end": 27.03,
+"ph": 18
+},
+{
+"text": "il",
+"start": 27.03,
+"end": 27.187,
+"ph": 18
+},
+{
+"text": "va",
+"start": 27.187,
+"end": 27.344,
+"ph": 18
+},
+{
+"text": "à",
+"start": 27.344,
+"end": 27.449,
+"ph": 18
+},
+{
+"text": "la",
+"start": 27.449,
+"end": 27.606,
+"ph": 18
+},
+{
+"text": "messe,",
+"start": 27.606,
+"end": 27.92,
+"ph": 18
+},
+{
+"text": "on",
+"start": 28.14,
+"end": 28.296,
+"ph": 19
+},
+{
+"text": "lui",
+"start": 28.296,
+"end": 28.505,
+"ph": 19
+},
+{
+"text": "couvre",
+"start": 28.505,
+"end": 28.869,
+"ph": 19
+},
+{
+"text": "le",
+"start": 28.869,
+"end": 29.025,
+"ph": 19
+},
+{
+"text": "visage.",
+"start": 29.025,
+"end": 29.39,
+"ph": 19
+},
+{
+"text": "Il",
+"start": 29.61,
+"end": 29.814,
+"ph": 20
+},
+{
+"text": "meurt",
+"start": 29.814,
+"end": 30.223,
+"ph": 20
+},
+{
+"text": "en",
+"start": 30.223,
+"end": 30.427,
+"ph": 20
+},
+{
+"text": "1703.",
+"start": 30.427,
+"end": 31.04,
+"ph": 20
+},
+{
+"text": "On",
+"start": 31.26,
+"end": 31.388,
+"ph": 21
+},
+{
+"text": "l'enterre",
+"start": 31.388,
+"end": 31.773,
+"ph": 21
+},
+{
+"text": "sous",
+"start": 31.773,
+"end": 31.987,
+"ph": 21
+},
+{
+"text": "un",
+"start": 31.987,
+"end": 32.115,
+"ph": 21
+},
+{
+"text": "faux",
+"start": 32.115,
+"end": 32.329,
+"ph": 21
+},
+{
+"text": "nom :",
+"start": 32.329,
+"end": 32.5,
+"ph": 21
+},
+{
+"text": "Marchioly.",
+"start": 32.95,
+"end": 33.57,
+"ph": 22
+},
+{
+"text": "Voltaire",
+"start": 33.79,
+"end": 34.334,
+"ph": 23
+},
+{
+"text": "parlera",
+"start": 34.334,
+"end": 34.817,
+"ph": 23
+},
+{
+"text": "d'un",
+"start": 34.817,
+"end": 35.058,
+"ph": 23
+},
+{
+"text": "demi-frère",
+"start": 35.058,
+"end": 35.662,
+"ph": 23
+},
+{
+"text": "caché",
+"start": 35.662,
+"end": 36.025,
+"ph": 23
+},
+{
+"text": "de",
+"start": 36.025,
+"end": 36.206,
+"ph": 23
+},
+{
+"text": "Louis",
+"start": 36.206,
+"end": 36.568,
+"ph": 23
+},
+{
+"text": "XIV.",
+"start": 36.568,
+"end": 36.81,
+"ph": 23
+},
+{
+"text": "Personne",
+"start": 37.03,
+"end": 37.452,
+"ph": 24
+},
+{
+"text": "ne",
+"start": 37.452,
+"end": 37.593,
+"ph": 24
+},
+{
+"text": "l'a",
+"start": 37.593,
+"end": 37.733,
+"ph": 24
+},
+{
+"text": "jamais",
+"start": 37.733,
+"end": 38.062,
+"ph": 24
+},
+{
+"text": "prouvé.",
+"start": 38.062,
+"end": 38.39,
+"ph": 24
+},
+{
+"text": "Et",
+"start": 38.69,
+"end": 38.853,
+"ph": 25
+},
+{
+"text": "toi,",
+"start": 38.853,
+"end": 39.07,
+"ph": 25
+},
+{
+"text": "tu",
+"start": 39.29,
+"end": 39.4,
+"ph": 26
+},
+{
+"text": "crois",
+"start": 39.4,
+"end": 39.62,
+"ph": 26
+},
+{
+"text": "qu'il",
+"start": 39.62,
+"end": 39.803,
+"ph": 26
+},
+{
+"text": "était",
+"start": 39.803,
+"end": 40.023,
+"ph": 26
+},
+{
+"text": "qui ?",
+"start": 40.023,
+"end": 40.17,
+"ph": 26
+},
+{
+"text": "N'hésite",
+"start": 40.39,
+"end": 40.707,
+"ph": 27
+},
+{
+"text": "pas",
+"start": 40.707,
+"end": 40.866,
+"ph": 27
+},
+{
+"text": "à",
+"start": 40.866,
+"end": 40.945,
+"ph": 27
+},
+{
+"text": "t'abonner",
+"start": 40.945,
+"end": 41.302,
+"ph": 27
+},
+{
+"text": "si",
+"start": 41.302,
+"end": 41.421,
+"ph": 27
+},
+{
+"text": "tu",
+"start": 41.421,
+"end": 41.539,
+"ph": 27
+},
+{
+"text": "aimes",
+"start": 41.539,
+"end": 41.777,
+"ph": 27
+},
+{
+"text": "ce",
+"start": 41.777,
+"end": 41.896,
+"ph": 27
+},
+{
+"text": "genre",
+"start": 41.896,
+"end": 42.134,
+"ph": 27
+},
+{
+"text": "de",
+"start": 42.134,
+"end": 42.253,
+"ph": 27
+},
+{
+"text": "contenu.",
+"start": 42.253,
+"end": 42.57,
+"ph": 27
+}
+],
+"dur": 43.16997732426304
+}
