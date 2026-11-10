@@ -113,8 +113,8 @@ def camera(world, t, rel, dur, focus, shot_idx, shake):
     p = (rel - t0)/max(1e-6, t1 - t0)
     fx, fy = focus[ch % len(focus)]
     if ch % 2 == 0: z0, z1 = 1.0, 1.1; fx, fy = (W/2, H/2)
-    else: z0, z1 = 1.28, 1.38
-    if shot_idx in (0, 1) and ch == 0: z0, z1 = 1.05, 1.18; fx, fy = focus[0]
+    else: z0, z1 = 1.16, 1.24; fy = min(max(fy, 980), 1080)
+    if shot_idx in (0, 1) and ch == 0: z0, z1 = 1.05, 1.12; fx, fy = W/2, H/2
     z = z0 + (z1 - z0)*p
     cx = fx + shake[0]; cy = fy + shake[1]
     vw, vh = W/z, H/z
@@ -142,21 +142,34 @@ def frame_at(S, idx, fr, fa, dur, vig):
     frame = ImageChops.multiply(frame, vig)
     if flash:
         ov = Image.new("RGB", (W, H), flash[0]); frame = Image.blend(frame, ov, flash[1])
-    d = None
+    frame = Image.composite(Image.new("RGB", (W, H), (6, 4, 4)), frame, SCRIM)
+    cur = {}
     for (text, col, size, tstart, y) in S["titles"]:
         if t < tstart: continue
+        slot = 0 if y < 500 else 1
+        if slot not in cur or tstart >= cur[slot][3]: cur[slot] = (text, col, size, tstart)
+    for slot, (text, col, size, tstart) in cur.items():
         age = t - tstart
-        if text == "#COUNT#":
-            c0, c1, tot = S["count"]; p = min(1, max(0, (t - c0)/(c1 - c0))); text = str(int(round(tot*p)))
-        lay = title_layer(text, col, size)
-        sc = 1.0 + 0.35*max(0, 1 - age/0.16)**2
+        if "#COUNT#" in text:
+            c0, c1, tot = S["count"]; p = min(1, max(0, (t - c0)/(c1 - c0))); text = text.replace("#COUNT#", str(max(1, int(round(tot*p)))))
+        size = min(size, 84 if slot == 0 else 100)
+        base = title_layer(text, col, size); lay = base
+        sc = 1.0 + 0.15*max(0, 1 - age/0.16)**2
         if sc > 1.005: lay = lay.resize((int(lay.width*sc), int(lay.height*sc)), BI)
-        if age < 0.05: lay = lay.copy(); lay.putalpha(lay.getchannel("A").point(lambda v: int(v*age/0.05)))
-        frame.paste(lay, (int(470 - lay.width/2), int(y - (lay.height - title_layer(text, col, size).height)/2)), lay)
-
+        if age < 0.06: lay = lay.copy(); lay.putalpha(lay.getchannel("A").point(lambda v: int(v*age/0.06)))
+        yy = SLOT_Y[slot]
+        frame.paste(lay, (int(470 - lay.width/2), int(yy - (lay.height - base.height)/2)), lay)
     return frame
 
 _SH = None
+SLOT_Y = (412, 530)
+def _scrim():
+    yy = np.arange(H, dtype=np.float32)
+    a = np.where(yy < 380, 0.25 + 0.35*yy/380, np.where(yy < 840, 0.6, np.clip(0.6*(1 - (yy - 840)/140), 0, 1)))
+    a[:270] = np.minimum(a[:270], 0.35)
+    m = (np.repeat(a[:, None], W, 1)*255).astype(np.uint8)
+    return Image.fromarray(m, "L")
+SCRIM = _scrim()
 def all_shots():
     global _SH
     if _SH is None: _SH = shot_defs()
