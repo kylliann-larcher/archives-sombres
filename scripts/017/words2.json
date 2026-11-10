@@ -1,0 +1,653 @@
+{
+"words": [
+{
+"text": "Si",
+"start": 0.0,
+"end": 0.193,
+"ph": 0
+},
+{
+"text": "tu",
+"start": 0.193,
+"end": 0.386,
+"ph": 0
+},
+{
+"text": "me",
+"start": 0.386,
+"end": 0.579,
+"ph": 0
+},
+{
+"text": "vois,",
+"start": 0.579,
+"end": 0.9,
+"ph": 0
+},
+{
+"text": "pleure.",
+"start": 1.12,
+"end": 1.6,
+"ph": 1
+},
+{
+"text": "C'est",
+"start": 1.95,
+"end": 2.198,
+"ph": 2
+},
+{
+"text": "gravé",
+"start": 2.198,
+"end": 2.496,
+"ph": 2
+},
+{
+"text": "sur",
+"start": 2.496,
+"end": 2.694,
+"ph": 2
+},
+{
+"text": "une",
+"start": 2.694,
+"end": 2.893,
+"ph": 2
+},
+{
+"text": "pierre.",
+"start": 2.893,
+"end": 3.24,
+"ph": 2
+},
+{
+"text": "Et",
+"start": 3.46,
+"end": 3.654,
+"ph": 3
+},
+{
+"text": "le",
+"start": 3.654,
+"end": 3.847,
+"ph": 3
+},
+{
+"text": "pire,",
+"start": 3.847,
+"end": 4.17,
+"ph": 3
+},
+{
+"text": "c'est",
+"start": 4.39,
+"end": 4.603,
+"ph": 4
+},
+{
+"text": "qu'elle",
+"start": 4.603,
+"end": 4.901,
+"ph": 4
+},
+{
+"text": "continue",
+"start": 4.901,
+"end": 5.284,
+"ph": 4
+},
+{
+"text": "de",
+"start": 5.284,
+"end": 5.412,
+"ph": 4
+},
+{
+"text": "sortir",
+"start": 5.412,
+"end": 5.709,
+"ph": 4
+},
+{
+"text": "de",
+"start": 5.709,
+"end": 5.837,
+"ph": 4
+},
+{
+"text": "l'eau.",
+"start": 5.837,
+"end": 6.05,
+"ph": 4
+},
+{
+"text": "Elle",
+"start": 6.27,
+"end": 6.52,
+"ph": 5
+},
+{
+"text": "dort",
+"start": 6.52,
+"end": 6.77,
+"ph": 5
+},
+{
+"text": "au",
+"start": 6.77,
+"end": 6.92,
+"ph": 5
+},
+{
+"text": "fond",
+"start": 6.92,
+"end": 7.17,
+"ph": 5
+},
+{
+"text": "de",
+"start": 7.17,
+"end": 7.32,
+"ph": 5
+},
+{
+"text": "l'Elbe,",
+"start": 7.32,
+"end": 7.62,
+"ph": 5
+},
+{
+"text": "en",
+"start": 7.84,
+"end": 7.975,
+"ph": 6
+},
+{
+"text": "Tchéquie.",
+"start": 7.975,
+"end": 8.38,
+"ph": 6
+},
+{
+"text": "Autrefois,",
+"start": 8.6,
+"end": 9.22,
+"ph": 7
+},
+{
+"text": "on",
+"start": 9.44,
+"end": 9.569,
+"ph": 8
+},
+{
+"text": "ne",
+"start": 9.569,
+"end": 9.698,
+"ph": 8
+},
+{
+"text": "la",
+"start": 9.698,
+"end": 9.827,
+"ph": 8
+},
+{
+"text": "voyait",
+"start": 9.827,
+"end": 10.129,
+"ph": 8
+},
+{
+"text": "que",
+"start": 10.129,
+"end": 10.301,
+"ph": 8
+},
+{
+"text": "quand",
+"start": 10.301,
+"end": 10.559,
+"ph": 8
+},
+{
+"text": "le",
+"start": 10.559,
+"end": 10.688,
+"ph": 8
+},
+{
+"text": "fleuve",
+"start": 10.688,
+"end": 10.989,
+"ph": 8
+},
+{
+"text": "était",
+"start": 10.989,
+"end": 11.248,
+"ph": 8
+},
+{
+"text": "presque",
+"start": 11.248,
+"end": 11.592,
+"ph": 8
+},
+{
+"text": "à",
+"start": 11.592,
+"end": 11.678,
+"ph": 8
+},
+{
+"text": "sec.",
+"start": 11.678,
+"end": 11.85,
+"ph": 8
+},
+{
+"text": "Alors,",
+"start": 12.07,
+"end": 12.427,
+"ph": 9
+},
+{
+"text": "à",
+"start": 12.427,
+"end": 12.546,
+"ph": 9
+},
+{
+"text": "chaque",
+"start": 12.546,
+"end": 12.963,
+"ph": 9
+},
+{
+"text": "fois,",
+"start": 12.963,
+"end": 13.26,
+"ph": 9
+},
+{
+"text": "quelqu'un",
+"start": 13.48,
+"end": 13.868,
+"ph": 10
+},
+{
+"text": "y",
+"start": 13.868,
+"end": 13.954,
+"ph": 10
+},
+{
+"text": "gravait",
+"start": 13.954,
+"end": 14.298,
+"ph": 10
+},
+{
+"text": "l'année.",
+"start": 14.298,
+"end": 14.6,
+"ph": 10
+},
+{
+"text": "Et",
+"start": 14.82,
+"end": 14.977,
+"ph": 11
+},
+{
+"text": "ses",
+"start": 14.977,
+"end": 15.186,
+"ph": 11
+},
+{
+"text": "initiales.",
+"start": 15.186,
+"end": 15.71,
+"ph": 11
+},
+{
+"text": "Parce",
+"start": 15.93,
+"end": 16.244,
+"ph": 12
+},
+{
+"text": "qu'un",
+"start": 16.244,
+"end": 16.505,
+"ph": 12
+},
+{
+"text": "fleuve",
+"start": 16.505,
+"end": 16.871,
+"ph": 12
+},
+{
+"text": "à",
+"start": 16.871,
+"end": 16.975,
+"ph": 12
+},
+{
+"text": "sec,",
+"start": 16.975,
+"end": 17.184,
+"ph": 12
+},
+{
+"text": "ça",
+"start": 17.184,
+"end": 17.341,
+"ph": 12
+},
+{
+"text": "voulait",
+"start": 17.341,
+"end": 17.759,
+"ph": 12
+},
+{
+"text": "dire :",
+"start": 17.759,
+"end": 18.02,
+"ph": 12
+},
+{
+"text": "récoltes",
+"start": 18.24,
+"end": 18.812,
+"ph": 13
+},
+{
+"text": "perdues,",
+"start": 18.812,
+"end": 19.32,
+"ph": 13
+},
+{
+"text": "prix",
+"start": 19.54,
+"end": 19.776,
+"ph": 14
+},
+{
+"text": "qui",
+"start": 19.776,
+"end": 19.965,
+"ph": 14
+},
+{
+"text": "flambent...",
+"start": 19.965,
+"end": 20.39,
+"ph": 14
+},
+{
+"text": "et",
+"start": 20.84,
+"end": 20.96,
+"ph": 15
+},
+{
+"text": "la",
+"start": 20.96,
+"end": 21.08,
+"ph": 15
+},
+{
+"text": "faim.",
+"start": 21.08,
+"end": 21.28,
+"ph": 15
+},
+{
+"text": "On",
+"start": 21.5,
+"end": 21.643,
+"ph": 16
+},
+{
+"text": "les",
+"start": 21.643,
+"end": 21.833,
+"ph": 16
+},
+{
+"text": "appelle",
+"start": 21.833,
+"end": 22.214,
+"ph": 16
+},
+{
+"text": "les",
+"start": 22.214,
+"end": 22.405,
+"ph": 16
+},
+{
+"text": "pierres",
+"start": 22.405,
+"end": 22.786,
+"ph": 16
+},
+{
+"text": "de",
+"start": 22.786,
+"end": 22.929,
+"ph": 16
+},
+{
+"text": "la",
+"start": 22.929,
+"end": 23.072,
+"ph": 16
+},
+{
+"text": "faim.",
+"start": 23.072,
+"end": 23.31,
+"ph": 16
+},
+{
+"text": "Sur",
+"start": 23.53,
+"end": 23.76,
+"ph": 17
+},
+{
+"text": "celle-ci :",
+"start": 23.76,
+"end": 24.22,
+"ph": 17
+},
+{
+"text": "1616.",
+"start": 24.44,
+"end": 25.45,
+"ph": 18
+},
+{
+"text": "1707.",
+"start": 25.67,
+"end": 26.72,
+"ph": 19
+},
+{
+"text": "1893.",
+"start": 26.94,
+"end": 28.37,
+"ph": 20
+},
+{
+"text": "Et",
+"start": 28.59,
+"end": 28.84,
+"ph": 21
+},
+{
+"text": "en",
+"start": 28.84,
+"end": 29.09,
+"ph": 21
+},
+{
+"text": "2018,",
+"start": 29.09,
+"end": 29.84,
+"ph": 21
+},
+{
+"text": "puis",
+"start": 30.06,
+"end": 30.431,
+"ph": 22
+},
+{
+"text": "en",
+"start": 30.431,
+"end": 30.653,
+"ph": 22
+},
+{
+"text": "2022...",
+"start": 30.653,
+"end": 31.32,
+"ph": 22
+},
+{
+"text": "elle",
+"start": 31.82,
+"end": 32.037,
+"ph": 23
+},
+{
+"text": "est",
+"start": 32.037,
+"end": 32.211,
+"ph": 23
+},
+{
+"text": "encore",
+"start": 32.211,
+"end": 32.515,
+"ph": 23
+},
+{
+"text": "ressortie.",
+"start": 32.515,
+"end": 32.95,
+"ph": 23
+},
+{
+"text": "Et",
+"start": 33.25,
+"end": 33.413,
+"ph": 24
+},
+{
+"text": "toi,",
+"start": 33.413,
+"end": 33.63,
+"ph": 24
+},
+{
+"text": "tu",
+"start": 33.85,
+"end": 33.974,
+"ph": 25
+},
+{
+"text": "graverais",
+"start": 33.974,
+"end": 34.386,
+"ph": 25
+},
+{
+"text": "quoi",
+"start": 34.386,
+"end": 34.592,
+"ph": 25
+},
+{
+"text": "dessus ?",
+"start": 34.592,
+"end": 34.88,
+"ph": 25
+},
+{
+"text": "N'hésite",
+"start": 35.1,
+"end": 35.432,
+"ph": 26
+},
+{
+"text": "pas",
+"start": 35.432,
+"end": 35.597,
+"ph": 26
+},
+{
+"text": "à",
+"start": 35.597,
+"end": 35.68,
+"ph": 26
+},
+{
+"text": "t'abonner",
+"start": 35.68,
+"end": 36.053,
+"ph": 26
+},
+{
+"text": "si",
+"start": 36.053,
+"end": 36.178,
+"ph": 26
+},
+{
+"text": "tu",
+"start": 36.178,
+"end": 36.302,
+"ph": 26
+},
+{
+"text": "aimes",
+"start": 36.302,
+"end": 36.551,
+"ph": 26
+},
+{
+"text": "ce",
+"start": 36.551,
+"end": 36.675,
+"ph": 26
+},
+{
+"text": "genre",
+"start": 36.675,
+"end": 36.924,
+"ph": 26
+},
+{
+"text": "de",
+"start": 36.924,
+"end": 37.048,
+"ph": 26
+},
+{
+"text": "contenu.",
+"start": 37.048,
+"end": 37.38,
+"ph": 26
+}
+],
+"dur": 37.92997732426304
+}
