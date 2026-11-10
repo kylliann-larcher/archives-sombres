@@ -1,0 +1,1195 @@
+{
+"words": [
+{
+"text": "Une",
+"start": 0.0,
+"end": 0.16
+},
+{
+"text": "ville",
+"start": 0.24,
+"end": 0.4
+},
+{
+"text": "a",
+"start": 0.44,
+"end": 0.48
+},
+{
+"text": "payé",
+"start": 0.56,
+"end": 0.72
+},
+{
+"text": "des",
+"start": 0.8,
+"end": 0.88
+},
+{
+"text": "musiciens",
+"start": 0.96,
+"end": 1.44
+},
+{
+"text": "pour",
+"start": 1.52,
+"end": 1.6
+},
+{
+"text": "soigner",
+"start": 1.68,
+"end": 2.0
+},
+{
+"text": "des",
+"start": 2.04,
+"end": 2.08
+},
+{
+"text": "gens",
+"start": 2.16,
+"end": 2.32
+},
+{
+"text": "qui",
+"start": 2.4,
+"end": 2.48
+},
+{
+"text": "dansaient",
+"start": 2.56,
+"end": 3.04
+},
+{
+"text": "sans",
+"start": 3.12,
+"end": 3.2
+},
+{
+"text": "pouvoir",
+"start": 3.28,
+"end": 3.52
+},
+{
+"text": "s'arrêter.",
+"start": 3.6,
+"end": 4.37
+},
+{
+"text": "Ça",
+"start": 4.41,
+"end": 4.49
+},
+{
+"text": "a",
+"start": 4.53,
+"end": 4.69
+},
+{
+"text": "tout",
+"start": 4.77,
+"end": 4.85
+},
+{
+"text": "empiré.",
+"start": 4.93,
+"end": 5.89
+},
+{
+"text": "Mais",
+"start": 5.93,
+"end": 5.97
+},
+{
+"text": "le",
+"start": 6.01,
+"end": 6.05
+},
+{
+"text": "plus",
+"start": 6.13,
+"end": 6.21
+},
+{
+"text": "étrange,",
+"start": 6.29,
+"end": 7.01
+},
+{
+"text": "c'est",
+"start": 7.037,
+"end": 7.09
+},
+{
+"text": "ce",
+"start": 7.17,
+"end": 7.197
+},
+{
+"text": "qu'on",
+"start": 7.223,
+"end": 7.33
+},
+{
+"text": "raconte",
+"start": 7.41,
+"end": 7.65
+},
+{
+"text": "sur",
+"start": 7.73,
+"end": 7.81
+},
+{
+"text": "les",
+"start": 7.89,
+"end": 7.97
+},
+{
+"text": "morts.",
+"start": 8.05,
+"end": 8.85
+},
+{
+"text": "Imagine",
+"start": 9.09,
+"end": 9.33
+},
+{
+"text": "tu",
+"start": 9.647,
+"end": 9.7
+},
+{
+"text": "es",
+"start": 9.74,
+"end": 9.78
+},
+{
+"text": "à",
+"start": 9.86,
+"end": 9.9
+},
+{
+"text": "Strasbourg,",
+"start": 9.94,
+"end": 10.74
+},
+{
+"text": "en",
+"start": 10.78,
+"end": 10.82
+},
+{
+"text": "juillet",
+"start": 10.98,
+"end": 11.3
+},
+{
+"text": "mille",
+"start": 11.38,
+"end": 11.46
+},
+{
+"text": "cinq",
+"start": 11.54,
+"end": 11.66
+},
+{
+"text": "cent",
+"start": 11.7,
+"end": 11.78
+},
+{
+"text": "dix-huit.",
+"start": 11.86,
+"end": 12.74
+},
+{
+"text": "Une",
+"start": 12.82,
+"end": 12.98
+},
+{
+"text": "femme",
+"start": 13.06,
+"end": 13.3
+},
+{
+"text": "sort",
+"start": 13.42,
+"end": 13.54
+},
+{
+"text": "de",
+"start": 13.58,
+"end": 13.62
+},
+{
+"text": "chez",
+"start": 13.7,
+"end": 13.86
+},
+{
+"text": "elle",
+"start": 13.94,
+"end": 14.18
+},
+{
+"text": "et",
+"start": 14.26,
+"end": 14.34
+},
+{
+"text": "se",
+"start": 14.42,
+"end": 14.5
+},
+{
+"text": "met",
+"start": 14.58,
+"end": 14.66
+},
+{
+"text": "à",
+"start": 14.7,
+"end": 14.74
+},
+{
+"text": "danser.",
+"start": 14.82,
+"end": 15.55
+},
+{
+"text": "Sans",
+"start": 15.63,
+"end": 15.71
+},
+{
+"text": "musique.",
+"start": 15.79,
+"end": 16.51
+},
+{
+"text": "Sans",
+"start": 16.59,
+"end": 16.67
+},
+{
+"text": "fête.",
+"start": 16.83,
+"end": 17.32
+},
+{
+"text": "Elle",
+"start": 17.36,
+"end": 17.48
+},
+{
+"text": "ne",
+"start": 17.52,
+"end": 17.56
+},
+{
+"text": "s'arrête",
+"start": 17.64,
+"end": 18.04
+},
+{
+"text": "plus.",
+"start": 18.16,
+"end": 18.76
+},
+{
+"text": "Quelques",
+"start": 18.8,
+"end": 19.0
+},
+{
+"text": "jours",
+"start": 19.08,
+"end": 19.16
+},
+{
+"text": "plus",
+"start": 19.24,
+"end": 19.32
+},
+{
+"text": "tard,",
+"start": 19.4,
+"end": 19.88
+},
+{
+"text": "des",
+"start": 20.0,
+"end": 20.12
+},
+{
+"text": "dizaines",
+"start": 20.16,
+"end": 20.6
+},
+{
+"text": "d'autres",
+"start": 20.707,
+"end": 20.92
+},
+{
+"text": "l'ont",
+"start": 20.947,
+"end": 21.08
+},
+{
+"text": "rejointe.",
+"start": 21.16,
+"end": 21.76
+},
+{
+"text": "Entre",
+"start": 21.84,
+"end": 22.08
+},
+{
+"text": "cinquante",
+"start": 22.16,
+"end": 22.64
+},
+{
+"text": "et",
+"start": 22.72,
+"end": 22.96
+},
+{
+"text": "quatre",
+"start": 23.0,
+"end": 23.2
+},
+{
+"text": "cents",
+"start": 23.28,
+"end": 23.44
+},
+{
+"text": "personnes,",
+"start": 23.52,
+"end": 24.0
+},
+{
+"text": "selon",
+"start": 24.08,
+"end": 24.24
+},
+{
+"text": "les",
+"start": 24.28,
+"end": 24.32
+},
+{
+"text": "estimations.",
+"start": 24.4,
+"end": 25.19
+},
+{
+"text": "Le",
+"start": 25.23,
+"end": 25.27
+},
+{
+"text": "conseil",
+"start": 25.35,
+"end": 25.59
+},
+{
+"text": "de",
+"start": 25.67,
+"end": 25.71
+},
+{
+"text": "la",
+"start": 25.75,
+"end": 25.83
+},
+{
+"text": "ville",
+"start": 25.91,
+"end": 26.15
+},
+{
+"text": "conclut",
+"start": 26.23,
+"end": 26.55
+},
+{
+"text": "à",
+"start": 26.59,
+"end": 26.63
+},
+{
+"text": "un",
+"start": 26.71,
+"end": 26.79
+},
+{
+"text": "excès",
+"start": 26.87,
+"end": 27.19
+},
+{
+"text": "de",
+"start": 27.23,
+"end": 27.27
+},
+{
+"text": "sang",
+"start": 27.43,
+"end": 27.59
+},
+{
+"text": "chaud.",
+"start": 27.67,
+"end": 28.08
+},
+{
+"text": "Son",
+"start": 28.16,
+"end": 28.24
+},
+{
+"text": "remède",
+"start": 28.32,
+"end": 28.64
+},
+{
+"text": "les",
+"start": 29.027,
+"end": 29.08
+},
+{
+"text": "faire",
+"start": 29.12,
+"end": 29.32
+},
+{
+"text": "danser",
+"start": 29.4,
+"end": 29.88
+},
+{
+"text": "encore",
+"start": 30.0,
+"end": 30.28
+},
+{
+"text": "plus.",
+"start": 30.48,
+"end": 30.94
+},
+{
+"text": "Alors",
+"start": 31.02,
+"end": 31.26
+},
+{
+"text": "on",
+"start": 31.42,
+"end": 31.5
+},
+{
+"text": "engage",
+"start": 31.58,
+"end": 31.9
+},
+{
+"text": "des",
+"start": 31.94,
+"end": 31.98
+},
+{
+"text": "musiciens",
+"start": 32.06,
+"end": 32.62
+},
+{
+"text": "et",
+"start": 32.66,
+"end": 32.7
+},
+{
+"text": "des",
+"start": 32.78,
+"end": 32.86
+},
+{
+"text": "danseurs",
+"start": 32.94,
+"end": 33.26
+},
+{
+"text": "professionnels.",
+"start": 33.46,
+"end": 34.23
+},
+{
+"text": "Selon",
+"start": 34.31,
+"end": 34.47
+},
+{
+"text": "l'historien",
+"start": 34.497,
+"end": 34.95
+},
+{
+"text": "John",
+"start": 35.03,
+"end": 35.19
+},
+{
+"text": "Waller,",
+"start": 35.23,
+"end": 35.83
+},
+{
+"text": "c'est",
+"start": 35.87,
+"end": 35.99
+},
+{
+"text": "ce",
+"start": 36.03,
+"end": 36.07
+},
+{
+"text": "qui",
+"start": 36.11,
+"end": 36.15
+},
+{
+"text": "aggrave",
+"start": 36.23,
+"end": 36.55
+},
+{
+"text": "tout.",
+"start": 36.63,
+"end": 37.01
+},
+{
+"text": "Le",
+"start": 37.05,
+"end": 37.09
+},
+{
+"text": "deux",
+"start": 37.17,
+"end": 37.33
+},
+{
+"text": "août,",
+"start": 37.37,
+"end": 37.89
+},
+{
+"text": "volte-face",
+"start": 37.97,
+"end": 38.69
+},
+{
+"text": "la",
+"start": 38.98,
+"end": 39.06
+},
+{
+"text": "danse",
+"start": 39.14,
+"end": 39.54
+},
+{
+"text": "est",
+"start": 39.62,
+"end": 39.7
+},
+{
+"text": "interdite.",
+"start": 39.78,
+"end": 40.6
+},
+{
+"text": "Les",
+"start": 40.64,
+"end": 40.68
+},
+{
+"text": "malades",
+"start": 40.76,
+"end": 41.08
+},
+{
+"text": "partent",
+"start": 41.16,
+"end": 41.32
+},
+{
+"text": "en",
+"start": 41.36,
+"end": 41.4
+},
+{
+"text": "pèlerinage",
+"start": 41.48,
+"end": 41.96
+},
+{
+"text": "vers",
+"start": 42.04,
+"end": 42.12
+},
+{
+"text": "saint",
+"start": 42.2,
+"end": 42.36
+},
+{
+"text": "Guy.",
+"start": 42.44,
+"end": 42.75
+},
+{
+"text": "En",
+"start": 42.83,
+"end": 42.91
+},
+{
+"text": "septembre,",
+"start": 42.95,
+"end": 43.71
+},
+{
+"text": "tout",
+"start": 43.79,
+"end": 43.87
+},
+{
+"text": "s'arrête.",
+"start": 43.95,
+"end": 44.59
+},
+{
+"text": "Personne",
+"start": 44.79,
+"end": 45.07
+},
+{
+"text": "ne",
+"start": 45.11,
+"end": 45.15
+},
+{
+"text": "sait",
+"start": 45.23,
+"end": 45.31
+},
+{
+"text": "vraiment",
+"start": 45.39,
+"end": 45.63
+},
+{
+"text": "pourquoi.",
+"start": 45.75,
+"end": 46.24
+},
+{
+"text": "Et",
+"start": 46.28,
+"end": 46.32
+},
+{
+"text": "les",
+"start": 46.4,
+"end": 46.48
+},
+{
+"text": "morts",
+"start": 46.52,
+"end": 46.8
+},
+{
+"text": "On",
+"start": 47.307,
+"end": 47.36
+},
+{
+"text": "raconte",
+"start": 47.44,
+"end": 47.68
+},
+{
+"text": "qu'ils",
+"start": 47.76,
+"end": 47.92
+},
+{
+"text": "tombaient",
+"start": 47.96,
+"end": 48.24
+},
+{
+"text": "par",
+"start": 48.32,
+"end": 48.48
+},
+{
+"text": "dizaines,",
+"start": 48.56,
+"end": 49.2
+},
+{
+"text": "jusqu'à",
+"start": 49.28,
+"end": 49.68
+},
+{
+"text": "quinze",
+"start": 49.76,
+"end": 49.92
+},
+{
+"text": "par",
+"start": 50.0,
+"end": 50.16
+},
+{
+"text": "jour.",
+"start": 50.24,
+"end": 50.75
+},
+{
+"text": "Mais",
+"start": 50.79,
+"end": 50.83
+},
+{
+"text": "ces",
+"start": 50.91,
+"end": 50.99
+},
+{
+"text": "récits",
+"start": 51.07,
+"end": 51.31
+},
+{
+"text": "sont",
+"start": 51.35,
+"end": 51.47
+},
+{
+"text": "écrits",
+"start": 51.55,
+"end": 51.79
+},
+{
+"text": "plus",
+"start": 51.87,
+"end": 51.95
+},
+{
+"text": "tard.",
+"start": 52.057,
+"end": 52.52
+},
+{
+"text": "Dans",
+"start": 52.56,
+"end": 52.6
+},
+{
+"text": "les",
+"start": 52.68,
+"end": 52.76
+},
+{
+"text": "archives",
+"start": 52.92,
+"end": 53.08
+},
+{
+"text": "de",
+"start": 53.12,
+"end": 53.16
+},
+{
+"text": "la",
+"start": 53.24,
+"end": 53.28
+},
+{
+"text": "ville,",
+"start": 53.32,
+"end": 53.72
+},
+{
+"text": "à",
+"start": 53.747,
+"end": 53.773
+},
+{
+"text": "l'époque,",
+"start": 53.8,
+"end": 54.44
+},
+{
+"text": "aucun",
+"start": 54.56,
+"end": 54.84
+},
+{
+"text": "mort",
+"start": 54.92,
+"end": 55.0
+},
+{
+"text": "n'est",
+"start": 55.08,
+"end": 55.16
+},
+{
+"text": "mentionné.",
+"start": 55.32,
+"end": 56.04
+},
+{
+"text": "La",
+"start": 56.12,
+"end": 56.2
+},
+{
+"text": "cause",
+"start": 56.36,
+"end": 56.52
+},
+{
+"text": "Famine,",
+"start": 56.973,
+"end": 57.64
+},
+{
+"text": "maladies,",
+"start": 57.72,
+"end": 58.44
+},
+{
+"text": "peur",
+"start": 58.48,
+"end": 58.68
+},
+{
+"text": "d'une",
+"start": 58.733,
+"end": 58.84
+},
+{
+"text": "malédiction",
+"start": 58.92,
+"end": 59.4
+},
+{
+"text": "de",
+"start": 59.44,
+"end": 59.48
+},
+{
+"text": "saint",
+"start": 59.56,
+"end": 59.72
+},
+{
+"text": "Guy.",
+"start": 59.8,
+"end": 60.11
+},
+{
+"text": "La",
+"start": 60.19,
+"end": 60.27
+},
+{
+"text": "piste",
+"start": 60.35,
+"end": 60.67
+},
+{
+"text": "de",
+"start": 60.71,
+"end": 60.75
+},
+{
+"text": "la",
+"start": 60.83,
+"end": 60.91
+},
+{
+"text": "panique",
+"start": 60.99,
+"end": 61.15
+},
+{
+"text": "collective",
+"start": 61.23,
+"end": 61.87
+},
+{
+"text": "est",
+"start": 61.897,
+"end": 61.923
+},
+{
+"text": "la",
+"start": 61.95,
+"end": 62.11
+},
+{
+"text": "plus",
+"start": 62.19,
+"end": 62.27
+},
+{
+"text": "sérieuse.",
+"start": 62.31,
+"end": 63.29
+},
+{
+"text": "Et",
+"start": 63.33,
+"end": 63.37
+},
+{
+"text": "toi,",
+"start": 63.45,
+"end": 64.01
+},
+{
+"text": "tu",
+"start": 64.09,
+"end": 64.17
+},
+{
+"text": "crois",
+"start": 64.21,
+"end": 64.33
+},
+{
+"text": "que",
+"start": 64.37,
+"end": 64.41
+},
+{
+"text": "la",
+"start": 64.49,
+"end": 64.57
+},
+{
+"text": "peur",
+"start": 64.65,
+"end": 64.81
+},
+{
+"text": "peut",
+"start": 64.89,
+"end": 65.01
+},
+{
+"text": "se",
+"start": 65.05,
+"end": 65.13
+},
+{
+"text": "propager",
+"start": 65.21,
+"end": 65.61
+},
+{
+"text": "comme",
+"start": 65.65,
+"end": 65.77
+},
+{
+"text": "une",
+"start": 65.81,
+"end": 65.85
+},
+{
+"text": "maladie",
+"start": 65.93,
+"end": 66.25
+},
+{
+"text": "Envoie",
+"start": 66.757,
+"end": 66.97
+},
+{
+"text": "ça",
+"start": 67.01,
+"end": 67.05
+},
+{
+"text": "à",
+"start": 67.13,
+"end": 67.21
+},
+{
+"text": "quelqu'un",
+"start": 67.29,
+"end": 67.53
+},
+{
+"text": "qui",
+"start": 67.61,
+"end": 67.69
+},
+{
+"text": "ne",
+"start": 67.73,
+"end": 67.77
+},
+{
+"text": "peut",
+"start": 67.81,
+"end": 67.93
+},
+{
+"text": "pas",
+"start": 67.97,
+"end": 68.01
+},
+{
+"text": "s'arrêter",
+"start": 68.09,
+"end": 68.41
+},
+{
+"text": "de",
+"start": 68.45,
+"end": 68.49
+},
+{
+"text": "danser.",
+"start": 68.53,
+"end": 69.21
+}
+],
+"dur": 69.72997732426303,
+"cuts": [
+[
+4.220000000000001,
+4.33
+],
+[
+5.785,
+5.785
+],
+[
+8.77,
+8.77
+],
+[
+9.62,
+9.81
+],
+[
+12.92,
+12.920000000000002
+],
+[
+15.66,
+15.81
+],
+[
+17.71,
+17.86
+],
+[
+19.155,
+19.155
+],
+[
+22.31,
+22.43
+],
+[
+25.83,
+26.080000000000002
+],
+[
+28.95,
+29.18
+],
+[
+30.06,
+30.18
+],
+[
+32.17,
+32.31
+],
+[
+35.57,
+35.72
+],
+[
+38.52,
+38.78
+],
+[
+40.71,
+40.82
+],
+[
+42.47,
+42.61
+],
+[
+44.81,
+44.980000000000004
+],
+[
+46.8,
+46.96
+],
+[
+48.63,
+48.980000000000004
+],
+[
+49.85,
+49.85
+],
+[
+53.45,
+53.58
+],
+[
+55.35,
+55.5
+],
+[
+58.940000000000005,
+58.94
+],
+[
+63.14,
+63.31
+],
+[
+66.33,
+66.35
+],
+[
+69.735,
+69.73500000000001
+]
+]
+}
