@@ -1,0 +1,1498 @@
+{
+"words": [
+{
+"text": "Tu",
+"start": 0.03,
+"end": 0.172
+},
+{
+"text": "te",
+"start": 0.172,
+"end": 0.314
+},
+{
+"text": "réveilles",
+"start": 0.314,
+"end": 0.786
+},
+{
+"text": "à",
+"start": 0.786,
+"end": 0.881
+},
+{
+"text": "trois",
+"start": 0.881,
+"end": 1.165
+},
+{
+"text": "heures",
+"start": 1.165,
+"end": 1.496
+},
+{
+"text": "du",
+"start": 1.496,
+"end": 1.637
+},
+{
+"text": "matin ?",
+"start": 1.637,
+"end": 1.84
+},
+{
+"text": "Ce",
+"start": 1.84,
+"end": 1.84
+},
+{
+"text": "n'est",
+"start": 1.84,
+"end": 2.019
+},
+{
+"text": "peut-être",
+"start": 2.019,
+"end": 2.445
+},
+{
+"text": "pas",
+"start": 2.445,
+"end": 2.634
+},
+{
+"text": "de",
+"start": 2.634,
+"end": 2.776
+},
+{
+"text": "l'insomnie.",
+"start": 2.776,
+"end": 3.248
+},
+{
+"text": "C'est",
+"start": 3.598,
+"end": 3.655
+},
+{
+"text": "un",
+"start": 3.655,
+"end": 3.797
+},
+{
+"text": "réflexe",
+"start": 3.797,
+"end": 4.175
+},
+{
+"text": "vieux",
+"start": 4.175,
+"end": 4.459
+},
+{
+"text": "de",
+"start": 4.459,
+"end": 4.6
+},
+{
+"text": "mille",
+"start": 4.6,
+"end": 4.884
+},
+{
+"text": "ans.",
+"start": 4.884,
+"end": 5.073
+},
+{
+"text": "Et",
+"start": 5.94,
+"end": 6.02
+},
+{
+"text": "ce",
+"start": 6.06,
+"end": 6.1
+},
+{
+"text": "qu'ils",
+"start": 6.18,
+"end": 6.42
+},
+{
+"text": "faisaient",
+"start": 6.473,
+"end": 6.74
+},
+{
+"text": "pendant",
+"start": 6.82,
+"end": 6.98
+},
+{
+"text": "cette",
+"start": 7.06,
+"end": 7.22
+},
+{
+"text": "heure-là,",
+"start": 7.3,
+"end": 7.9
+},
+{
+"text": "un",
+"start": 7.98,
+"end": 8.06
+},
+{
+"text": "historien",
+"start": 8.22,
+"end": 8.54
+},
+{
+"text": "l'a",
+"start": 8.58,
+"end": 8.7
+},
+{
+"text": "découvert",
+"start": 8.753,
+"end": 9.26
+},
+{
+"text": "dans",
+"start": 9.313,
+"end": 9.42
+},
+{
+"text": "une",
+"start": 9.46,
+"end": 9.5
+},
+{
+"text": "affaire",
+"start": 9.58,
+"end": 9.82
+},
+{
+"text": "de",
+"start": 9.9,
+"end": 9.98
+},
+{
+"text": "meurtre.",
+"start": 10.06,
+"end": 10.61
+},
+{
+"text": "Jusqu'au",
+"start": 10.76,
+"end": 11.053
+},
+{
+"text": "dix-neuvième",
+"start": 11.08,
+"end": 11.64
+},
+{
+"text": "siècle,",
+"start": 11.72,
+"end": 12.28
+},
+{
+"text": "presque",
+"start": 12.4,
+"end": 12.76
+},
+{
+"text": "personne",
+"start": 12.84,
+"end": 13.32
+},
+{
+"text": "ne",
+"start": 13.4,
+"end": 13.48
+},
+{
+"text": "dormait",
+"start": 13.533,
+"end": 13.8
+},
+{
+"text": "d'une",
+"start": 13.853,
+"end": 13.96
+},
+{
+"text": "traite.",
+"start": 14.04,
+"end": 14.61
+},
+{
+"text": "On",
+"start": 14.65,
+"end": 14.69
+},
+{
+"text": "se",
+"start": 14.77,
+"end": 14.85
+},
+{
+"text": "couchait",
+"start": 14.89,
+"end": 15.17
+},
+{
+"text": "à",
+"start": 15.21,
+"end": 15.25
+},
+{
+"text": "la",
+"start": 15.29,
+"end": 15.33
+},
+{
+"text": "tombée",
+"start": 15.41,
+"end": 15.65
+},
+{
+"text": "de",
+"start": 15.73,
+"end": 15.77
+},
+{
+"text": "la",
+"start": 15.81,
+"end": 15.85
+},
+{
+"text": "nuit",
+"start": 15.89,
+"end": 16.13
+},
+{
+"text": "pour",
+"start": 16.21,
+"end": 16.37
+},
+{
+"text": "un",
+"start": 16.41,
+"end": 16.45
+},
+{
+"text": "premier",
+"start": 16.53,
+"end": 16.85
+},
+{
+"text": "sommeil.",
+"start": 16.93,
+"end": 17.5
+},
+{
+"text": "En",
+"start": 17.59,
+"end": 17.67
+},
+{
+"text": "France,",
+"start": 17.75,
+"end": 18.31
+},
+{
+"text": "on",
+"start": 18.39,
+"end": 18.47
+},
+{
+"text": "disait",
+"start": 18.59,
+"end": 18.87
+},
+{
+"text": "le",
+"start": 19.27,
+"end": 19.35
+},
+{
+"text": "premier",
+"start": 19.43,
+"end": 19.75
+},
+{
+"text": "somme.",
+"start": 19.83,
+"end": 20.23
+},
+{
+"text": "Vers",
+"start": 20.48,
+"end": 20.64
+},
+{
+"text": "minuit,",
+"start": 20.72,
+"end": 21.2
+},
+{
+"text": "on",
+"start": 21.28,
+"end": 21.36
+},
+{
+"text": "se",
+"start": 21.44,
+"end": 21.52
+},
+{
+"text": "réveillait.",
+"start": 21.6,
+"end": 22.12
+},
+{
+"text": "Tout",
+"start": 22.18,
+"end": 22.34
+},
+{
+"text": "seul.",
+"start": 22.42,
+"end": 22.74
+},
+{
+"text": "Pendant",
+"start": 22.87,
+"end": 23.19
+},
+{
+"text": "une",
+"start": 23.27,
+"end": 23.35
+},
+{
+"text": "heure,",
+"start": 23.43,
+"end": 23.91
+},
+{
+"text": "parfois",
+"start": 23.99,
+"end": 24.23
+},
+{
+"text": "plus.",
+"start": 24.31,
+"end": 24.71
+},
+{
+"text": "Puis",
+"start": 24.94,
+"end": 25.18
+},
+{
+"text": "on",
+"start": 25.34,
+"end": 25.38
+},
+{
+"text": "se",
+"start": 25.42,
+"end": 25.58
+},
+{
+"text": "rendormait",
+"start": 25.7,
+"end": 26.06
+},
+{
+"text": "jusqu'à",
+"start": 26.14,
+"end": 26.38
+},
+{
+"text": "l'aube",
+"start": 26.46,
+"end": 26.78
+},
+{
+"text": "le",
+"start": 27.06,
+"end": 27.14
+},
+{
+"text": "second",
+"start": 27.3,
+"end": 27.54
+},
+{
+"text": "sommeil.",
+"start": 27.62,
+"end": 28.25
+},
+{
+"text": "L'indice,",
+"start": 28.38,
+"end": 29.18
+},
+{
+"text": "l'historien",
+"start": 29.207,
+"end": 29.66
+},
+{
+"text": "Roger",
+"start": 29.74,
+"end": 30.06
+},
+{
+"text": "Ekirch",
+"start": 30.18,
+"end": 30.54
+},
+{
+"text": "l'a",
+"start": 30.58,
+"end": 30.7
+},
+{
+"text": "trouvé",
+"start": 30.74,
+"end": 31.02
+},
+{
+"text": "dans",
+"start": 31.073,
+"end": 31.18
+},
+{
+"text": "un",
+"start": 31.22,
+"end": 31.26
+},
+{
+"text": "vieux",
+"start": 31.34,
+"end": 31.58
+},
+{
+"text": "procès-verbal.",
+"start": 31.7,
+"end": 32.46
+},
+{
+"text": "Une",
+"start": 32.69,
+"end": 32.85
+},
+{
+"text": "fillette",
+"start": 32.93,
+"end": 33.25
+},
+{
+"text": "de",
+"start": 33.33,
+"end": 33.41
+},
+{
+"text": "neuf",
+"start": 33.49,
+"end": 33.65
+},
+{
+"text": "ans",
+"start": 33.73,
+"end": 33.97
+},
+{
+"text": "raconte",
+"start": 34.13,
+"end": 34.53
+},
+{
+"text": "que",
+"start": 34.57,
+"end": 34.61
+},
+{
+"text": "des",
+"start": 34.69,
+"end": 34.85
+},
+{
+"text": "hommes",
+"start": 34.93,
+"end": 35.17
+},
+{
+"text": "sont",
+"start": 35.21,
+"end": 35.33
+},
+{
+"text": "venus",
+"start": 35.41,
+"end": 35.57
+},
+{
+"text": "chercher",
+"start": 35.65,
+"end": 35.89
+},
+{
+"text": "sa",
+"start": 35.97,
+"end": 36.13
+},
+{
+"text": "mère,",
+"start": 36.17,
+"end": 36.77
+},
+{
+"text": "juste",
+"start": 36.85,
+"end": 37.09
+},
+{
+"text": "après",
+"start": 37.21,
+"end": 37.33
+},
+{
+"text": "son",
+"start": 37.41,
+"end": 37.57
+},
+{
+"text": "premier",
+"start": 37.65,
+"end": 37.89
+},
+{
+"text": "sommeil.",
+"start": 37.97,
+"end": 38.52
+},
+{
+"text": "On",
+"start": 38.62,
+"end": 38.7
+},
+{
+"text": "l'a",
+"start": 38.727,
+"end": 38.78
+},
+{
+"text": "retrouvée",
+"start": 38.86,
+"end": 39.26
+},
+{
+"text": "morte.",
+"start": 39.3,
+"end": 39.95
+},
+{
+"text": "Premier",
+"start": 40.21,
+"end": 40.53
+},
+{
+"text": "sommeil...",
+"start": 40.61,
+"end": 41.44
+},
+{
+"text": "donc",
+"start": 41.52,
+"end": 41.92
+},
+{
+"text": "il",
+"start": 42.16,
+"end": 42.24
+},
+{
+"text": "y",
+"start": 42.28,
+"end": 42.32
+},
+{
+"text": "en",
+"start": 42.36,
+"end": 42.4
+},
+{
+"text": "avait",
+"start": 42.48,
+"end": 42.64
+},
+{
+"text": "un",
+"start": 42.72,
+"end": 42.8
+},
+{
+"text": "second.",
+"start": 42.96,
+"end": 43.2
+},
+{
+"text": "Il",
+"start": 43.66,
+"end": 43.74
+},
+{
+"text": "en",
+"start": 43.78,
+"end": 43.82
+},
+{
+"text": "trouvera",
+"start": 43.86,
+"end": 44.22
+},
+{
+"text": "ensuite",
+"start": 44.3,
+"end": 44.62
+},
+{
+"text": "plus",
+"start": 44.7,
+"end": 44.78
+},
+{
+"text": "de",
+"start": 44.86,
+"end": 45.02
+},
+{
+"text": "deux",
+"start": 45.1,
+"end": 45.18
+},
+{
+"text": "mille",
+"start": 45.26,
+"end": 45.42
+},
+{
+"text": "mentions,",
+"start": 45.5,
+"end": 46.06
+},
+{
+"text": "dans",
+"start": 46.14,
+"end": 46.3
+},
+{
+"text": "une",
+"start": 46.38,
+"end": 46.46
+},
+{
+"text": "douzaine",
+"start": 46.54,
+"end": 46.86
+},
+{
+"text": "de",
+"start": 46.9,
+"end": 46.94
+},
+{
+"text": "langues.",
+"start": 47.02,
+"end": 47.47
+},
+{
+"text": "Cette",
+"start": 47.6,
+"end": 47.76
+},
+{
+"text": "heure",
+"start": 47.84,
+"end": 47.92
+},
+{
+"text": "de",
+"start": 47.96,
+"end": 48.0
+},
+{
+"text": "veille,",
+"start": 48.08,
+"end": 48.64
+},
+{
+"text": "on",
+"start": 48.72,
+"end": 48.8
+},
+{
+"text": "priait.",
+"start": 48.92,
+"end": 49.46
+},
+{
+"text": "On",
+"start": 49.5,
+"end": 49.54
+},
+{
+"text": "ranimait",
+"start": 49.66,
+"end": 49.94
+},
+{
+"text": "le",
+"start": 49.98,
+"end": 50.02
+},
+{
+"text": "feu,",
+"start": 50.18,
+"end": 50.74
+},
+{
+"text": "on",
+"start": 50.82,
+"end": 50.9
+},
+{
+"text": "prenait",
+"start": 50.953,
+"end": 51.22
+},
+{
+"text": "ses",
+"start": 51.26,
+"end": 51.3
+},
+{
+"text": "remèdes,",
+"start": 51.38,
+"end": 52.1
+},
+{
+"text": "on",
+"start": 52.18,
+"end": 52.26
+},
+{
+"text": "allait",
+"start": 52.3,
+"end": 52.42
+},
+{
+"text": "voir",
+"start": 52.5,
+"end": 52.58
+},
+{
+"text": "les",
+"start": 52.62,
+"end": 52.66
+},
+{
+"text": "voisins.",
+"start": 52.74,
+"end": 53.2
+},
+{
+"text": "Un",
+"start": 53.28,
+"end": 53.36
+},
+{
+"text": "médecin",
+"start": 53.44,
+"end": 53.68
+},
+{
+"text": "français",
+"start": 53.76,
+"end": 54.08
+},
+{
+"text": "du",
+"start": 54.16,
+"end": 54.24
+},
+{
+"text": "seizième",
+"start": 54.32,
+"end": 54.72
+},
+{
+"text": "siècle",
+"start": 54.8,
+"end": 55.12
+},
+{
+"text": "conseillait",
+"start": 55.2,
+"end": 55.68
+},
+{
+"text": "même",
+"start": 55.76,
+"end": 55.84
+},
+{
+"text": "aux",
+"start": 55.92,
+"end": 56.0
+},
+{
+"text": "couples",
+"start": 56.04,
+"end": 56.4
+},
+{
+"text": "d'attendre",
+"start": 56.44,
+"end": 56.96
+},
+{
+"text": "ce",
+"start": 57.0,
+"end": 57.04
+},
+{
+"text": "moment",
+"start": 57.12,
+"end": 57.44
+},
+{
+"text": "pour",
+"start": 57.52,
+"end": 57.6
+},
+{
+"text": "faire",
+"start": 57.64,
+"end": 57.76
+},
+{
+"text": "des",
+"start": 57.8,
+"end": 57.84
+},
+{
+"text": "enfants.",
+"start": 57.92,
+"end": 58.47
+},
+{
+"text": "Et",
+"start": 58.51,
+"end": 58.55
+},
+{
+"text": "d'autres",
+"start": 58.63,
+"end": 58.95
+},
+{
+"text": "en",
+"start": 59.03,
+"end": 59.19
+},
+{
+"text": "profitaient",
+"start": 59.27,
+"end": 59.59
+},
+{
+"text": "pour",
+"start": 59.67,
+"end": 59.75
+},
+{
+"text": "cambrioler.",
+"start": 59.79,
+"end": 60.82
+},
+{
+"text": "Puis",
+"start": 60.86,
+"end": 61.22
+},
+{
+"text": "la",
+"start": 61.3,
+"end": 61.38
+},
+{
+"text": "lumière",
+"start": 61.42,
+"end": 61.7
+},
+{
+"text": "artificielle",
+"start": 61.82,
+"end": 62.34
+},
+{
+"text": "est",
+"start": 62.42,
+"end": 62.5
+},
+{
+"text": "arrivée.",
+"start": 62.7,
+"end": 63.09
+},
+{
+"text": "On",
+"start": 63.13,
+"end": 63.17
+},
+{
+"text": "s'est",
+"start": 63.21,
+"end": 63.33
+},
+{
+"text": "couché",
+"start": 63.37,
+"end": 63.65
+},
+{
+"text": "plus",
+"start": 63.73,
+"end": 63.81
+},
+{
+"text": "tard.",
+"start": 63.85,
+"end": 64.43
+},
+{
+"text": "Le",
+"start": 64.47,
+"end": 64.51
+},
+{
+"text": "premier",
+"start": 64.59,
+"end": 64.91
+},
+{
+"text": "sommeil",
+"start": 64.99,
+"end": 65.23
+},
+{
+"text": "s'est",
+"start": 65.31,
+"end": 65.47
+},
+{
+"text": "allongé...",
+"start": 65.55,
+"end": 66.26
+},
+{
+"text": "et",
+"start": 66.3,
+"end": 66.34
+},
+{
+"text": "le",
+"start": 66.42,
+"end": 66.5
+},
+{
+"text": "second",
+"start": 66.58,
+"end": 66.98
+},
+{
+"text": "a",
+"start": 67.22,
+"end": 67.3
+},
+{
+"text": "disparu.",
+"start": 67.42,
+"end": 67.94
+},
+{
+"text": "Dans",
+"start": 68.48,
+"end": 68.56
+},
+{
+"text": "les",
+"start": 68.64,
+"end": 68.72
+},
+{
+"text": "années",
+"start": 68.76,
+"end": 68.88
+},
+{
+"text": "quatre-vingt-dix,",
+"start": 68.96,
+"end": 69.84
+},
+{
+"text": "des",
+"start": 69.92,
+"end": 70.0
+},
+{
+"text": "chercheurs",
+"start": 70.08,
+"end": 70.4
+},
+{
+"text": "américains",
+"start": 70.48,
+"end": 70.96
+},
+{
+"text": "ont",
+"start": 71.04,
+"end": 71.2
+},
+{
+"text": "privé",
+"start": 71.32,
+"end": 71.52
+},
+{
+"text": "des",
+"start": 71.6,
+"end": 71.68
+},
+{
+"text": "volontaires",
+"start": 71.76,
+"end": 72.16
+},
+{
+"text": "de",
+"start": 72.24,
+"end": 72.28
+},
+{
+"text": "lumière",
+"start": 72.32,
+"end": 72.72
+},
+{
+"text": "le",
+"start": 72.76,
+"end": 72.8
+},
+{
+"text": "soir.",
+"start": 72.88,
+"end": 73.41
+},
+{
+"text": "Au",
+"start": 73.51,
+"end": 73.59
+},
+{
+"text": "bout",
+"start": 73.63,
+"end": 73.67
+},
+{
+"text": "de",
+"start": 73.75,
+"end": 73.83
+},
+{
+"text": "quelques",
+"start": 73.91,
+"end": 74.23
+},
+{
+"text": "semaines,",
+"start": 74.31,
+"end": 74.87
+},
+{
+"text": "ils",
+"start": 74.95,
+"end": 75.03
+},
+{
+"text": "se",
+"start": 75.11,
+"end": 75.19
+},
+{
+"text": "réveillaient",
+"start": 75.27,
+"end": 75.75
+},
+{
+"text": "au",
+"start": 75.79,
+"end": 75.83
+},
+{
+"text": "milieu",
+"start": 75.91,
+"end": 76.15
+},
+{
+"text": "de",
+"start": 76.23,
+"end": 76.27
+},
+{
+"text": "la",
+"start": 76.31,
+"end": 76.39
+},
+{
+"text": "nuit.",
+"start": 76.43,
+"end": 76.86
+},
+{
+"text": "Alors,",
+"start": 76.94,
+"end": 77.66
+},
+{
+"text": "ton",
+"start": 77.74,
+"end": 77.82
+},
+{
+"text": "réveil",
+"start": 77.9,
+"end": 78.14
+},
+{
+"text": "de",
+"start": 78.18,
+"end": 78.22
+},
+{
+"text": "trois",
+"start": 78.3,
+"end": 78.46
+},
+{
+"text": "heures...",
+"start": 78.54,
+"end": 79.2
+},
+{
+"text": "c'est",
+"start": 79.253,
+"end": 79.36
+},
+{
+"text": "peut-être",
+"start": 79.4,
+"end": 79.76
+},
+{
+"text": "juste",
+"start": 79.84,
+"end": 80.04
+},
+{
+"text": "un",
+"start": 80.08,
+"end": 80.16
+},
+{
+"text": "vieux",
+"start": 80.213,
+"end": 80.32
+},
+{
+"text": "souvenir.",
+"start": 80.4,
+"end": 81.07
+},
+{
+"text": "Et",
+"start": 81.3,
+"end": 81.38
+},
+{
+"text": "toi,",
+"start": 81.46,
+"end": 81.89
+},
+{
+"text": "une",
+"start": 81.97,
+"end": 82.13
+},
+{
+"text": "heure",
+"start": 82.21,
+"end": 82.29
+},
+{
+"text": "en",
+"start": 82.37,
+"end": 82.45
+},
+{
+"text": "plein",
+"start": 82.53,
+"end": 82.69
+},
+{
+"text": "milieu",
+"start": 82.77,
+"end": 82.93
+},
+{
+"text": "de",
+"start": 82.97,
+"end": 83.01
+},
+{
+"text": "la",
+"start": 83.05,
+"end": 83.09
+},
+{
+"text": "nuit,",
+"start": 83.17,
+"end": 83.61
+},
+{
+"text": "tu",
+"start": 83.65,
+"end": 83.69
+},
+{
+"text": "en",
+"start": 83.77,
+"end": 83.85
+},
+{
+"text": "ferais",
+"start": 83.93,
+"end": 84.09
+},
+{
+"text": "quoi",
+"start": 84.17,
+"end": 84.33
+},
+{
+"text": "N'hésite",
+"start": 84.94,
+"end": 85.26
+},
+{
+"text": "pas",
+"start": 85.3,
+"end": 85.34
+},
+{
+"text": "à",
+"start": 85.38,
+"end": 85.42
+},
+{
+"text": "t'abonner",
+"start": 85.46,
+"end": 85.9
+},
+{
+"text": "si",
+"start": 85.98,
+"end": 86.06
+},
+{
+"text": "tu",
+"start": 86.14,
+"end": 86.22
+},
+{
+"text": "aimes",
+"start": 86.26,
+"end": 86.38
+},
+{
+"text": "ce",
+"start": 86.46,
+"end": 86.54
+},
+{
+"text": "genre",
+"start": 86.62,
+"end": 86.7
+},
+{
+"text": "de",
+"start": 86.74,
+"end": 86.78
+},
+{
+"text": "contenu.",
+"start": 86.9,
+"end": 87.5
+}
+],
+"dur": 88.02043083900226,
+"cuts": [
+[
+1.84,
+2.12
+],
+[
+3.9,
+4.08
+],
+[
+6.18,
+6.26
+],
+[
+8.36,
+8.48
+],
+[
+11.27,
+11.930000000000001
+],
+[
+15.87,
+16.1
+],
+[
+19.05,
+19.35
+],
+[
+22.2,
+22.67
+],
+[
+24.44,
+24.740000000000002
+],
+[
+25.45,
+25.720000000000002
+],
+[
+27.71,
+28.12
+],
+[
+30.23,
+30.43
+],
+[
+31.75,
+32.43
+],
+[
+36.75,
+37.0
+],
+[
+42.95,
+43.34
+],
+[
+44.77,
+45.18
+],
+[
+46.59,
+46.96
+],
+[
+49.01,
+49.43
+],
+[
+53.49,
+53.95
+],
+[
+55.83,
+56.050000000000004
+],
+[
+59.9,
+60.32
+],
+[
+65.5,
+65.91
+],
+[
+68.14,
+68.51
+],
+[
+70.92,
+71.13
+],
+[
+72.43,
+72.61
+],
+[
+74.5,
+74.75
+],
+[
+76.75,
+77.09
+],
+[
+82.29,
+82.54
+],
+[
+85.94,
+86.43
+],
+[
+88.68,
+88.9
+],
+[
+90.91,
+91.37
+],
+[
+92.15,
+92.28
+],
+[
+93.97,
+94.09
+],
+[
+95.19,
+95.54
+]
+]
+}
