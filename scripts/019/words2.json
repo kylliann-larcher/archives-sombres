@@ -1,0 +1,839 @@
+{
+"words": [
+{
+"text": "Des",
+"start": 0.0,
+"end": 0.238,
+"ph": 0
+},
+{
+"text": "centaines",
+"start": 0.238,
+"end": 0.834,
+"ph": 0
+},
+{
+"text": "de",
+"start": 0.834,
+"end": 1.013,
+"ph": 0
+},
+{
+"text": "soldats.",
+"start": 1.013,
+"end": 1.49,
+"ph": 0
+},
+{
+"text": "Pour",
+"start": 1.69,
+"end": 2.003,
+"ph": 1
+},
+{
+"text": "une",
+"start": 2.003,
+"end": 2.253,
+"ph": 1
+},
+{
+"text": "seule",
+"start": 2.253,
+"end": 2.629,
+"ph": 1
+},
+{
+"text": "récolte.",
+"start": 2.629,
+"end": 3.13,
+"ph": 1
+},
+{
+"text": "Parce",
+"start": 3.26,
+"end": 3.538,
+"ph": 2
+},
+{
+"text": "que",
+"start": 3.538,
+"end": 3.724,
+"ph": 2
+},
+{
+"text": "plus",
+"start": 3.724,
+"end": 3.956,
+"ph": 2
+},
+{
+"text": "personne",
+"start": 3.956,
+"end": 4.373,
+"ph": 2
+},
+{
+"text": "ne",
+"start": 4.373,
+"end": 4.512,
+"ph": 2
+},
+{
+"text": "parlait",
+"start": 4.512,
+"end": 4.883,
+"ph": 2
+},
+{
+"text": "à",
+"start": 4.883,
+"end": 4.976,
+"ph": 2
+},
+{
+"text": "cet",
+"start": 4.976,
+"end": 5.162,
+"ph": 2
+},
+{
+"text": "homme.",
+"start": 5.162,
+"end": 5.44,
+"ph": 2
+},
+{
+"text": "Et",
+"start": 5.79,
+"end": 5.965,
+"ph": 3
+},
+{
+"text": "son",
+"start": 5.965,
+"end": 6.198,
+"ph": 3
+},
+{
+"text": "nom",
+"start": 6.198,
+"end": 6.431,
+"ph": 3
+},
+{
+"text": "est",
+"start": 6.431,
+"end": 6.664,
+"ph": 3
+},
+{
+"text": "devenu",
+"start": 6.664,
+"end": 7.072,
+"ph": 3
+},
+{
+"text": "un",
+"start": 7.072,
+"end": 7.247,
+"ph": 3
+},
+{
+"text": "mot.",
+"start": 7.247,
+"end": 7.48,
+"ph": 3
+},
+{
+"text": "Il",
+"start": 7.61,
+"end": 7.811,
+"ph": 4
+},
+{
+"text": "s'appelait",
+"start": 7.811,
+"end": 8.48,
+"ph": 4
+},
+{
+"text": "Charles",
+"start": 8.48,
+"end": 9.015,
+"ph": 4
+},
+{
+"text": "Boycott.",
+"start": 9.015,
+"end": 9.55,
+"ph": 4
+},
+{
+"text": "Il",
+"start": 9.68,
+"end": 9.833,
+"ph": 5
+},
+{
+"text": "gérait",
+"start": 9.833,
+"end": 10.191,
+"ph": 5
+},
+{
+"text": "les",
+"start": 10.191,
+"end": 10.396,
+"ph": 5
+},
+{
+"text": "terres",
+"start": 10.396,
+"end": 10.754,
+"ph": 5
+},
+{
+"text": "d'un",
+"start": 10.754,
+"end": 10.958,
+"ph": 5
+},
+{
+"text": "riche",
+"start": 10.958,
+"end": 11.265,
+"ph": 5
+},
+{
+"text": "propriétaire",
+"start": 11.265,
+"end": 11.93,
+"ph": 5
+},
+{
+"text": "absent",
+"start": 11.93,
+"end": 12.288,
+"ph": 5
+},
+{
+"text": "en",
+"start": 12.288,
+"end": 12.441,
+"ph": 5
+},
+{
+"text": "Irlande.",
+"start": 12.441,
+"end": 12.85,
+"ph": 5
+},
+{
+"text": "Septembre",
+"start": 12.98,
+"end": 13.933,
+"ph": 6
+},
+{
+"text": "1880.",
+"start": 13.933,
+"end": 14.79,
+"ph": 6
+},
+{
+"text": "Ses",
+"start": 14.92,
+"end": 15.117,
+"ph": 7
+},
+{
+"text": "fermiers",
+"start": 15.117,
+"end": 15.561,
+"ph": 7
+},
+{
+"text": "étranglés",
+"start": 15.561,
+"end": 16.054,
+"ph": 7
+},
+{
+"text": "par",
+"start": 16.054,
+"end": 16.251,
+"ph": 7
+},
+{
+"text": "les",
+"start": 16.251,
+"end": 16.448,
+"ph": 7
+},
+{
+"text": "loyers",
+"start": 16.448,
+"end": 16.793,
+"ph": 7
+},
+{
+"text": "lui",
+"start": 16.793,
+"end": 16.99,
+"ph": 7
+},
+{
+"text": "demandent",
+"start": 16.99,
+"end": 17.483,
+"ph": 7
+},
+{
+"text": "de",
+"start": 17.483,
+"end": 17.631,
+"ph": 7
+},
+{
+"text": "baisser",
+"start": 17.631,
+"end": 18.026,
+"ph": 7
+},
+{
+"text": "le",
+"start": 18.026,
+"end": 18.174,
+"ph": 7
+},
+{
+"text": "prix.",
+"start": 18.174,
+"end": 18.42,
+"ph": 7
+},
+{
+"text": "Il",
+"start": 18.55,
+"end": 18.763,
+"ph": 8
+},
+{
+"text": "refuse.",
+"start": 18.763,
+"end": 19.26,
+"ph": 8
+},
+{
+"text": "Il",
+"start": 19.39,
+"end": 19.547,
+"ph": 9
+},
+{
+"text": "menace",
+"start": 19.547,
+"end": 19.913,
+"ph": 9
+},
+{
+"text": "de",
+"start": 19.913,
+"end": 20.07,
+"ph": 9
+},
+{
+"text": "les",
+"start": 20.07,
+"end": 20.279,
+"ph": 9
+},
+{
+"text": "expulser.",
+"start": 20.279,
+"end": 20.75,
+"ph": 9
+},
+{
+"text": "Alors",
+"start": 20.88,
+"end": 21.265,
+"ph": 10
+},
+{
+"text": "leur",
+"start": 21.265,
+"end": 21.586,
+"ph": 10
+},
+{
+"text": "association",
+"start": 21.586,
+"end": 22.356,
+"ph": 10
+},
+{
+"text": "propose",
+"start": 22.356,
+"end": 22.87,
+"ph": 10
+},
+{
+"text": "autre",
+"start": 22.87,
+"end": 23.255,
+"ph": 10
+},
+{
+"text": "chose.",
+"start": 23.255,
+"end": 23.64,
+"ph": 10
+},
+{
+"text": "Ne",
+"start": 23.77,
+"end": 23.915,
+"ph": 11
+},
+{
+"text": "pas",
+"start": 23.915,
+"end": 24.108,
+"ph": 11
+},
+{
+"text": "le",
+"start": 24.108,
+"end": 24.253,
+"ph": 11
+},
+{
+"text": "frapper.",
+"start": 24.253,
+"end": 24.64,
+"ph": 11
+},
+{
+"text": "Juste",
+"start": 24.77,
+"end": 25.242,
+"ph": 12
+},
+{
+"text": "l'ignorer.",
+"start": 25.242,
+"end": 25.95,
+"ph": 12
+},
+{
+"text": "Totalement.",
+"start": 26.15,
+"end": 26.67,
+"ph": 13
+},
+{
+"text": "Plus",
+"start": 26.8,
+"end": 27.057,
+"ph": 14
+},
+{
+"text": "d'ouvriers.",
+"start": 27.057,
+"end": 27.57,
+"ph": 14
+},
+{
+"text": "Plus",
+"start": 27.7,
+"end": 27.953,
+"ph": 15
+},
+{
+"text": "de",
+"start": 27.953,
+"end": 28.105,
+"ph": 15
+},
+{
+"text": "courses.",
+"start": 28.105,
+"end": 28.51,
+"ph": 15
+},
+{
+"text": "Plus",
+"start": 28.64,
+"end": 28.849,
+"ph": 16
+},
+{
+"text": "de",
+"start": 28.849,
+"end": 28.974,
+"ph": 16
+},
+{
+"text": "courrier.",
+"start": 28.974,
+"end": 29.35,
+"ph": 16
+},
+{
+"text": "Le",
+"start": 29.48,
+"end": 29.62,
+"ph": 17
+},
+{
+"text": "gouvernement",
+"start": 29.62,
+"end": 30.228,
+"ph": 17
+},
+{
+"text": "envoie",
+"start": 30.228,
+"end": 30.556,
+"ph": 17
+},
+{
+"text": "des",
+"start": 30.556,
+"end": 30.743,
+"ph": 17
+},
+{
+"text": "travailleurs",
+"start": 30.743,
+"end": 31.351,
+"ph": 17
+},
+{
+"text": "escortés",
+"start": 31.351,
+"end": 31.772,
+"ph": 17
+},
+{
+"text": "par",
+"start": 31.772,
+"end": 31.959,
+"ph": 17
+},
+{
+"text": "des",
+"start": 31.959,
+"end": 32.146,
+"ph": 17
+},
+{
+"text": "soldats.",
+"start": 32.146,
+"end": 32.52,
+"ph": 17
+},
+{
+"text": "Le",
+"start": 32.65,
+"end": 32.822,
+"ph": 18
+},
+{
+"text": "premier",
+"start": 32.822,
+"end": 33.282,
+"ph": 18
+},
+{
+"text": "décembre",
+"start": 33.282,
+"end": 33.799,
+"ph": 18
+},
+{
+"text": "il",
+"start": 33.799,
+"end": 33.971,
+"ph": 18
+},
+{
+"text": "quitte",
+"start": 33.971,
+"end": 34.373,
+"ph": 18
+},
+{
+"text": "l'Irlande.",
+"start": 34.373,
+"end": 34.89,
+"ph": 18
+},
+{
+"text": "Mais",
+"start": 35.02,
+"end": 35.282,
+"ph": 19
+},
+{
+"text": "dès",
+"start": 35.282,
+"end": 35.492,
+"ph": 19
+},
+{
+"text": "novembre",
+"start": 35.492,
+"end": 35.964,
+"ph": 19
+},
+{
+"text": "la",
+"start": 35.964,
+"end": 36.121,
+"ph": 19
+},
+{
+"text": "presse",
+"start": 36.121,
+"end": 36.488,
+"ph": 19
+},
+{
+"text": "britannique",
+"start": 36.488,
+"end": 37.117,
+"ph": 19
+},
+{
+"text": "utilisait",
+"start": 37.117,
+"end": 37.642,
+"ph": 19
+},
+{
+"text": "déjà",
+"start": 37.642,
+"end": 37.904,
+"ph": 19
+},
+{
+"text": "son",
+"start": 37.904,
+"end": 38.114,
+"ph": 19
+},
+{
+"text": "nom",
+"start": 38.114,
+"end": 38.323,
+"ph": 19
+},
+{
+"text": "comme",
+"start": 38.323,
+"end": 38.638,
+"ph": 19
+},
+{
+"text": "un",
+"start": 38.638,
+"end": 38.795,
+"ph": 19
+},
+{
+"text": "verbe.",
+"start": 38.795,
+"end": 39.11,
+"ph": 19
+},
+{
+"text": "Aujourd'hui",
+"start": 39.24,
+"end": 39.827,
+"ph": 20
+},
+{
+"text": "tu",
+"start": 39.827,
+"end": 39.987,
+"ph": 20
+},
+{
+"text": "le",
+"start": 39.987,
+"end": 40.147,
+"ph": 20
+},
+{
+"text": "dis",
+"start": 40.147,
+"end": 40.36,
+"ph": 20
+},
+{
+"text": "sans",
+"start": 40.36,
+"end": 40.627,
+"ph": 20
+},
+{
+"text": "le",
+"start": 40.627,
+"end": 40.787,
+"ph": 20
+},
+{
+"text": "savoir.",
+"start": 40.787,
+"end": 41.16,
+"ph": 20
+},
+{
+"text": "Et",
+"start": 41.46,
+"end": 41.634,
+"ph": 21
+},
+{
+"text": "toi",
+"start": 41.634,
+"end": 41.866,
+"ph": 21
+},
+{
+"text": "à",
+"start": 41.866,
+"end": 41.982,
+"ph": 21
+},
+{
+"text": "leur",
+"start": 41.982,
+"end": 42.272,
+"ph": 21
+},
+{
+"text": "place",
+"start": 42.272,
+"end": 42.621,
+"ph": 21
+},
+{
+"text": "tu",
+"start": 42.621,
+"end": 42.795,
+"ph": 21
+},
+{
+"text": "l'aurais",
+"start": 42.795,
+"end": 43.259,
+"ph": 21
+},
+{
+"text": "ignoré",
+"start": 43.259,
+"end": 43.665,
+"ph": 21
+},
+{
+"text": "ou",
+"start": 43.665,
+"end": 43.839,
+"ph": 21
+},
+{
+"text": "tu",
+"start": 43.839,
+"end": 44.013,
+"ph": 21
+},
+{
+"text": "lui",
+"start": 44.013,
+"end": 44.246,
+"ph": 21
+},
+{
+"text": "aurais",
+"start": 44.246,
+"end": 44.652,
+"ph": 21
+},
+{
+"text": "parlé ?",
+"start": 44.652,
+"end": 45.0,
+"ph": 21
+},
+{
+"text": "N'hésite",
+"start": 45.4,
+"end": 45.743,
+"ph": 22
+},
+{
+"text": "pas",
+"start": 45.743,
+"end": 45.915,
+"ph": 22
+},
+{
+"text": "à",
+"start": 45.915,
+"end": 46.001,
+"ph": 22
+},
+{
+"text": "t'abonner",
+"start": 46.001,
+"end": 46.387,
+"ph": 22
+},
+{
+"text": "si",
+"start": 46.387,
+"end": 46.516,
+"ph": 22
+},
+{
+"text": "tu",
+"start": 46.516,
+"end": 46.644,
+"ph": 22
+},
+{
+"text": "aimes",
+"start": 46.644,
+"end": 46.902,
+"ph": 22
+},
+{
+"text": "ce",
+"start": 46.902,
+"end": 47.031,
+"ph": 22
+},
+{
+"text": "genre",
+"start": 47.031,
+"end": 47.288,
+"ph": 22
+},
+{
+"text": "de",
+"start": 47.288,
+"end": 47.417,
+"ph": 22
+},
+{
+"text": "contenu.",
+"start": 47.417,
+"end": 47.76,
+"ph": 22
+}
+],
+"dur": 48.26
+}
