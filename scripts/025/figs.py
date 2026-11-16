@@ -81,3 +81,98 @@ def slam_stamp(im,text,x,y,t,t0,size=110,ang=-10):
     L=Image.new('RGBA',(w,h));d=ImageDraw.Draw(L)
     d.rectangle((3,3,w-4,h-4),outline=RED+(255,),width=max(6,int(10*sc)));d.text((30,h//2),text,font=f,fill=RED+(255,),anchor='lm')
     L=L.rotate(ang,expand=True,resample=Image.BICUBIC);im.alpha_composite(L,(int(x-L.width/2),int(y-L.height/2)))
+
+# ---------- Effets enrichis (v2, demande du 2026-11-16) ----------
+def blinking(t, ph=0.0):
+    return 'closed' if t > 0.5 and ((t + ph) % 3.1) < 0.12 else 'open'  # jamais fermés sur la première image
+
+def brows(im, x, y, s=1, kind='flat'):
+    d = ImageDraw.Draw(im); w = max(3, int(6*s))
+    for sx in (-1, 1):
+        cx = x + sx*25*s; o, i = cx + sx*14*s, cx - sx*8*s  # bout extérieur (côté tempe), bout intérieur (côté nez)
+        if kind == 'worried': yo, yi = y - 318*s, y - 330*s
+        elif kind == 'angry': yo, yi = y - 330*s, y - 316*s
+        elif kind == 'up': yo, yi = y - 334*s, y - 334*s
+        else: yo, yi = y - 322*s, y - 322*s
+        d.line((o, yo, i, yi), fill=INK+(255,), width=w)
+
+def actor(im, x, y, s, t, ph=0.0, kind='flat', mouth='flat', eyes=None, **kw):
+    """Personnage vivant : respiration, clignement des yeux, sourcils expressifs."""
+    bob = int(4*s*math.sin(t*2.4 + ph))
+    person(im, x, y + bob, s, eyes=eyes or blinking(t, ph), mouth=mouth, **kw)
+    if not kw.get('back'): brows(im, x, y + bob, s, kind)
+
+def dust(frame, t, n=36, col=(255, 226, 170), seed=7):
+    layer = Image.new('RGBA', (W, H)); d = ImageDraw.Draw(layer); rnd = random.Random(seed)
+    for k in range(n):
+        x0, y0, sp, r = rnd.uniform(0, W), rnd.uniform(0, H), rnd.uniform(8, 26), rnd.uniform(2, 5)
+        x = (x0 + 18*math.sin(t*.7 + k)) % W; y = (y0 - sp*t) % H
+        a = int(70 + 60*math.sin(t*1.7 + k*1.3))
+        d.ellipse((x - r, y - r, x + r, y + r), fill=col + (max(0, a),))
+    return layer.filter(ImageFilter.GaussianBlur(1.2))
+
+def snow(im, t, n=70, seed=11):
+    d = ImageDraw.Draw(im); rnd = random.Random(seed)
+    for k in range(n):
+        x0, y0, sp, r = rnd.uniform(0, W), rnd.uniform(0, H), rnd.uniform(60, 140), rnd.uniform(3, 7)
+        x = (x0 + 30*math.sin(t*1.1 + k)) % W; y = (y0 + sp*t) % H
+        d.ellipse((x - r, y - r, x + r, y + r), fill=(245, 248, 255, 210))
+
+def rays(im, x, y, t, col=(255, 230, 170), n=4, spread=26, length=900, strength=.18):
+    layer = Image.new('RGBA', (W, H)); d = ImageDraw.Draw(layer)
+    for k in range(n):
+        a = math.radians(100 + (k - n/2)*spread/n*4 + 2*math.sin(t*.6 + k))
+        w = 70 + 20*k
+        x1, y1 = x + length*math.cos(a), y + length*math.sin(a)
+        d.polygon([(x - w/4, y), (x + w/4, y), (x1 + w, y1), (x1 - w, y1)], fill=col + (int(255*strength*(.7 + .3*math.sin(t*1.3 + k))),))
+    im.alpha_composite(layer.filter(ImageFilter.GaussianBlur(18)))
+
+def candle_lit(im, x, y, t, s=1.0):
+    candle(im, x, y, s, lit=False)
+    fl = int(4*math.sin(t*13 + x)); glow(im, (x, int(y - 60*s)), int((90 + fl*3)*s), (255, 170, 70), .55)
+    d = ImageDraw.Draw(im); h = (46 + fl)*s
+    d.polygon([(x - 11*s, y - 12*s), (x, y - 12*s - h), (x + 11*s, y - 12*s)], fill=(255, 200, 80, 255))
+    d.polygon([(x - 5*s, y - 14*s), (x, y - 14*s - h*.55), (x + 5*s, y - 14*s)], fill=(255, 250, 220, 255))
+
+def hanging_lamp(im, x, y, t, col=(255, 210, 140)):
+    a = math.radians(6*math.sin(t*1.6)); L = 260
+    lx, ly = x + L*math.sin(a), y + L*math.cos(a)
+    d = ImageDraw.Draw(im); d.line((x, y, lx, ly), fill=INK+(255,), width=4)
+    glow(im, (int(lx), int(ly + 30)), 170, col, .6)
+    d.polygon([(lx - 60, ly + 40), (lx + 60, ly + 40), (lx + 30, ly), (lx - 30, ly)], fill=(60, 50, 40, 255), outline=INK+(255,))
+    d.ellipse((lx - 22, ly + 30, lx + 22, ly + 66), fill=col + (255,))
+
+def wall_clock(im, x, y, t, r=70):
+    d = ImageDraw.Draw(im)
+    d.ellipse((x - r - 10, y - r - 10, x + r + 10, y + r + 10), fill=(110, 76, 40, 255), outline=INK+(255,), width=4)
+    d.ellipse((x - r, y - r, x + r, y + r), fill=(236, 226, 200, 255), outline=INK+(255,), width=3)
+    for k in range(12):
+        a = k*math.pi/6; d.line((x + (r - 12)*math.sin(a), y - (r - 12)*math.cos(a), x + (r - 4)*math.sin(a), y - (r - 4)*math.cos(a)), fill=INK+(255,), width=3)
+    a1 = t*1.2; a2 = t*.1
+    d.line((x, y, x + (r - 16)*math.sin(a1), y - (r - 16)*math.cos(a1)), fill=INK+(255,), width=4)
+    d.line((x, y, x + (r - 34)*math.sin(a2), y - (r - 34)*math.cos(a2)), fill=INK+(255,), width=6)
+
+def sparkle(im, x, y, t, s=1.0, col=(255, 240, 180)):
+    k = .5 + .5*math.sin(t*9 + x)
+    if k < .15: return
+    d = ImageDraw.Draw(im); L = 26*s*k
+    d.polygon([(x, y - L), (x + L*.22, y), (x, y + L), (x - L*.22, y)], fill=col + (230,))
+    d.polygon([(x - L, y), (x, y - L*.22), (x + L, y), (x, y + L*.22)], fill=col + (230,))
+
+def puff(im, x, y, t, t0, col=(150, 120, 90), n=10, spread=160):
+    a = t - t0
+    if a < 0 or a > 1.2: return
+    layer = Image.new('RGBA', (W, H)); d = ImageDraw.Draw(layer); rnd = random.Random(int(x))
+    for k in range(n):
+        ang = rnd.uniform(0, 2*math.pi); dist = spread*min(1, a*2.2)*rnd.uniform(.5, 1)
+        r = 24 + 40*a; al = int(170*(1 - a/1.2))
+        cx, cy = x + dist*math.cos(ang), y - abs(dist*math.sin(ang))*.6
+        d.ellipse((cx - r, cy - r, cx + r, cy + r), fill=col + (al,))
+    im.alpha_composite(layer.filter(ImageFilter.GaussianBlur(10)))
+
+def wallpaper(im, col=(110, 86, 74), y0=650, y1=1230, step=90, seed=0):
+    d = ImageDraw.Draw(im)
+    for yy in range(y0 + 30, y1, step):
+        for xx in range(80 + ((yy//step) % 2)*step//2, 1020, step):
+            d.ellipse((xx - 10, yy - 16, xx + 10, yy + 16), outline=col + (255,), width=3)
+            d.line((xx, yy - 26, xx, yy + 26), fill=col + (160,), width=2)

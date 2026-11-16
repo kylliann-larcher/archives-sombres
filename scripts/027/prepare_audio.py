@@ -6,11 +6,13 @@ HERE=Path(__file__).resolve().parent
 SR=44100
 # Prise 027 à la vitesse 1,15 : sans accélération au montage (sinon moins de 35 s).
 TEMPO=1.0
-raw=subprocess.check_output(['ffmpeg','-v','error','-i',str(HERE/'voice/voice.mp3'),'-af',f'atempo={TEMPO}','-f','s16le','-ac','1','-ar',str(SR),'-'])
+raw=subprocess.check_output(['ffmpeg','-v','error','-i',str(HERE/'voice-v2/voice.mp3'),'-af',f'atempo={TEMPO}','-f','s16le','-ac','1','-ar',str(SR),'-'])
 a=np.frombuffer(raw,np.int16).astype(np.float64)/32768
-j=json.loads((HERE/'voice/alignment.json').read_text(encoding='utf-8'))
+j=json.loads((HERE/'voice-v2/alignment.json').read_text(encoding='utf-8'))
 al=j['alignment']
 txt=''.join(al['characters'])
+# Les balises d'intonation [..] ne sont pas prononcées : on les masque sans décaler les indices.
+txt=re.sub(r'\[[^\]]*\]',lambda m:' '*len(m[0]),txt)
 start=[t/TEMPO for t in al['character_start_times_seconds']]; end=[t/TEMPO for t in al['character_end_times_seconds']]
 # Locate the actual silence before CTA, not the punctuation's synthetic timing.
 ci=txt.index("N'h");qi=txt.rindex('?',0,ci)

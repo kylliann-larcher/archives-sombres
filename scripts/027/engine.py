@@ -9,6 +9,7 @@ exec(open(f"{HERE}/gen_base.py", encoding="utf-8").read())
 exec(open(f"{HERE}/gen027.py", encoding="utf-8").read())
 
 FPS = 30
+DUST_COL = (255, 226, 170)
 WD = json.load(open(f"{HERE}/words2.json", encoding="utf-8"))
 WORDS = WD["words"]; DUR = WD["dur"]
 def T(i): return WORDS[i]["start"] if i < len(WORDS) else DUR
@@ -116,6 +117,7 @@ def camera(world, t, rel, dur, focus, shot_idx, shake):
     else: z0, z1 = 1.16, 1.28; fy = min(max(fy, 980), 1080)
     if shot_idx in (0, 1) and ch == 0: z0, z1 = 1.05, 1.12; fx, fy = W/2, H/2
     z = z0 + (z1 - z0)*p
+    if shot_idx > 0 and rel < 0.2: z *= 1 + 0.09*(1 - rel/0.2)**2  # zoom d'impact à chaque coupe
     cx = fx + shake[0]; cy = fy + shake[1]
     vw, vh = W/z, H/z
     cx = min(max(cx, vw/2), W - vw/2); cy = min(max(cy, vh/2), H - vh/2)
@@ -142,6 +144,8 @@ def frame_at(S, idx, fr, fa, dur, vig):
                 if flash is None or fa_ > flash[1]: flash = (col, fa_)
     frame = camera(world, t, rel, dur, S["focus"], idx, (sx, sy)).convert("RGB")
     frame = ImageChops.multiply(frame, vig)
+    frame = frame.convert("RGBA"); frame.alpha_composite(dust(frame, t, col=DUST_COL)); frame = frame.convert("RGB")
+    if idx > 0 and rel < 0.1: frame = Image.blend(frame, Image.new("RGB", (W, H), (255, 236, 210)), 0.32*(1 - rel/0.1))  # transition flash
     if flash:
         ov = Image.new("RGB", (W, H), flash[0]); frame = Image.blend(frame, ov, flash[1])
     frame = Image.composite(Image.new("RGB", (W, H), (6, 4, 4)), frame, SCRIM)

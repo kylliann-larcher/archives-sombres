@@ -60,3 +60,27 @@ def book(im,x,y,t):
         d.rectangle((x+60,y-170+k*55,x+150,y-125+k*55),fill=(160,136,100,255),outline=INK+(255,),width=2)
     mx=x+int(140*math.sin(t*1.5));my=y-100
     d.ellipse((mx-80,my-80,mx+80,my+80),outline=(60,50,40,255),width=12);d.line((mx+56,my+56,mx+150,my+150),fill=(60,40,26,255),width=22)
+
+# ---------- v2 : décor enrichi ----------
+def parlor2(seed, window=True):
+    im = parlor(seed); wallpaper(im, (104, 82, 70))
+    d = ImageDraw.Draw(im)
+    if window:
+        d.rectangle((760, 720, 960, 980), fill=(40, 52, 80, 255), outline=INK+(255,), width=6)
+        d.line((860, 720, 860, 980), fill=INK+(255,), width=5); d.line((760, 850, 960, 850), fill=INK+(255,), width=5)
+        d.ellipse((880, 740, 940, 800), fill=(230, 230, 210, 255))
+    return im
+
+def parlor_life(im, t, window=True):
+    if window: rays(im, 860, 760, t, (200, 210, 255), 3, 18, 700, .1)
+    candle_lit(im, 120, 1120, t, .8)
+
+def camera_flash(frame_im, t, t0):
+    a = t - t0
+    if 0 <= a < .35:
+        layer = Image.new('RGBA', (W, H), (255, 255, 240, int(200*(1 - a/.35)))); frame_im.alpha_composite(layer)
+
+def portraits_wall(im, t):
+    for k, (x, y) in enumerate(((200, 760), (380, 740), (560, 770))):
+        d = ImageDraw.Draw(im); d.ellipse((x - 60, y - 76, x + 60, y + 76), fill=(110, 76, 40, 255), outline=INK+(255,), width=4)
+        d.ellipse((x - 46, y - 62, x + 46, y + 62), fill=SEPIA_L+(255,)); d.ellipse((x - 20, y - 40, x + 20, y), fill=(150, 120, 90, 255)); d.rectangle((x - 30, y, x + 30, y + 50), fill=SEPIA_D+(255,))

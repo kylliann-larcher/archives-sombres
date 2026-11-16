@@ -1,8 +1,9 @@
+CAPTIONS 51 max width 615.7
 done 1
 done 0
 done 2
-done 4
 done 3
+done 4
 done 5
 done 6
 done 7
@@ -10,11 +11,13 @@ done 9
 done 8
 done 10
 done 11
+done 12
+done 13
 {
-  "duration_requested": 35.43333333333333,
-  "integrated_lufs": -14.19,
-  "true_peak_db": -2.1,
-  "lra": 1.7,
+  "duration_requested": 36.833333333333336,
+  "integrated_lufs": -14.44,
+  "true_peak_db": -2.15,
+  "lra": 2.1,
   "music_below_voice_rms_db": 10.01,
   "pause_seconds": 0.5,
   "one_take": true,
@@ -24,13 +27,13 @@ done 11
 FINAL_MP4_READY
 {
   "samples_every_seconds": 0.5,
-  "samples": 71,
+  "samples": 74,
   "band_y": [
     340,
     1040
   ],
-  "pages": 4,
-  "first_last_mean_absolute_rgb_error": 0.9939559220679013,
+  "pages": 5,
+  "first_last_mean_absolute_rgb_error": 1.1004927019032922,
   "probe": {
     "programs": [],
     "stream_groups": [],
@@ -48,8 +51,8 @@ FINAL_MP4_READY
       }
     ],
     "format": {
-      "duration": "35.433333",
-      "size": "10182475"
+      "duration": "36.833333",
+      "size": "12420426"
     }
   }
 }

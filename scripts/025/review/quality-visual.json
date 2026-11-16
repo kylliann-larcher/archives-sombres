@@ -1,12 +1,12 @@
 {
   "samples_every_seconds": 0.5,
-  "samples": 71,
+  "samples": 74,
   "band_y": [
     340,
     1040
   ],
-  "pages": 4,
-  "first_last_mean_absolute_rgb_error": 0.9939559220679013,
+  "pages": 5,
+  "first_last_mean_absolute_rgb_error": 1.1004927019032922,
   "probe": {
     "programs": [],
     "stream_groups": [],
@@ -24,8 +24,8 @@
       }
     ],
     "format": {
-      "duration": "35.433333",
-      "size": "10245802"
+      "duration": "36.833333",
+      "size": "12420426"
     }
   }
 }

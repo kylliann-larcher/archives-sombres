@@ -3,656 +3,656 @@
   "words": [
     {
       "text": "Ces",
-      "start": 0,
-      "end": 0.135,
+      "start": 0.065,
+      "end": 0.225,
       "ph": 0
     },
     {
       "text": "Victoriens",
-      "start": 0.215,
-      "end": 0.695,
+      "start": 0.385,
+      "end": 0.865,
       "ph": 0
     },
     {
       "text": "debout",
-      "start": 0.775,
-      "end": 1.015,
+      "start": 0.985,
+      "end": 1.185,
       "ph": 0
     },
     {
       "text": "sur",
-      "start": 1.095,
-      "end": 1.175,
+      "start": 1.265,
+      "end": 1.345,
       "ph": 0
     },
     {
       "text": "la",
-      "start": 1.255,
-      "end": 1.335,
+      "start": 1.425,
+      "end": 1.505,
       "ph": 0
     },
     {
-      "text": "photo",
-      "start": 1.535,
-      "end": 1.735,
+      "text": "photo…",
+      "start": 1.705,
+      "end": 2.105,
       "ph": 0
     },
     {
       "text": "seraient",
-      "start": 1.815,
-      "end": 2.135,
+      "start": 2.305,
+      "end": 2.625,
       "ph": 0
     },
     {
       "text": "morts.",
-      "start": 2.175,
-      "end": 2.695,
+      "start": 2.665,
+      "end": 3.225,
       "ph": 0
     },
     {
       "text": "C'est",
-      "start": 2.855,
-      "end": 2.935,
+      "start": 3.545,
+      "end": 3.585,
       "ph": 1
     },
     {
       "text": "ce",
-      "start": 2.975,
-      "end": 3.015,
+      "start": 3.625,
+      "end": 3.665,
       "ph": 1
     },
     {
       "text": "qu'on",
-      "start": 3.042,
-      "end": 3.095,
+      "start": 3.705,
+      "end": 3.825,
       "ph": 1
     },
     {
       "text": "raconte",
-      "start": 3.175,
-      "end": 3.495,
+      "start": 3.905,
+      "end": 4.225,
       "ph": 1
     },
     {
       "text": "partout.",
-      "start": 3.615,
-      "end": 4.095,
+      "start": 4.345,
+      "end": 4.825,
       "ph": 1
     },
     {
       "text": "Et",
-      "start": 4.295,
-      "end": 4.375,
+      "start": 5.089,
+      "end": 5.105,
       "ph": 2
     },
     {
       "text": "c'est",
-      "start": 4.455,
-      "end": 4.615,
+      "start": 5.185,
+      "end": 5.425,
       "ph": 2
     },
     {
       "text": "faux.",
-      "start": 4.695,
-      "end": 5.255,
+      "start": 5.465,
+      "end": 5.865,
       "ph": 2
     },
     {
       "text": "Au",
-      "start": 5.295,
-      "end": 5.335,
+      "start": 6.145,
+      "end": 6.225,
       "ph": 3
     },
     {
       "text": "dix-neuvième",
-      "start": 5.415,
-      "end": 5.975,
+      "start": 6.265,
+      "end": 6.785,
       "ph": 3
     },
     {
       "text": "siècle,",
-      "start": 6.055,
-      "end": 6.615,
+      "start": 6.865,
+      "end": 7.385,
       "ph": 3
     },
     {
       "text": "beaucoup",
-      "start": 6.655,
-      "end": 6.935,
+      "start": 7.425,
+      "end": 7.665,
       "ph": 3
     },
     {
       "text": "de",
-      "start": 6.975,
-      "end": 7.015,
+      "start": 7.705,
+      "end": 7.745,
       "ph": 3
     },
     {
       "text": "familles",
-      "start": 7.095,
-      "end": 7.415,
+      "start": 7.785,
+      "end": 8.065,
       "ph": 3
     },
     {
       "text": "n'ont",
-      "start": 7.495,
-      "end": 7.735,
+      "start": 8.105,
+      "end": 8.305,
       "ph": 3
     },
     {
       "text": "aucune",
-      "start": 7.855,
-      "end": 8.135,
+      "start": 8.425,
+      "end": 8.705,
       "ph": 3
     },
     {
       "text": "photo",
-      "start": 8.215,
-      "end": 8.455,
+      "start": 8.825,
+      "end": 8.945,
       "ph": 3
     },
     {
       "text": "de",
-      "start": 8.495,
-      "end": 8.535,
+      "start": 9.025,
+      "end": 9.078,
       "ph": 3
     },
     {
       "text": "leurs",
-      "start": 8.615,
-      "end": 8.695,
+      "start": 9.132,
+      "end": 9.185,
       "ph": 3
     },
     {
       "text": "proches.",
-      "start": 8.775,
-      "end": 9.495,
+      "start": 9.265,
+      "end": 9.996,
       "ph": 3
     },
     {
       "text": "Alors,",
-      "start": 9.575,
-      "end": 10.055,
+      "start": 10.065,
+      "end": 10.572,
       "ph": 4
     },
     {
       "text": "quand",
-      "start": 10.082,
-      "end": 10.135,
+      "start": 10.598,
+      "end": 10.705,
       "ph": 4
     },
     {
       "text": "quelqu'un",
-      "start": 10.215,
-      "end": 10.535,
+      "start": 10.785,
+      "end": 11.025,
       "ph": 4
     },
     {
       "text": "meurt,",
-      "start": 10.615,
-      "end": 11.175,
+      "start": 11.105,
+      "end": 11.705,
       "ph": 4
     },
     {
       "text": "on",
-      "start": 11.215,
-      "end": 11.255,
+      "start": 11.745,
+      "end": 11.825,
       "ph": 4
     },
     {
       "text": "fait",
-      "start": 11.335,
-      "end": 11.415,
+      "start": 11.905,
+      "end": 11.985,
       "ph": 4
     },
     {
       "text": "venir",
-      "start": 11.535,
-      "end": 11.655,
+      "start": 12.105,
+      "end": 12.225,
       "ph": 4
     },
     {
       "text": "le",
-      "start": 11.695,
-      "end": 11.735,
+      "start": 12.265,
+      "end": 12.305,
       "ph": 4
     },
     {
       "text": "photographe.",
-      "start": 11.815,
-      "end": 12.455,
+      "start": 12.385,
+      "end": 13.276,
       "ph": 4
     },
     {
       "text": "Ces",
-      "start": 12.855,
-      "end": 12.935,
+      "start": 13.345,
+      "end": 13.505,
       "ph": 5
     },
     {
       "text": "photos",
-      "start": 13.015,
-      "end": 13.255,
+      "start": 13.625,
+      "end": 13.745,
       "ph": 5
     },
     {
       "text": "de",
-      "start": 13.335,
-      "end": 13.375,
+      "start": 13.825,
+      "end": 13.905,
       "ph": 5
     },
     {
       "text": "défunts",
-      "start": 13.415,
-      "end": 13.895,
+      "start": 14.025,
+      "end": 14.465,
       "ph": 5
     },
     {
       "text": "ont",
-      "start": 14.015,
-      "end": 14.135,
+      "start": 14.585,
+      "end": 14.705,
       "ph": 5
     },
     {
       "text": "vraiment",
-      "start": 14.175,
-      "end": 14.535,
+      "start": 14.745,
+      "end": 15.025,
       "ph": 5
     },
     {
       "text": "existé.",
-      "start": 14.615,
-      "end": 15.175,
+      "start": 15.105,
+      "end": 15.916,
       "ph": 5
     },
     {
       "text": "Mais",
-      "start": 15.495,
-      "end": 15.575,
+      "start": 15.985,
+      "end": 16.065,
       "ph": 6
     },
     {
       "text": "les",
-      "start": 15.655,
-      "end": 15.735,
+      "start": 16.145,
+      "end": 16.225,
       "ph": 6
     },
     {
       "text": "morts",
-      "start": 15.775,
-      "end": 15.895,
+      "start": 16.265,
+      "end": 16.465,
       "ph": 6
     },
     {
       "text": "y",
-      "start": 15.975,
-      "end": 16.055,
+      "start": 16.505,
+      "end": 16.545,
       "ph": 6
     },
     {
       "text": "sont",
-      "start": 16.095,
-      "end": 16.295,
+      "start": 16.625,
+      "end": 16.785,
       "ph": 6
     },
     {
       "text": "allongés,",
-      "start": 16.375,
-      "end": 17.015,
+      "start": 16.865,
+      "end": 17.545,
       "ph": 6
     },
     {
       "text": "comme",
-      "start": 17.055,
-      "end": 17.175,
+      "start": 17.585,
+      "end": 17.705,
       "ph": 6
     },
     {
       "text": "endormis.",
-      "start": 17.255,
-      "end": 18.135,
+      "start": 17.745,
+      "end": 18.558,
       "ph": 6
     },
     {
       "text": "Et",
-      "start": 18.215,
-      "end": 18.295,
+      "start": 18.625,
+      "end": 18.785,
       "ph": 7
     },
     {
       "text": "ces",
-      "start": 18.375,
-      "end": 18.455,
+      "start": 18.865,
+      "end": 19.025,
       "ph": 7
     },
     {
       "text": "pieds",
-      "start": 18.495,
-      "end": 18.655,
+      "start": 19.078,
+      "end": 19.238,
       "ph": 7
     },
     {
       "text": "en",
-      "start": 18.695,
-      "end": 18.775,
+      "start": 19.292,
+      "end": 19.345,
       "ph": 7
     },
     {
       "text": "métal",
-      "start": 18.815,
-      "end": 19.175,
+      "start": 19.385,
+      "end": 19.745,
       "ph": 7
     },
     {
       "text": "derrière",
-      "start": 19.255,
-      "end": 19.495,
+      "start": 19.785,
+      "end": 19.985,
       "ph": 7
     },
     {
       "text": "les",
-      "start": 19.535,
-      "end": 19.575,
+      "start": 20.065,
+      "end": 20.145,
       "ph": 7
     },
     {
       "text": "gens?",
-      "start": 19.655,
-      "end": 19.815,
+      "start": 20.225,
+      "end": 20.305,
       "ph": 7
     },
     {
       "text": "Ils",
-      "start": 20.188,
-      "end": 20.375,
+      "start": 20.705,
+      "end": 20.865,
       "ph": 8
     },
     {
       "text": "tenaient",
-      "start": 20.455,
-      "end": 20.615,
+      "start": 20.945,
+      "end": 21.105,
       "ph": 8
     },
     {
       "text": "les",
-      "start": 20.695,
-      "end": 20.775,
+      "start": 21.185,
+      "end": 21.265,
       "ph": 8
     },
     {
       "text": "vivants",
-      "start": 20.828,
-      "end": 21.175,
+      "start": 21.305,
+      "end": 21.665,
       "ph": 8
     },
     {
       "text": "immobiles",
-      "start": 21.295,
-      "end": 21.735,
+      "start": 21.745,
+      "end": 22.225,
       "ph": 8
     },
     {
       "text": "pendant",
-      "start": 21.815,
-      "end": 21.975,
+      "start": 22.305,
+      "end": 22.465,
       "ph": 8
     },
     {
       "text": "la",
-      "start": 22.055,
-      "end": 22.135,
+      "start": 22.545,
+      "end": 22.625,
       "ph": 8
     },
     {
-      "text": "pose.",
-      "start": 22.295,
-      "end": 22.775,
+      "text": "pose!",
+      "start": 22.785,
+      "end": 22.945,
       "ph": 8
     },
     {
       "text": "Ils",
-      "start": 22.815,
-      "end": 22.935,
+      "start": 23.345,
+      "end": 23.505,
       "ph": 9
     },
     {
       "text": "étaient",
-      "start": 23.015,
-      "end": 23.255,
+      "start": 23.585,
+      "end": 23.825,
       "ph": 9
     },
     {
       "text": "bien",
-      "start": 23.308,
-      "end": 23.415,
+      "start": 23.905,
+      "end": 24.065,
       "ph": 9
     },
     {
       "text": "trop",
-      "start": 23.495,
-      "end": 23.655,
+      "start": 24.118,
+      "end": 24.225,
       "ph": 9
     },
     {
       "text": "légers",
-      "start": 23.735,
-      "end": 23.975,
+      "start": 24.305,
+      "end": 24.545,
       "ph": 9
     },
     {
       "text": "pour",
-      "start": 24.055,
-      "end": 24.135,
+      "start": 24.625,
+      "end": 24.705,
       "ph": 9
     },
     {
       "text": "porter",
-      "start": 24.295,
-      "end": 24.455,
+      "start": 24.865,
+      "end": 25.025,
       "ph": 9
     },
     {
       "text": "un",
-      "start": 24.535,
-      "end": 24.615,
+      "start": 25.105,
+      "end": 25.185,
       "ph": 9
     },
     {
       "text": "corps.",
-      "start": 24.695,
-      "end": 25.255,
+      "start": 25.265,
+      "end": 25.785,
       "ph": 9
     },
     {
       "text": "Selon",
-      "start": 25.335,
-      "end": 25.495,
+      "start": 25.953,
+      "end": 26.065,
       "ph": 10
     },
     {
       "text": "les",
-      "start": 25.535,
-      "end": 25.575,
+      "start": 26.145,
+      "end": 26.225,
       "ph": 10
     },
     {
       "text": "historiens,",
-      "start": 25.655,
-      "end": 26.455,
+      "start": 26.425,
+      "end": 27.065,
       "ph": 10
     },
     {
       "text": "aucune",
-      "start": 26.575,
-      "end": 26.855,
+      "start": 27.105,
+      "end": 27.505,
       "ph": 10
     },
     {
       "text": "photo",
-      "start": 26.935,
-      "end": 27.255,
+      "start": 27.665,
+      "end": 27.825,
       "ph": 10
     },
     {
       "text": "connue",
-      "start": 27.375,
-      "end": 27.575,
+      "start": 27.945,
+      "end": 28.145,
       "ph": 10
     },
     {
       "text": "ne",
-      "start": 27.655,
-      "end": 27.815,
+      "start": 28.225,
+      "end": 28.305,
       "ph": 10
     },
     {
       "text": "montre",
-      "start": 27.895,
-      "end": 28.055,
+      "start": 28.385,
+      "end": 28.545,
       "ph": 10
     },
     {
       "text": "un",
-      "start": 28.135,
-      "end": 28.215,
+      "start": 28.625,
+      "end": 28.705,
       "ph": 10
     },
     {
       "text": "mort",
-      "start": 28.375,
-      "end": 28.535,
+      "start": 28.825,
+      "end": 28.945,
       "ph": 10
     },
     {
       "text": "debout",
-      "start": 28.655,
-      "end": 28.935,
+      "start": 29.025,
+      "end": 29.425,
       "ph": 10
     },
     {
       "text": "qui",
-      "start": 29.015,
-      "end": 29.095,
+      "start": 29.505,
+      "end": 29.585,
       "ph": 10
     },
     {
       "text": "semble",
-      "start": 29.255,
-      "end": 29.415,
+      "start": 29.745,
+      "end": 29.905,
       "ph": 10
     },
     {
       "text": "vivant.",
-      "start": 29.455,
-      "end": 30.135,
+      "start": 29.945,
+      "end": 30.558,
       "ph": 10
     },
     {
       "text": "Et",
-      "start": 30.215,
-      "end": 30.295,
+      "start": 30.625,
+      "end": 30.705,
       "ph": 11
     },
     {
       "text": "toi,",
-      "start": 30.415,
-      "end": 30.775,
+      "start": 30.945,
+      "end": 31.212,
       "ph": 11
     },
     {
       "text": "tu",
-      "start": 30.815,
-      "end": 30.855,
+      "start": 31.238,
+      "end": 31.265,
       "ph": 11
     },
     {
       "text": "y",
-      "start": 30.935,
-      "end": 31.015,
+      "start": 31.345,
+      "end": 31.385,
       "ph": 11
     },
     {
       "text": "croyais?",
-      "start": 31.095,
-      "end": 31.335,
+      "start": 31.425,
+      "end": 31.745,
       "ph": 11
     },
     {
       "text": "N'hésite",
-      "start": 32.088,
-      "end": 32.435,
+      "start": 32.395,
+      "end": 32.635,
       "ph": 12
     },
     {
       "text": "pas",
-      "start": 32.475,
-      "end": 32.515,
+      "start": 32.715,
+      "end": 32.755,
       "ph": 12
     },
     {
       "text": "à",
-      "start": 32.555,
-      "end": 32.595,
+      "start": 32.795,
+      "end": 32.835,
       "ph": 12
     },
     {
       "text": "t'abonner",
-      "start": 32.675,
-      "end": 33.075,
+      "start": 32.875,
+      "end": 33.275,
       "ph": 12
     },
     {
       "text": "si",
-      "start": 33.155,
-      "end": 33.315,
+      "start": 33.355,
+      "end": 33.435,
       "ph": 12
     },
     {
       "text": "tu",
-      "start": 33.355,
-      "end": 33.395,
+      "start": 33.475,
+      "end": 33.515,
       "ph": 12
     },
     {
       "text": "aimes",
-      "start": 33.435,
-      "end": 33.555,
+      "start": 33.568,
+      "end": 33.675,
       "ph": 12
     },
     {
       "text": "ce",
-      "start": 33.635,
-      "end": 33.715,
+      "start": 33.715,
+      "end": 33.755,
       "ph": 12
     },
     {
       "text": "genre",
-      "start": 33.795,
-      "end": 33.875,
+      "start": 33.835,
+      "end": 33.915,
       "ph": 12
     },
     {
       "text": "de",
-      "start": 33.955,
-      "end": 34.035,
+      "start": 33.995,
+      "end": 34.075,
       "ph": 12
     },
     {
       "text": "contenu.",
-      "start": 34.115,
-      "end": 34.5919,
+      "start": 34.155,
+      "end": 34.6313,
       "ph": 12
     }
   ],
-  "dur": 35.166666666666664,
-  "question_start": 30.215,
-  "cta_start": 32.088,
-  "pause_start": 31.555,
-  "pause_end": 32.055,
-  "trim": 0.025,
+  "dur": 35.2,
+  "question_start": 30.625,
+  "cta_start": 32.395,
+  "pause_start": 31.875,
+  "pause_end": 32.375,
+  "trim": 0.095,
   "original_gap": [
-    31.58,
-    31.78
+    31.97,
+    32.22
   ],
   "method": "ElevenLabs native character alignment, split on whitespace, verified silence gap replaced by exactly 0.5s"
 }

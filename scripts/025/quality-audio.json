@@ -1,8 +1,8 @@
 {
-  "duration_requested": 35.43333333333333,
-  "integrated_lufs": -14.19,
-  "true_peak_db": -2.1,
-  "lra": 1.7,
+  "duration_requested": 36.833333333333336,
+  "integrated_lufs": -14.44,
+  "true_peak_db": -2.15,
+  "lra": 2.1,
   "music_below_voice_rms_db": 10.01,
   "pause_seconds": 0.5,
   "one_take": true,

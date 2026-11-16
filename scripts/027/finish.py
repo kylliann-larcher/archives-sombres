@@ -20,7 +20,7 @@ for bt in np.arange(0,dur,60/72):
 vrms=np.sqrt(np.mean(v*v));brms=np.sqrt(np.mean(bed*bed));bed*=vrms/(10**(10/20))/brms
 bed*=np.minimum(1,np.maximum(0,(dur-t)/.25))
 fx=np.zeros(len(v))
-for k in (7, 15, 36, 51, 67, 90):
+for k in (7, 15, 36, 51, 67, 76, 90):
     i=int(data['words'][k]['start']*SR);n=min(int(.25*SR),len(v)-i);tt=np.arange(n)/SR
     fx[i:i+n]+=(np.sin(2*np.pi*(58*tt+4*(1-np.exp(-tt*13))))*.5)*np.exp(-tt*20)*vrms
 mix=v+bed+fx

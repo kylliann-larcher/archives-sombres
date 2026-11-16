@@ -93,3 +93,59 @@ def crate(im,x,y,label=True):
 def mumia_jar(im,x=470,y=1200):
     d=ImageDraw.Draw(im);d.rounded_rectangle((x-90,y-240,x+90,y),radius=30,fill=(150,110,60,255),outline=INK+(255,),width=5)
     d.rectangle((x-70,y-140,x+70,y-80),fill=(230,214,170,255),outline=INK+(255,),width=3);d.text((x,y-110),'MUMIA',font=font(36),fill=(40,24,14,255),anchor='mm')
+
+# ---------- v2 : décor enrichi ----------
+def crocodile(im, x, y, s=1.0):
+    d = ImageDraw.Draw(im)
+    d.line((x - 180*s, y - 60*s, x - 180*s, y), fill=INK+(255,), width=3); d.line((x + 180*s, y - 60*s, x + 180*s, y), fill=INK+(255,), width=3)
+    d.polygon([(x - 300*s, y + 10*s), (x - 120*s, y - 20*s), (x + 160*s, y - 16*s), (x + 320*s, y + 20*s), (x + 160*s, y + 40*s), (x - 120*s, y + 40*s)], fill=(80, 96, 60, 255), outline=INK+(255,))
+    for k in range(9): d.line((x - 200*s + k*50*s, y - 14*s, x - 180*s + k*50*s, y + 30*s), fill=(60, 74, 44, 255), width=4)
+    d.ellipse((x + 230*s, y, x + 250*s, y + 14*s), fill=(230, 200, 80, 255))
+
+def herbs(im, x, y, n=4):
+    d = ImageDraw.Draw(im)
+    for k in range(n):
+        xx = x + k*70; d.line((xx, y - 30, xx, y), fill=INK+(255,), width=2)
+        d.polygon([(xx - 22, y), (xx + 22, y), (xx + 8, y + 90), (xx - 8, y + 90)], fill=(90 + k*12, 110, 60, 255), outline=INK+(255,))
+
+def shop2(seed, croc=True):
+    im = shop(seed)
+    if croc: crocodile(im, 520, 690, .9)
+    herbs(im, 140, 700); herbs(im, 760, 700, 3)
+    return im
+
+def balance(im, x, y, t):
+    d = ImageDraw.Draw(im); a = math.radians(10*math.sin(t*2.2))
+    d.line((x, y, x, y - 260), fill=(160, 130, 70, 255), width=10); d.polygon([(x - 60, y), (x + 60, y), (x, y - 30)], fill=(160, 130, 70, 255))
+    bx, by = 170*math.cos(a), 170*math.sin(a)
+    d.line((x - bx, y - 260 - by, x + bx, y - 260 + by), fill=(160, 130, 70, 255), width=8)
+    for sx, sy in ((-bx, -by), (bx, by)):
+        px, py = x + sx, y - 260 + sy
+        d.line((px, py, px - 40, py + 90), fill=INK+(255,), width=2); d.line((px, py, px + 40, py + 90), fill=INK+(255,), width=2)
+        d.chord((px - 60, py + 60, px + 60, py + 120), 0, 180, fill=(190, 160, 90, 255), outline=INK+(255,))
+    d.ellipse((x + bx - 22, y - 260 + by + 62, x + bx + 22, y - 260 + by + 86), fill=POWDER+(255,))
+
+def pyramids(im, y=1040):
+    d = ImageDraw.Draw(im)
+    for x, h, w in ((260, 260, 300), (620, 200, 240), (860, 140, 170)):
+        d.polygon([(x - w, y), (x, y - h), (x + w, y)], fill=(196, 160, 100, 255), outline=(120, 90, 50, 255))
+        d.polygon([(x, y - h), (x + w, y), (x + w*.2, y)], fill=(170, 134, 80, 255))
+
+def heat(im, t):
+    layer = Image.new('RGBA', (W, H)); d = ImageDraw.Draw(layer)
+    for k in range(6):
+        y = 1000 + k*30; pts = [(x, y + 6*math.sin(x/60 + t*4 + k)) for x in range(0, W + 40, 40)]
+        d.line(pts, fill=(255, 230, 180, 60), width=6)
+    im.alpha_composite(layer.filter(ImageFilter.GaussianBlur(4)))
+
+def vulture(im, x, y, t):
+    d = ImageDraw.Draw(im); f = 20*math.sin(t*5)
+    d.line((x - 60, y - f, x, y, x + 60, y - f), fill=(30, 22, 18, 255), width=8, joint='curve')
+
+def throne_room(seed):
+    im = paper(seed, .05, (90, 40, 50)); d = ImageDraw.Draw(im)
+    for x in (40, 940):
+        for k in range(6): d.rectangle((x + k*16, 600, x + k*16 + 14, 1300), fill=(150 - k*8, 30, 40, 255))
+    d.rectangle((0, 1240, W, H), fill=(60, 26, 34, 255))
+    for k in range(-6, 7): d.line((540 + k*40, 1240, 540 + k*240, H), fill=(80, 36, 44, 255), width=3)
+    return im

@@ -6,7 +6,7 @@
     1040
   ],
   "pages": 4,
-  "first_last_mean_absolute_rgb_error": 0.7646233603395062,
+  "first_last_mean_absolute_rgb_error": 0.8444801311728395,
   "probe": {
     "programs": [],
     "stream_groups": [],
@@ -24,8 +24,8 @@
       }
     ],
     "format": {
-      "duration": "35.166667",
-      "size": "8212758"
+      "duration": "35.200000",
+      "size": "10727192"
     }
   }
 }
