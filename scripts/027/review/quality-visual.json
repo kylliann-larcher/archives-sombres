@@ -1,0 +1,31 @@
+{
+  "samples_every_seconds": 0.5,
+  "samples": 71,
+  "band_y": [
+    340,
+    1040
+  ],
+  "pages": 4,
+  "first_last_mean_absolute_rgb_error": 0.7646233603395062,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1"
+      },
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "35.166667",
+      "size": "8212758"
+    }
+  }
+}

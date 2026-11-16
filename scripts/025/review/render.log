@@ -1,0 +1,55 @@
+done 1
+done 0
+done 2
+done 4
+done 3
+done 5
+done 6
+done 7
+done 9
+done 8
+done 10
+done 11
+{
+  "duration_requested": 35.43333333333333,
+  "integrated_lufs": -14.19,
+  "true_peak_db": -2.1,
+  "lra": 1.7,
+  "music_below_voice_rms_db": 10.01,
+  "pause_seconds": 0.5,
+  "one_take": true,
+  "voices_generated": 1,
+  "manual_listening": "not claimed; user review pending"
+}
+FINAL_MP4_READY
+{
+  "samples_every_seconds": 0.5,
+  "samples": 71,
+  "band_y": [
+    340,
+    1040
+  ],
+  "pages": 4,
+  "first_last_mean_absolute_rgb_error": 0.9939559220679013,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1"
+      },
+      {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "35.433333",
+      "size": "10182475"
+    }
+  }
+}

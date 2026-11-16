@@ -1,0 +1,9 @@
+__pycache__/
+shots/
+*.wav
+video-raw.mp4
+video-025-*.mp4
+concat.txt
+voice/response.json
+voice/generation-requested.md
+review/frames/
