@@ -1,0 +1,732 @@
+{
+  "question_ph": 11,
+  "words": [
+    {
+      "text": "On",
+      "start": 0.04,
+      "end": 0.1412,
+      "ph": 0
+    },
+    {
+      "text": "t'enterre",
+      "start": 0.1412,
+      "end": 0.5461,
+      "ph": 0
+    },
+    {
+      "text": "avec",
+      "start": 0.5461,
+      "end": 0.7485,
+      "ph": 0
+    },
+    {
+      "text": "une",
+      "start": 0.7485,
+      "end": 0.9003,
+      "ph": 0
+    },
+    {
+      "text": "cloche",
+      "start": 0.9003,
+      "end": 1.2039,
+      "ph": 0
+    },
+    {
+      "text": "dans",
+      "start": 1.2039,
+      "end": 1.4064,
+      "ph": 0
+    },
+    {
+      "text": "la",
+      "start": 1.4064,
+      "end": 1.5076,
+      "ph": 0
+    },
+    {
+      "text": "main.",
+      "start": 1.5076,
+      "end": 1.71,
+      "ph": 0
+    },
+    {
+      "text": "Au",
+      "start": 2.11,
+      "end": 2.2209,
+      "ph": 1
+    },
+    {
+      "text": "dix-neuvième",
+      "start": 2.2209,
+      "end": 2.8307,
+      "ph": 1
+    },
+    {
+      "text": "siècle,",
+      "start": 2.8307,
+      "end": 3.3433,
+      "ph": 1
+    },
+    {
+      "text": "une",
+      "start": 3.3433,
+      "end": 3.5096,
+      "ph": 1
+    },
+    {
+      "text": "peur",
+      "start": 3.5097,
+      "end": 3.7314,
+      "ph": 1
+    },
+    {
+      "text": "envahit",
+      "start": 3.7314,
+      "end": 4.1195,
+      "ph": 1
+    },
+    {
+      "text": "l'Europe:",
+      "start": 4.1195,
+      "end": 4.6775,
+      "ph": 1
+    },
+    {
+      "text": "être",
+      "start": 4.6775,
+      "end": 4.8993,
+      "ph": 1
+    },
+    {
+      "text": "enterré",
+      "start": 4.8993,
+      "end": 5.2873,
+      "ph": 1
+    },
+    {
+      "text": "vivant.",
+      "start": 5.2873,
+      "end": 5.8,
+      "ph": 1
+    },
+    {
+      "text": "Alors",
+      "start": 6.0,
+      "end": 6.2857,
+      "ph": 2
+    },
+    {
+      "text": "des",
+      "start": 6.2857,
+      "end": 6.4571,
+      "ph": 2
+    },
+    {
+      "text": "inventeurs",
+      "start": 6.4571,
+      "end": 7.0285,
+      "ph": 2
+    },
+    {
+      "text": "imaginent",
+      "start": 7.0285,
+      "end": 7.5428,
+      "ph": 2
+    },
+    {
+      "text": "des",
+      "start": 7.5428,
+      "end": 7.7143,
+      "ph": 2
+    },
+    {
+      "text": "cercueils",
+      "start": 7.7143,
+      "end": 8.2285,
+      "ph": 2
+    },
+    {
+      "text": "de",
+      "start": 8.2285,
+      "end": 8.3428,
+      "ph": 2
+    },
+    {
+      "text": "sécurité.",
+      "start": 8.3428,
+      "end": 8.98,
+      "ph": 2
+    },
+    {
+      "text": "En",
+      "start": 9.14,
+      "end": 9.2664,
+      "ph": 3
+    },
+    {
+      "text": "1868,",
+      "start": 9.2664,
+      "end": 11.0274,
+      "ph": 3
+    },
+    {
+      "text": "à",
+      "start": 11.0274,
+      "end": 11.0906,
+      "ph": 3
+    },
+    {
+      "text": "Newark,",
+      "start": 11.0906,
+      "end": 11.4701,
+      "ph": 3
+    },
+    {
+      "text": "aux",
+      "start": 11.4701,
+      "end": 11.8398,
+      "ph": 3
+    },
+    {
+      "text": "États-Unis,",
+      "start": 11.8398,
+      "end": 12.5889,
+      "ph": 3
+    },
+    {
+      "text": "Franz",
+      "start": 12.5889,
+      "end": 12.9051,
+      "ph": 3
+    },
+    {
+      "text": "Vester",
+      "start": 12.9051,
+      "end": 13.2846,
+      "ph": 3
+    },
+    {
+      "text": "dépose",
+      "start": 13.2846,
+      "end": 13.664,
+      "ph": 3
+    },
+    {
+      "text": "un",
+      "start": 13.664,
+      "end": 13.7905,
+      "ph": 3
+    },
+    {
+      "text": "brevet.",
+      "start": 13.7905,
+      "end": 14.1699,
+      "ph": 3
+    },
+    {
+      "text": "Un",
+      "start": 14.5899,
+      "end": 14.7434,
+      "ph": 4
+    },
+    {
+      "text": "tube",
+      "start": 14.7434,
+      "end": 15.0504,
+      "ph": 4
+    },
+    {
+      "text": "monte",
+      "start": 15.0504,
+      "end": 15.4342,
+      "ph": 4
+    },
+    {
+      "text": "jusqu'à",
+      "start": 15.4342,
+      "end": 15.8947,
+      "ph": 4
+    },
+    {
+      "text": "la",
+      "start": 15.8947,
+      "end": 16.0482,
+      "ph": 4
+    },
+    {
+      "text": "surface,",
+      "start": 16.0482,
+      "end": 16.5854,
+      "ph": 4
+    },
+    {
+      "text": "avec",
+      "start": 16.5854,
+      "end": 16.8924,
+      "ph": 4
+    },
+    {
+      "text": "une",
+      "start": 16.8924,
+      "end": 17.3027,
+      "ph": 4
+    },
+    {
+      "text": "échelle.",
+      "start": 17.3027,
+      "end": 17.8399,
+      "ph": 4
+    },
+    {
+      "text": "Et",
+      "start": 18.2599,
+      "end": 18.3852,
+      "ph": 5
+    },
+    {
+      "text": "une",
+      "start": 18.3852,
+      "end": 18.5732,
+      "ph": 5
+    },
+    {
+      "text": "corde,",
+      "start": 18.5732,
+      "end": 19.0665,
+      "ph": 5
+    },
+    {
+      "text": "tenue",
+      "start": 19.0665,
+      "end": 19.3799,
+      "ph": 5
+    },
+    {
+      "text": "par",
+      "start": 19.3799,
+      "end": 19.5679,
+      "ph": 5
+    },
+    {
+      "text": "le",
+      "start": 19.5679,
+      "end": 19.6932,
+      "ph": 5
+    },
+    {
+      "text": "défunt,",
+      "start": 19.6932,
+      "end": 20.2492,
+      "ph": 5
+    },
+    {
+      "text": "est",
+      "start": 20.2492,
+      "end": 20.4372,
+      "ph": 5
+    },
+    {
+      "text": "reliée",
+      "start": 20.4372,
+      "end": 20.8132,
+      "ph": 5
+    },
+    {
+      "text": "à",
+      "start": 20.8132,
+      "end": 20.8759,
+      "ph": 5
+    },
+    {
+      "text": "une",
+      "start": 20.8759,
+      "end": 21.0639,
+      "ph": 5
+    },
+    {
+      "text": "cloche.",
+      "start": 21.0639,
+      "end": 21.4399,
+      "ph": 5
+    },
+    {
+      "text": "S'il",
+      "start": 21.8598,
+      "end": 22.0248,
+      "ph": 6
+    },
+    {
+      "text": "se",
+      "start": 22.0248,
+      "end": 22.1348,
+      "ph": 6
+    },
+    {
+      "text": "réveille,",
+      "start": 22.1348,
+      "end": 22.5748,
+      "ph": 6
+    },
+    {
+      "text": "il",
+      "start": 22.5748,
+      "end": 22.8648,
+      "ph": 6
+    },
+    {
+      "text": "n'a",
+      "start": 22.8648,
+      "end": 22.9748,
+      "ph": 6
+    },
+    {
+      "text": "qu'à",
+      "start": 22.9748,
+      "end": 23.1398,
+      "ph": 6
+    },
+    {
+      "text": "sonner.",
+      "start": 23.1398,
+      "end": 23.4698,
+      "ph": 6
+    },
+    {
+      "text": "En",
+      "start": 23.8098,
+      "end": 23.9288,
+      "ph": 7
+    },
+    {
+      "text": "Allemagne,",
+      "start": 23.9288,
+      "end": 24.6446,
+      "ph": 7
+    },
+    {
+      "text": "plus",
+      "start": 24.6446,
+      "end": 24.8827,
+      "ph": 7
+    },
+    {
+      "text": "de",
+      "start": 24.8827,
+      "end": 25.0017,
+      "ph": 7
+    },
+    {
+      "text": "trente",
+      "start": 25.0017,
+      "end": 25.3588,
+      "ph": 7
+    },
+    {
+      "text": "modèles",
+      "start": 25.3588,
+      "end": 25.7755,
+      "ph": 7
+    },
+    {
+      "text": "sont",
+      "start": 25.7755,
+      "end": 26.0136,
+      "ph": 7
+    },
+    {
+      "text": "brevetés.",
+      "start": 26.0136,
+      "end": 26.4898,
+      "ph": 7
+    },
+    {
+      "text": "Pourtant,",
+      "start": 26.9098,
+      "end": 27.5098,
+      "ph": 8
+    },
+    {
+      "text": "aucun",
+      "start": 27.5098,
+      "end": 27.7723,
+      "ph": 8
+    },
+    {
+      "text": "sauvetage",
+      "start": 27.7723,
+      "end": 28.2448,
+      "ph": 8
+    },
+    {
+      "text": "prouvé.",
+      "start": 28.2448,
+      "end": 28.5598,
+      "ph": 8
+    },
+    {
+      "text": "Rien",
+      "start": 28.9797,
+      "end": 29.2254,
+      "ph": 9
+    },
+    {
+      "text": "ne",
+      "start": 29.2254,
+      "end": 29.3483,
+      "ph": 9
+    },
+    {
+      "text": "montre",
+      "start": 29.3483,
+      "end": 29.7169,
+      "ph": 9
+    },
+    {
+      "text": "qu'un",
+      "start": 29.7169,
+      "end": 30.1426,
+      "ph": 9
+    },
+    {
+      "text": "seul",
+      "start": 30.1426,
+      "end": 30.3883,
+      "ph": 9
+    },
+    {
+      "text": "de",
+      "start": 30.3883,
+      "end": 30.5112,
+      "ph": 9
+    },
+    {
+      "text": "ces",
+      "start": 30.5112,
+      "end": 30.6954,
+      "ph": 9
+    },
+    {
+      "text": "cercueils",
+      "start": 30.6954,
+      "end": 31.2483,
+      "ph": 9
+    },
+    {
+      "text": "ait",
+      "start": 31.2483,
+      "end": 31.4326,
+      "ph": 9
+    },
+    {
+      "text": "servi.",
+      "start": 31.4326,
+      "end": 31.7397,
+      "ph": 9
+    },
+    {
+      "text": "Et",
+      "start": 32.1597,
+      "end": 32.4629,
+      "ph": 10
+    },
+    {
+      "text": "la",
+      "start": 32.4629,
+      "end": 32.5861,
+      "ph": 10
+    },
+    {
+      "text": "corde",
+      "start": 32.5861,
+      "end": 32.8942,
+      "ph": 10
+    },
+    {
+      "text": "aurait",
+      "start": 32.8942,
+      "end": 33.4439,
+      "ph": 10
+    },
+    {
+      "text": "sonné",
+      "start": 33.4439,
+      "end": 33.7519,
+      "ph": 10
+    },
+    {
+      "text": "toute",
+      "start": 33.7519,
+      "end": 34.06,
+      "ph": 10
+    },
+    {
+      "text": "seule,",
+      "start": 34.06,
+      "end": 34.5481,
+      "ph": 10
+    },
+    {
+      "text": "quand",
+      "start": 34.5481,
+      "end": 34.8561,
+      "ph": 10
+    },
+    {
+      "text": "le",
+      "start": 34.8561,
+      "end": 34.9794,
+      "ph": 10
+    },
+    {
+      "text": "corps",
+      "start": 34.9794,
+      "end": 35.2874,
+      "ph": 10
+    },
+    {
+      "text": "bouge",
+      "start": 35.2874,
+      "end": 35.5955,
+      "ph": 10
+    },
+    {
+      "text": "en",
+      "start": 35.5955,
+      "end": 35.8787,
+      "ph": 10
+    },
+    {
+      "text": "se",
+      "start": 35.8787,
+      "end": 36.0019,
+      "ph": 10
+    },
+    {
+      "text": "décomposant.",
+      "start": 36.0019,
+      "end": 36.6797,
+      "ph": 10
+    },
+    {
+      "text": "Et",
+      "start": 37.0996,
+      "end": 37.2148,
+      "ph": 11
+    },
+    {
+      "text": "toi,",
+      "start": 37.2148,
+      "end": 37.3876,
+      "ph": 11
+    },
+    {
+      "text": "tu",
+      "start": 37.3876,
+      "end": 37.6827,
+      "ph": 11
+    },
+    {
+      "text": "aurais",
+      "start": 37.6827,
+      "end": 38.0283,
+      "ph": 11
+    },
+    {
+      "text": "payé",
+      "start": 38.0283,
+      "end": 38.2586,
+      "ph": 11
+    },
+    {
+      "text": "pour",
+      "start": 38.2586,
+      "end": 38.4889,
+      "ph": 11
+    },
+    {
+      "text": "la",
+      "start": 38.4889,
+      "end": 38.6041,
+      "ph": 11
+    },
+    {
+      "text": "cloche?",
+      "start": 38.6041,
+      "end": 38.9496,
+      "ph": 11
+    },
+    {
+      "text": "N'hésite",
+      "start": 39.4496,
+      "end": 39.771,
+      "ph": 12
+    },
+    {
+      "text": "pas",
+      "start": 39.771,
+      "end": 39.9087,
+      "ph": 12
+    },
+    {
+      "text": "à",
+      "start": 39.9087,
+      "end": 39.9546,
+      "ph": 12
+    },
+    {
+      "text": "t'abonner",
+      "start": 39.9546,
+      "end": 40.3219,
+      "ph": 12
+    },
+    {
+      "text": "si",
+      "start": 40.3219,
+      "end": 40.4137,
+      "ph": 12
+    },
+    {
+      "text": "tu",
+      "start": 40.4137,
+      "end": 40.5055,
+      "ph": 12
+    },
+    {
+      "text": "aimes",
+      "start": 40.5055,
+      "end": 40.7351,
+      "ph": 12
+    },
+    {
+      "text": "ce",
+      "start": 40.7351,
+      "end": 40.8269,
+      "ph": 12
+    },
+    {
+      "text": "genre",
+      "start": 40.8269,
+      "end": 41.0565,
+      "ph": 12
+    },
+    {
+      "text": "de",
+      "start": 41.0565,
+      "end": 41.1483,
+      "ph": 12
+    },
+    {
+      "text": "contenu.",
+      "start": 41.1483,
+      "end": 41.4696,
+      "ph": 12
+    }
+  ],
+  "dur": 42.06666666666667,
+  "question_start": 37.0996,
+  "cta_start": 39.4496,
+  "pause_start": 38.9496,
+  "pause_end": 39.4496,
+  "trim": 0,
+  "method": "Enregistrement fourni par Kylliann ; alignement par pauses + proportion de caracteres (pas de transcription)"
+}
