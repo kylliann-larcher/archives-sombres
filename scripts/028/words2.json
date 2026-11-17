@@ -1,0 +1,730 @@
+{
+  "question_ph": 15,
+  "words": [
+    {
+      "text": "Un",
+      "start": 0.055,
+      "end": 0.135,
+      "ph": 0
+    },
+    {
+      "text": "garde",
+      "start": 0.195,
+      "end": 0.515,
+      "ph": 0
+    },
+    {
+      "text": "s'effondre",
+      "start": 0.635,
+      "end": 1.155,
+      "ph": 0
+    },
+    {
+      "text": "devant",
+      "start": 1.195,
+      "end": 1.395,
+      "ph": 0
+    },
+    {
+      "text": "le",
+      "start": 1.435,
+      "end": 1.515,
+      "ph": 0
+    },
+    {
+      "text": "président.",
+      "start": 1.535,
+      "end": 1.995,
+      "ph": 0
+    },
+    {
+      "text": "Son",
+      "start": 2.595,
+      "end": 2.755,
+      "ph": 1
+    },
+    {
+      "text": "sabre",
+      "start": 2.835,
+      "end": 3.215,
+      "ph": 1
+    },
+    {
+      "text": "claque",
+      "start": 3.275,
+      "end": 3.515,
+      "ph": 1
+    },
+    {
+      "text": "sur",
+      "start": 3.555,
+      "end": 3.675,
+      "ph": 1
+    },
+    {
+      "text": "les",
+      "start": 3.695,
+      "end": 3.795,
+      "ph": 1
+    },
+    {
+      "text": "pierres.",
+      "start": 3.835,
+      "end": 4.155,
+      "ph": 1
+    },
+    {
+      "text": "Un",
+      "start": 4.675,
+      "end": 4.735,
+      "ph": 2
+    },
+    {
+      "text": "journaliste",
+      "start": 4.775,
+      "end": 5.315,
+      "ph": 2
+    },
+    {
+      "text": "souffle:",
+      "start": 5.375,
+      "end": 5.675,
+      "ph": 2
+    },
+    {
+      "text": "Oh",
+      "start": 6.235,
+      "end": 6.335,
+      "ph": 2
+    },
+    {
+      "text": "la",
+      "start": 6.395,
+      "end": 6.455,
+      "ph": 2
+    },
+    {
+      "text": "la,",
+      "start": 6.515,
+      "end": 6.615,
+      "ph": 2
+    },
+    {
+      "text": "qu'est-ce",
+      "start": 7.015,
+      "end": 7.235,
+      "ph": 2
+    },
+    {
+      "text": "qu'ils",
+      "start": 7.255,
+      "end": 7.475,
+      "ph": 2
+    },
+    {
+      "text": "ont?",
+      "start": 7.515,
+      "end": 7.615,
+      "ph": 2
+    },
+    {
+      "text": "C'était",
+      "start": 8.315,
+      "end": 8.555,
+      "ph": 3
+    },
+    {
+      "text": "mercredi",
+      "start": 8.595,
+      "end": 8.955,
+      "ph": 3
+    },
+    {
+      "text": "soir,",
+      "start": 9.055,
+      "end": 9.355,
+      "ph": 3
+    },
+    {
+      "text": "dans",
+      "start": 9.555,
+      "end": 9.635,
+      "ph": 3
+    },
+    {
+      "text": "la",
+      "start": 9.675,
+      "end": 9.715,
+      "ph": 3
+    },
+    {
+      "text": "cour",
+      "start": 9.795,
+      "end": 9.935,
+      "ph": 3
+    },
+    {
+      "text": "de",
+      "start": 9.975,
+      "end": 10.035,
+      "ph": 3
+    },
+    {
+      "text": "l'Élysée.",
+      "start": 10.075,
+      "end": 10.495,
+      "ph": 3
+    },
+    {
+      "text": "Les",
+      "start": 11.015,
+      "end": 11.115,
+      "ph": 4
+    },
+    {
+      "text": "gardes",
+      "start": 11.155,
+      "end": 11.395,
+      "ph": 4
+    },
+    {
+      "text": "républicains",
+      "start": 11.435,
+      "end": 12.095,
+      "ph": 4
+    },
+    {
+      "text": "accueillaient",
+      "start": 12.155,
+      "end": 12.455,
+      "ph": 4
+    },
+    {
+      "text": "le",
+      "start": 12.495,
+      "end": 12.575,
+      "ph": 4
+    },
+    {
+      "text": "président",
+      "start": 12.595,
+      "end": 12.955,
+      "ph": 4
+    },
+    {
+      "text": "slovaque.",
+      "start": 13.035,
+      "end": 13.495,
+      "ph": 4
+    },
+    {
+      "text": "Le",
+      "start": 13.975,
+      "end": 14.055,
+      "ph": 5
+    },
+    {
+      "text": "premier",
+      "start": 14.075,
+      "end": 14.335,
+      "ph": 5
+    },
+    {
+      "text": "salue,",
+      "start": 14.435,
+      "end": 14.735,
+      "ph": 5
+    },
+    {
+      "text": "puis",
+      "start": 15.115,
+      "end": 15.415,
+      "ph": 5
+    },
+    {
+      "text": "vacille.",
+      "start": 15.455,
+      "end": 15.915,
+      "ph": 5
+    },
+    {
+      "text": "Plusieurs",
+      "start": 16.335,
+      "end": 16.635,
+      "ph": 6
+    },
+    {
+      "text": "personnes",
+      "start": 16.655,
+      "end": 16.955,
+      "ph": 6
+    },
+    {
+      "text": "l'emportent.",
+      "start": 16.995,
+      "end": 17.455,
+      "ph": 6
+    },
+    {
+      "text": "Et",
+      "start": 17.915,
+      "end": 17.995,
+      "ph": 7
+    },
+    {
+      "text": "pendant",
+      "start": 18.035,
+      "end": 18.235,
+      "ph": 7
+    },
+    {
+      "text": "ce",
+      "start": 18.295,
+      "end": 18.375,
+      "ph": 7
+    },
+    {
+      "text": "temps,",
+      "start": 18.475,
+      "end": 18.675,
+      "ph": 7
+    },
+    {
+      "text": "un",
+      "start": 18.955,
+      "end": 19.015,
+      "ph": 7
+    },
+    {
+      "text": "deuxième",
+      "start": 19.155,
+      "end": 19.515,
+      "ph": 7
+    },
+    {
+      "text": "sabre",
+      "start": 19.635,
+      "end": 19.895,
+      "ph": 7
+    },
+    {
+      "text": "tombe",
+      "start": 20.015,
+      "end": 20.295,
+      "ph": 7
+    },
+    {
+      "text": "hors",
+      "start": 20.515,
+      "end": 20.675,
+      "ph": 7
+    },
+    {
+      "text": "caméra.",
+      "start": 20.695,
+      "end": 21.055,
+      "ph": 7
+    },
+    {
+      "text": "Deux",
+      "start": 21.515,
+      "end": 21.695,
+      "ph": 8
+    },
+    {
+      "text": "hommes",
+      "start": 21.715,
+      "end": 21.935,
+      "ph": 8
+    },
+    {
+      "text": "au",
+      "start": 22.215,
+      "end": 22.255,
+      "ph": 8
+    },
+    {
+      "text": "même",
+      "start": 22.395,
+      "end": 22.555,
+      "ph": 8
+    },
+    {
+      "text": "moment.",
+      "start": 22.595,
+      "end": 22.855,
+      "ph": 8
+    },
+    {
+      "text": "Le",
+      "start": 23.335,
+      "end": 23.415,
+      "ph": 9
+    },
+    {
+      "text": "président",
+      "start": 23.435,
+      "end": 23.835,
+      "ph": 9
+    },
+    {
+      "text": "reste",
+      "start": 23.875,
+      "end": 24.155,
+      "ph": 9
+    },
+    {
+      "text": "figé",
+      "start": 24.235,
+      "end": 24.535,
+      "ph": 9
+    },
+    {
+      "text": "au",
+      "start": 24.555,
+      "end": 24.615,
+      "ph": 9
+    },
+    {
+      "text": "pied",
+      "start": 24.675,
+      "end": 24.795,
+      "ph": 9
+    },
+    {
+      "text": "des",
+      "start": 24.815,
+      "end": 24.915,
+      "ph": 9
+    },
+    {
+      "text": "marches.",
+      "start": 24.955,
+      "end": 25.275,
+      "ph": 9
+    },
+    {
+      "text": "Sur",
+      "start": 25.715,
+      "end": 25.835,
+      "ph": 10
+    },
+    {
+      "text": "le",
+      "start": 25.875,
+      "end": 25.935,
+      "ph": 10
+    },
+    {
+      "text": "coup,",
+      "start": 26.035,
+      "end": 26.235,
+      "ph": 10
+    },
+    {
+      "text": "aucune",
+      "start": 26.595,
+      "end": 26.835,
+      "ph": 10
+    },
+    {
+      "text": "explication.",
+      "start": 26.875,
+      "end": 27.475,
+      "ph": 10
+    },
+    {
+      "text": "Puis,",
+      "start": 27.915,
+      "end": 28.095,
+      "ph": 11
+    },
+    {
+      "text": "une",
+      "start": 28.235,
+      "end": 28.355,
+      "ph": 11
+    },
+    {
+      "text": "source",
+      "start": 28.415,
+      "end": 28.675,
+      "ph": 11
+    },
+    {
+      "text": "de",
+      "start": 28.735,
+      "end": 28.795,
+      "ph": 11
+    },
+    {
+      "text": "l'Élysée",
+      "start": 28.835,
+      "end": 29.295,
+      "ph": 11
+    },
+    {
+      "text": "parle",
+      "start": 29.335,
+      "end": 29.575,
+      "ph": 11
+    },
+    {
+      "text": "de",
+      "start": 29.635,
+      "end": 29.735,
+      "ph": 11
+    },
+    {
+      "text": "malaise",
+      "start": 29.795,
+      "end": 30.155,
+      "ph": 11
+    },
+    {
+      "text": "vagal.",
+      "start": 30.175,
+      "end": 30.515,
+      "ph": 11
+    },
+    {
+      "text": "La",
+      "start": 30.895,
+      "end": 30.975,
+      "ph": 12
+    },
+    {
+      "text": "pression",
+      "start": 31.015,
+      "end": 31.315,
+      "ph": 12
+    },
+    {
+      "text": "chute,",
+      "start": 31.435,
+      "end": 31.735,
+      "ph": 12
+    },
+    {
+      "text": "le",
+      "start": 32.055,
+      "end": 32.155,
+      "ph": 12
+    },
+    {
+      "text": "cerveau",
+      "start": 32.275,
+      "end": 32.595,
+      "ph": 12
+    },
+    {
+      "text": "manque",
+      "start": 32.635,
+      "end": 32.815,
+      "ph": 12
+    },
+    {
+      "text": "de",
+      "start": 32.855,
+      "end": 32.935,
+      "ph": 12
+    },
+    {
+      "text": "sang.",
+      "start": 33.035,
+      "end": 33.215,
+      "ph": 12
+    },
+    {
+      "text": "Aucun",
+      "start": 33.595,
+      "end": 33.815,
+      "ph": 13
+    },
+    {
+      "text": "blessé.",
+      "start": 33.855,
+      "end": 34.175,
+      "ph": 13
+    },
+    {
+      "text": "Et",
+      "start": 34.615,
+      "end": 34.675,
+      "ph": 14
+    },
+    {
+      "text": "la",
+      "start": 34.715,
+      "end": 34.755,
+      "ph": 14
+    },
+    {
+      "text": "cérémonie",
+      "start": 34.835,
+      "end": 35.275,
+      "ph": 14
+    },
+    {
+      "text": "reprend",
+      "start": 35.315,
+      "end": 35.635,
+      "ph": 14
+    },
+    {
+      "text": "comme",
+      "start": 35.975,
+      "end": 36.095,
+      "ph": 14
+    },
+    {
+      "text": "si",
+      "start": 36.175,
+      "end": 36.255,
+      "ph": 14
+    },
+    {
+      "text": "de",
+      "start": 36.295,
+      "end": 36.355,
+      "ph": 14
+    },
+    {
+      "text": "rien",
+      "start": 36.395,
+      "end": 36.535,
+      "ph": 14
+    },
+    {
+      "text": "n'était.",
+      "start": 36.555,
+      "end": 36.835,
+      "ph": 14
+    },
+    {
+      "text": "Et",
+      "start": 37.435,
+      "end": 37.515,
+      "ph": 15
+    },
+    {
+      "text": "toi,",
+      "start": 37.555,
+      "end": 37.735,
+      "ph": 15
+    },
+    {
+      "text": "selon",
+      "start": 38.015,
+      "end": 38.195,
+      "ph": 15
+    },
+    {
+      "text": "toi,",
+      "start": 38.275,
+      "end": 38.435,
+      "ph": 15
+    },
+    {
+      "text": "pourquoi",
+      "start": 38.855,
+      "end": 39.135,
+      "ph": 15
+    },
+    {
+      "text": "se",
+      "start": 39.215,
+      "end": 39.275,
+      "ph": 15
+    },
+    {
+      "text": "sont-ils",
+      "start": 39.335,
+      "end": 39.595,
+      "ph": 15
+    },
+    {
+      "text": "effondrés?",
+      "start": 39.635,
+      "end": 40.035,
+      "ph": 15
+    },
+    {
+      "text": "N'hésite",
+      "start": 40.585,
+      "end": 40.845,
+      "ph": 16
+    },
+    {
+      "text": "pas",
+      "start": 40.885,
+      "end": 40.965,
+      "ph": 16
+    },
+    {
+      "text": "à",
+      "start": 41.005,
+      "end": 41.025,
+      "ph": 16
+    },
+    {
+      "text": "t'abonner",
+      "start": 41.085,
+      "end": 41.465,
+      "ph": 16
+    },
+    {
+      "text": "si",
+      "start": 41.505,
+      "end": 41.585,
+      "ph": 16
+    },
+    {
+      "text": "tu",
+      "start": 41.645,
+      "end": 41.725,
+      "ph": 16
+    },
+    {
+      "text": "aimes",
+      "start": 41.765,
+      "end": 41.865,
+      "ph": 16
+    },
+    {
+      "text": "ce",
+      "start": 41.905,
+      "end": 41.985,
+      "ph": 16
+    },
+    {
+      "text": "genre",
+      "start": 42.005,
+      "end": 42.145,
+      "ph": 16
+    },
+    {
+      "text": "de",
+      "start": 42.165,
+      "end": 42.245,
+      "ph": 16
+    },
+    {
+      "text": "contenu.",
+      "start": 42.265,
+      "end": 42.605,
+      "ph": 16
+    }
+  ],
+  "dur": 43.333333333333336,
+  "question_start": 37.435,
+  "cta_start": 40.585,
+  "pause_start": 40.055,
+  "pause_end": 40.555,
+  "trim": 0.085,
+  "original_gap": [
+    40.14,
+    40.59
+  ],
+  "method": "ElevenLabs Scribe word timings, voice v3 (calm), CTA gap set to 0.5s"
+}

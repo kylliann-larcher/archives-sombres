@@ -1,0 +1,122 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Cap,Poppins,74,&H00FFFFFF,&H0000D7FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,6,1,5,120,180,0,1
+Style: Track,Poppins,34,&H00C4D8E8,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,2,0,1,3,0,7,120,180,370,1
+Style: Stamp,Poppins,42,&H0000D7FF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,3,0,1,3,0,7,120,180,300,1
+Style: Count,Poppins,76,&H00DCEBF5,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,4,0,1,5,0,7,120,180,262,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 1,0:00:00.00,0:00:08.60,Stamp,,0,0,0,,ARCHIVE N° 028
+Dialogue: 1,0:00:00.00,0:00:43.33,Track,,0,0,0,,ACTUALITÉ · FRANCE
+Dialogue: 1,0:00:08.60,0:00:43.03,Count,,0,0,0,,11 NOVEMBRE 2026
+Dialogue: 0,0:00:02.60,0:00:02.84,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}SON{\c&HFFFFFF&} {\c&H2525DC&}SABRE{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.84,0:00:03.26,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}SON {\c&H2525DC&}SABRE{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.28,0:00:03.56,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}CLAQUE{\c&HFFFFFF&} SUR LES
+Dialogue: 0,0:00:03.56,0:00:03.70,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}CLAQUE {\c&H0000D7FF&}SUR{\c&HFFFFFF&} LES
+Dialogue: 0,0:00:03.70,0:00:03.82,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}CLAQUE SUR {\c&H0000D7FF&}LES{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.84,0:00:04.24,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}PIERRES.{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.68,0:00:04.76,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}UN{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.78,0:00:05.36,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}JOURNALISTE{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.38,0:00:06.24,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}SOUFFLE:{\c&HFFFFFF&} OH LA
+Dialogue: 0,0:00:06.24,0:00:06.40,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}SOUFFLE: {\c&H0000D7FF&}OH{\c&HFFFFFF&} LA
+Dialogue: 0,0:00:06.40,0:00:06.50,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}SOUFFLE: OH {\c&H0000D7FF&}LA{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.52,0:00:06.70,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}LA,{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.02,0:00:07.24,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}QU'EST-CE{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.26,0:00:07.52,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}QU'ILS{\c&HFFFFFF&} ONT?
+Dialogue: 0,0:00:07.52,0:00:07.70,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}QU'ILS {\c&H0000D7FF&}ONT?{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.32,0:00:08.58,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}C'ÉTAIT{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.60,0:00:09.06,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}MERCREDI{\c&HFFFFFF&} SOIR,
+Dialogue: 0,0:00:09.06,0:00:09.44,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}MERCREDI {\c&H0000D7FF&}SOIR,{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.56,0:00:09.68,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}DANS{\c&HFFFFFF&} LA COUR
+Dialogue: 0,0:00:09.68,0:00:09.80,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}DANS {\c&H0000D7FF&}LA{\c&HFFFFFF&} COUR
+Dialogue: 0,0:00:09.80,0:00:09.96,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}DANS LA {\c&H0000D7FF&}COUR{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.98,0:00:10.07,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}DE{\c&HFFFFFF&} L'ÉLYSÉE.
+Dialogue: 0,0:00:10.07,0:00:10.58,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}DE {\c&H0000D7FF&}L'ÉLYSÉE.{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.02,0:00:11.16,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}LES{\c&HFFFFFF&} GARDES
+Dialogue: 0,0:00:11.16,0:00:11.42,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}LES {\c&H0000D7FF&}GARDES{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.44,0:00:12.14,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}RÉPUBLICAINS{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.16,0:00:12.48,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ACCUEILLAIENT{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.50,0:00:12.60,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}LE{\c&HFFFFFF&} PRÉSIDENT
+Dialogue: 0,0:00:12.60,0:00:13.02,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}LE {\c&H0000D7FF&}PRÉSIDENT{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.04,0:00:13.58,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}SLOVAQUE.{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.98,0:00:14.08,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}LE{\c&HFFFFFF&} PREMIER
+Dialogue: 0,0:00:14.08,0:00:14.42,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}LE {\c&H0000D7FF&}PREMIER{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.44,0:00:14.82,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}SALUE,{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.12,0:00:15.46,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}PUIS{\c&HFFFFFF&} VACILLE.
+Dialogue: 0,0:00:15.46,0:00:16.00,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}PUIS {\c&H0000D7FF&}VACILLE.{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.34,0:00:16.64,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}PLUSIEURS{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.66,0:00:16.98,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}PERSONNES{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.00,0:00:17.53,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}L'EMPORTENT.{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.92,0:00:18.04,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ET{\c&HFFFFFF&} PENDANT CE
+Dialogue: 0,0:00:18.04,0:00:18.30,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ET {\c&H0000D7FF&}PENDANT{\c&HFFFFFF&} CE
+Dialogue: 0,0:00:18.30,0:00:18.45,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ET PENDANT {\c&H0000D7FF&}CE{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.48,0:00:18.76,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}TEMPS,{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.95,0:00:19.16,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}UN{\c&HFFFFFF&} DEUXIÈME
+Dialogue: 0,0:00:19.16,0:00:19.60,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}UN {\c&H0000D7FF&}DEUXIÈME{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.64,0:00:20.02,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H2525DC&}SABRE{\c&HFFFFFF&} TOMBE
+Dialogue: 0,0:00:20.02,0:00:20.38,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H2525DC&}SABRE{\c&HFFFFFF&} {\c&H0000D7FF&}TOMBE{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.52,0:00:20.70,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}HORS{\c&HFFFFFF&} CAMÉRA.
+Dialogue: 0,0:00:20.70,0:00:21.14,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}HORS {\c&H0000D7FF&}CAMÉRA.{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.52,0:00:21.72,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}DEUX{\c&HFFFFFF&} HOMMES
+Dialogue: 0,0:00:21.72,0:00:22.01,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}DEUX {\c&H0000D7FF&}HOMMES{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.22,0:00:22.40,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}AU{\c&HFFFFFF&} MÊME
+Dialogue: 0,0:00:22.40,0:00:22.58,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}AU {\c&H0000D7FF&}MÊME{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.60,0:00:22.94,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}MOMENT.{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.34,0:00:23.44,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}LE{\c&HFFFFFF&} PRÉSIDENT
+Dialogue: 0,0:00:23.44,0:00:23.86,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}LE {\c&H0000D7FF&}PRÉSIDENT{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.88,0:00:24.24,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}RESTE{\c&HFFFFFF&} {\c&H2525DC&}FIGÉ{\c&HFFFFFF&} AU
+Dialogue: 0,0:00:24.24,0:00:24.56,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}RESTE {\c&H2525DC&}FIGÉ{\c&HFFFFFF&} AU
+Dialogue: 0,0:00:24.56,0:00:24.66,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}RESTE {\c&H2525DC&}FIGÉ{\c&HFFFFFF&} {\c&H0000D7FF&}AU{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.68,0:00:24.82,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}PIED{\c&HFFFFFF&} DES
+Dialogue: 0,0:00:24.82,0:00:24.94,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}PIED {\c&H0000D7FF&}DES{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.96,0:00:25.35,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}MARCHES.{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.72,0:00:25.88,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}SUR{\c&HFFFFFF&} LE COUP,
+Dialogue: 0,0:00:25.88,0:00:26.04,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}SUR {\c&H0000D7FF&}LE{\c&HFFFFFF&} COUP,
+Dialogue: 0,0:00:26.04,0:00:26.32,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}SUR LE {\c&H0000D7FF&}COUP,{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.60,0:00:26.86,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}AUCUNE{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.88,0:00:27.56,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}EXPLICATION.{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.92,0:00:28.17,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}PUIS,{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.24,0:00:28.42,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}UNE{\c&HFFFFFF&} SOURCE DE
+Dialogue: 0,0:00:28.42,0:00:28.74,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}UNE {\c&H0000D7FF&}SOURCE{\c&HFFFFFF&} DE
+Dialogue: 0,0:00:28.74,0:00:28.82,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}UNE SOURCE {\c&H0000D7FF&}DE{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.84,0:00:29.34,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}L'ÉLYSÉE{\c&HFFFFFF&} PARLE
+Dialogue: 0,0:00:29.34,0:00:29.62,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}L'ÉLYSÉE {\c&H0000D7FF&}PARLE{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.64,0:00:29.80,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}DE{\c&HFFFFFF&} {\c&H2525DC&}MALAISE{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.80,0:00:30.16,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}DE {\c&H2525DC&}MALAISE{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.18,0:00:30.60,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H2525DC&}VAGAL.{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.90,0:00:31.02,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}LA{\c&HFFFFFF&} PRESSION
+Dialogue: 0,0:00:31.02,0:00:31.40,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}LA {\c&H0000D7FF&}PRESSION{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.44,0:00:31.82,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}CHUTE,{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.06,0:00:32.28,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}LE{\c&HFFFFFF&} CERVEAU
+Dialogue: 0,0:00:32.28,0:00:32.62,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}LE {\c&H0000D7FF&}CERVEAU{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.64,0:00:32.85,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}MANQUE{\c&HFFFFFF&} DE
+Dialogue: 0,0:00:32.85,0:00:33.02,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}MANQUE {\c&H0000D7FF&}DE{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.03,0:00:33.30,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}SANG.{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.60,0:00:33.85,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}AUCUN{\c&HFFFFFF&} {\c&H2525DC&}BLESSÉ.{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.85,0:00:34.25,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}AUCUN {\c&H2525DC&}BLESSÉ.{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.62,0:00:34.72,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ET{\c&HFFFFFF&} LA
+Dialogue: 0,0:00:34.72,0:00:34.82,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ET {\c&H0000D7FF&}LA{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.84,0:00:35.30,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}CÉRÉMONIE{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.32,0:00:35.71,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}REPREND{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.98,0:00:36.17,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}COMME{\c&HFFFFFF&} SI DE
+Dialogue: 0,0:00:36.17,0:00:36.30,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}COMME {\c&H0000D7FF&}SI{\c&HFFFFFF&} DE
+Dialogue: 0,0:00:36.30,0:00:36.38,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}COMME SI {\c&H0000D7FF&}DE{\c&HFFFFFF&}
+Dialogue: 0,0:00:36.40,0:00:36.56,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}RIEN{\c&HFFFFFF&} N'ÉTAIT.
+Dialogue: 0,0:00:36.56,0:00:36.92,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}RIEN {\c&H0000D7FF&}N'ÉTAIT.{\c&HFFFFFF&}
+Dialogue: 0,0:00:40.58,0:00:40.88,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}N'HÉSITE{\c&HFFFFFF&} PAS À
+Dialogue: 0,0:00:40.88,0:00:41.00,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}N'HÉSITE {\c&H0000D7FF&}PAS{\c&HFFFFFF&} À
+Dialogue: 0,0:00:41.00,0:00:41.07,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}N'HÉSITE PAS {\c&H0000D7FF&}À{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.08,0:00:41.50,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}T'ABONNER{\c&HFFFFFF&} SI TU
+Dialogue: 0,0:00:41.50,0:00:41.64,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}T'ABONNER {\c&H0000D7FF&}SI{\c&HFFFFFF&} TU
+Dialogue: 0,0:00:41.64,0:00:41.75,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}T'ABONNER SI {\c&H0000D7FF&}TU{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.76,0:00:41.90,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}AIMES{\c&HFFFFFF&} CE GENRE
+Dialogue: 0,0:00:41.90,0:00:42.00,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}AIMES {\c&H0000D7FF&}CE{\c&HFFFFFF&} GENRE
+Dialogue: 0,0:00:42.00,0:00:42.15,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}AIMES CE {\c&H0000D7FF&}GENRE{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.16,0:00:42.26,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}DE{\c&HFFFFFF&} CONTENU.
+Dialogue: 0,0:00:42.26,0:00:42.68,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}DE {\c&H0000D7FF&}CONTENU.{\c&HFFFFFF&}
