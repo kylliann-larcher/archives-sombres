@@ -17,18 +17,18 @@ bed*=.6+.13*np.cos(2*np.pi*.095*t)
 for bt in np.arange(0,dur,60/72):
     i=int(bt*SR);n=min(int(.40*SR),len(v)-i);a=np.arange(n)/SR
     bed[i:i+n]+=.18*np.sin(2*np.pi*(44*a+5*(1-np.exp(-a*12))))*np.exp(-a*12)
-vrms=np.sqrt(np.mean(v*v));brms=np.sqrt(np.mean(bed*bed));bed*=vrms/(10**(10/20))/brms
+vrms=np.sqrt(np.mean(v*v));brms=np.sqrt(np.mean(bed*bed));bed*=vrms/(10**(24/20))/brms
 bed*=np.minimum(1,np.maximum(0,(dur-t)/.25))
 fx=np.zeros(len(v))
 for k in (4, 27, 36, 64, 74, 92):
     i=int(data['words'][k]['start']*SR);n=min(int(.25*SR),len(v)-i);tt=np.arange(n)/SR
-    fx[i:i+n]+=(np.sin(2*np.pi*(58*tt+4*(1-np.exp(-tt*13))))*.5)*np.exp(-tt*20)*vrms
+    fx[i:i+n]+=(np.sin(2*np.pi*(58*tt+4*(1-np.exp(-tt*13))))*.5)*np.exp(-tt*20)*vrms*.35
 mix=v+bed+fx
 wav('music.wav',bed);wav('sfx.wav',fx);wav('mix.wav',mix)
 stats=run(['-loglevel','info','-i','mix.wav','-af','loudnorm=I=-14:TP=-1.8:LRA=11:print_format=json','-f','null','-'])
 j=json.JSONDecoder().raw_decode(stats[stats.rfind('{'):])[0]
 filt=('loudnorm=I=-14:TP=-1.8:LRA=11:'+f'measured_I={j["input_i"]}:measured_TP={j["input_tp"]}:measured_LRA={j["input_lra"]}:measured_thresh={j["input_thresh"]}:offset={j["target_offset"]}:linear=true:print_format=json')
-run(['-v','error','-i','mix.wav','-af','acompressor=threshold=0.18:ratio=2.5:attack=5:release=100:makeup=1.4,loudnorm=I=-14:TP=-2.8:LRA=7:linear=false,volume=1.5dB,aresample=192000,alimiter=limit=0.77:level=false:attack=5:release=50','-ar',str(SR),'mix-normalized.wav'])
+run(['-v','error','-i','mix.wav','-af','acompressor=threshold=0.18:ratio=2.5:attack=5:release=100:makeup=1.4,loudnorm=I=-14:TP=-2.4:LRA=7:linear=false,volume=2.5dB,aresample=192000,alimiter=limit=0.82:level=false:attack=5:release=50','-ar',str(SR),'mix-normalized.wav'])
 files=sorted((HERE/'shots').glob('shot_*.mp4'))
 if not files:raise RuntimeError('No shots')
 (HERE/'concat.txt').write_text(''.join("file '"+p.relative_to(HERE).as_posix()+"'\n" for p in files),encoding='utf-8')
