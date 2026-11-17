@@ -1,0 +1,646 @@
+{
+  "question_ph": 9,
+  "words": [
+    {
+      "text": "Ton",
+      "start": 0,
+      "end": 0.125,
+      "ph": 0
+    },
+    {
+      "text": "médecin",
+      "start": 0.205,
+      "end": 0.525,
+      "ph": 0
+    },
+    {
+      "text": "te",
+      "start": 0.605,
+      "end": 0.685,
+      "ph": 0
+    },
+    {
+      "text": "prescrit…",
+      "start": 0.845,
+      "end": 1.605,
+      "ph": 0
+    },
+    {
+      "text": "de",
+      "start": 1.805,
+      "end": 1.885,
+      "ph": 0
+    },
+    {
+      "text": "la",
+      "start": 1.965,
+      "end": 2.045,
+      "ph": 0
+    },
+    {
+      "text": "momie.",
+      "start": 2.125,
+      "end": 2.805,
+      "ph": 0
+    },
+    {
+      "text": "Et",
+      "start": 3.085,
+      "end": 3.165,
+      "ph": 1
+    },
+    {
+      "text": "tu",
+      "start": 3.245,
+      "end": 3.325,
+      "ph": 1
+    },
+    {
+      "text": "dois",
+      "start": 3.405,
+      "end": 3.565,
+      "ph": 1
+    },
+    {
+      "text": "l'avaler.",
+      "start": 3.605,
+      "end": 4.405,
+      "ph": 1
+    },
+    {
+      "text": "Au",
+      "start": 4.752,
+      "end": 4.765,
+      "ph": 2
+    },
+    {
+      "text": "seizième",
+      "start": 4.845,
+      "end": 5.245,
+      "ph": 2
+    },
+    {
+      "text": "siècle,",
+      "start": 5.325,
+      "end": 5.725,
+      "ph": 2
+    },
+    {
+      "text": "en",
+      "start": 5.765,
+      "end": 5.805,
+      "ph": 2
+    },
+    {
+      "text": "Europe,",
+      "start": 5.885,
+      "end": 6.525,
+      "ph": 2
+    },
+    {
+      "text": "les",
+      "start": 6.605,
+      "end": 6.685,
+      "ph": 2
+    },
+    {
+      "text": "apothicaires",
+      "start": 6.765,
+      "end": 7.405,
+      "ph": 2
+    },
+    {
+      "text": "vendent",
+      "start": 7.485,
+      "end": 7.725,
+      "ph": 2
+    },
+    {
+      "text": "une",
+      "start": 7.805,
+      "end": 7.885,
+      "ph": 2
+    },
+    {
+      "text": "poudre",
+      "start": 7.925,
+      "end": 8.205,
+      "ph": 2
+    },
+    {
+      "text": "brune:",
+      "start": 8.285,
+      "end": 8.685,
+      "ph": 2
+    },
+    {
+      "text": "la",
+      "start": 9.192,
+      "end": 9.245,
+      "ph": 2
+    },
+    {
+      "text": "mumia.",
+      "start": 9.325,
+      "end": 9.925,
+      "ph": 2
+    },
+    {
+      "text": "On",
+      "start": 10.112,
+      "end": 10.125,
+      "ph": 3
+    },
+    {
+      "text": "la",
+      "start": 10.205,
+      "end": 10.285,
+      "ph": 3
+    },
+    {
+      "text": "tire",
+      "start": 10.365,
+      "end": 10.605,
+      "ph": 3
+    },
+    {
+      "text": "de",
+      "start": 10.685,
+      "end": 10.765,
+      "ph": 3
+    },
+    {
+      "text": "momies",
+      "start": 10.885,
+      "end": 11.165,
+      "ph": 3
+    },
+    {
+      "text": "égyptiennes",
+      "start": 11.245,
+      "end": 11.805,
+      "ph": 3
+    },
+    {
+      "text": "broyées!",
+      "start": 11.885,
+      "end": 12.365,
+      "ph": 3
+    },
+    {
+      "text": "On",
+      "start": 12.755,
+      "end": 12.765,
+      "ph": 4
+    },
+    {
+      "text": "la",
+      "start": 12.845,
+      "end": 12.925,
+      "ph": 4
+    },
+    {
+      "text": "dilue",
+      "start": 12.965,
+      "end": 13.165,
+      "ph": 4
+    },
+    {
+      "text": "dans",
+      "start": 13.205,
+      "end": 13.325,
+      "ph": 4
+    },
+    {
+      "text": "une",
+      "start": 13.405,
+      "end": 13.485,
+      "ph": 4
+    },
+    {
+      "text": "boisson,",
+      "start": 13.525,
+      "end": 14.205,
+      "ph": 4
+    },
+    {
+      "text": "contre",
+      "start": 14.365,
+      "end": 14.525,
+      "ph": 4
+    },
+    {
+      "text": "les",
+      "start": 14.605,
+      "end": 14.685,
+      "ph": 4
+    },
+    {
+      "text": "chutes,",
+      "start": 14.725,
+      "end": 15.245,
+      "ph": 4
+    },
+    {
+      "text": "les",
+      "start": 15.325,
+      "end": 15.405,
+      "ph": 4
+    },
+    {
+      "text": "maux",
+      "start": 15.445,
+      "end": 15.565,
+      "ph": 4
+    },
+    {
+      "text": "de",
+      "start": 15.605,
+      "end": 15.645,
+      "ph": 4
+    },
+    {
+      "text": "tête",
+      "start": 15.725,
+      "end": 16.045,
+      "ph": 4
+    },
+    {
+      "text": "ou",
+      "start": 16.205,
+      "end": 16.285,
+      "ph": 4
+    },
+    {
+      "text": "les",
+      "start": 16.365,
+      "end": 16.445,
+      "ph": 4
+    },
+    {
+      "text": "saignements.",
+      "start": 16.498,
+      "end": 16.925,
+      "ph": 4
+    },
+    {
+      "text": "On",
+      "start": 17.314,
+      "end": 17.325,
+      "ph": 5
+    },
+    {
+      "text": "raconte",
+      "start": 17.405,
+      "end": 17.805,
+      "ph": 5
+    },
+    {
+      "text": "que",
+      "start": 17.845,
+      "end": 17.885,
+      "ph": 5
+    },
+    {
+      "text": "le",
+      "start": 17.925,
+      "end": 17.965,
+      "ph": 5
+    },
+    {
+      "text": "roi",
+      "start": 18.045,
+      "end": 18.205,
+      "ph": 5
+    },
+    {
+      "text": "François",
+      "start": 18.285,
+      "end": 18.605,
+      "ph": 5
+    },
+    {
+      "text": "Premier",
+      "start": 18.685,
+      "end": 19.085,
+      "ph": 5
+    },
+    {
+      "text": "en",
+      "start": 19.165,
+      "end": 19.325,
+      "ph": 5
+    },
+    {
+      "text": "portait",
+      "start": 19.445,
+      "end": 19.725,
+      "ph": 5
+    },
+    {
+      "text": "toujours",
+      "start": 19.765,
+      "end": 20.125,
+      "ph": 5
+    },
+    {
+      "text": "sur",
+      "start": 20.205,
+      "end": 20.285,
+      "ph": 5
+    },
+    {
+      "text": "lui.",
+      "start": 20.365,
+      "end": 20.605,
+      "ph": 5
+    },
+    {
+      "text": "Mais",
+      "start": 21.845,
+      "end": 21.885,
+      "ph": 6
+    },
+    {
+      "text": "les",
+      "start": 21.965,
+      "end": 22.045,
+      "ph": 6
+    },
+    {
+      "text": "vraies",
+      "start": 22.125,
+      "end": 22.285,
+      "ph": 6
+    },
+    {
+      "text": "momies",
+      "start": 22.365,
+      "end": 22.605,
+      "ph": 6
+    },
+    {
+      "text": "coûtent",
+      "start": 22.685,
+      "end": 22.925,
+      "ph": 6
+    },
+    {
+      "text": "cher.",
+      "start": 23.125,
+      "end": 23.405,
+      "ph": 6
+    },
+    {
+      "text": "Alors",
+      "start": 23.858,
+      "end": 23.965,
+      "ph": 7
+    },
+    {
+      "text": "certains",
+      "start": 24.125,
+      "end": 24.445,
+      "ph": 7
+    },
+    {
+      "text": "marchands",
+      "start": 24.485,
+      "end": 25.005,
+      "ph": 7
+    },
+    {
+      "text": "sèchent",
+      "start": 25.085,
+      "end": 25.325,
+      "ph": 7
+    },
+    {
+      "text": "des",
+      "start": 25.405,
+      "end": 25.485,
+      "ph": 7
+    },
+    {
+      "text": "cadavres",
+      "start": 25.565,
+      "end": 25.965,
+      "ph": 7
+    },
+    {
+      "text": "récents…",
+      "start": 26.005,
+      "end": 26.685,
+      "ph": 7
+    },
+    {
+      "text": "et",
+      "start": 26.725,
+      "end": 26.765,
+      "ph": 7
+    },
+    {
+      "text": "les",
+      "start": 26.845,
+      "end": 27.005,
+      "ph": 7
+    },
+    {
+      "text": "vendent",
+      "start": 27.045,
+      "end": 27.325,
+      "ph": 7
+    },
+    {
+      "text": "comme",
+      "start": 27.365,
+      "end": 27.485,
+      "ph": 7
+    },
+    {
+      "text": "des",
+      "start": 27.565,
+      "end": 27.645,
+      "ph": 7
+    },
+    {
+      "text": "momies.",
+      "start": 27.765,
+      "end": 28.045,
+      "ph": 7
+    },
+    {
+      "text": "Il",
+      "start": 28.445,
+      "end": 28.525,
+      "ph": 8
+    },
+    {
+      "text": "faut",
+      "start": 28.605,
+      "end": 28.685,
+      "ph": 8
+    },
+    {
+      "text": "attendre",
+      "start": 28.805,
+      "end": 29.005,
+      "ph": 8
+    },
+    {
+      "text": "le",
+      "start": 29.085,
+      "end": 29.165,
+      "ph": 8
+    },
+    {
+      "text": "dix-huitième",
+      "start": 29.245,
+      "end": 29.805,
+      "ph": 8
+    },
+    {
+      "text": "siècle",
+      "start": 29.885,
+      "end": 30.125,
+      "ph": 8
+    },
+    {
+      "text": "pour",
+      "start": 30.205,
+      "end": 30.285,
+      "ph": 8
+    },
+    {
+      "text": "que",
+      "start": 30.365,
+      "end": 30.445,
+      "ph": 8
+    },
+    {
+      "text": "ce",
+      "start": 30.525,
+      "end": 30.605,
+      "ph": 8
+    },
+    {
+      "text": "remède",
+      "start": 30.685,
+      "end": 30.845,
+      "ph": 8
+    },
+    {
+      "text": "disparaisse.",
+      "start": 30.925,
+      "end": 31.725,
+      "ph": 8
+    },
+    {
+      "text": "Et",
+      "start": 32.013,
+      "end": 32.045,
+      "ph": 9
+    },
+    {
+      "text": "toi,",
+      "start": 32.165,
+      "end": 32.525,
+      "ph": 9
+    },
+    {
+      "text": "tu",
+      "start": 32.565,
+      "end": 32.605,
+      "ph": 9
+    },
+    {
+      "text": "l'aurais",
+      "start": 32.685,
+      "end": 32.925,
+      "ph": 9
+    },
+    {
+      "text": "bu?",
+      "start": 32.965,
+      "end": 33.005,
+      "ph": 9
+    },
+    {
+      "text": "N'hésite",
+      "start": 33.865,
+      "end": 34.195,
+      "ph": 10
+    },
+    {
+      "text": "pas",
+      "start": 34.235,
+      "end": 34.275,
+      "ph": 10
+    },
+    {
+      "text": "à",
+      "start": 34.315,
+      "end": 34.355,
+      "ph": 10
+    },
+    {
+      "text": "t'abonner",
+      "start": 34.395,
+      "end": 34.755,
+      "ph": 10
+    },
+    {
+      "text": "si",
+      "start": 34.835,
+      "end": 34.995,
+      "ph": 10
+    },
+    {
+      "text": "tu",
+      "start": 35.035,
+      "end": 35.075,
+      "ph": 10
+    },
+    {
+      "text": "aimes",
+      "start": 35.155,
+      "end": 35.235,
+      "ph": 10
+    },
+    {
+      "text": "ce",
+      "start": 35.315,
+      "end": 35.395,
+      "ph": 10
+    },
+    {
+      "text": "genre",
+      "start": 35.475,
+      "end": 35.555,
+      "ph": 10
+    },
+    {
+      "text": "de",
+      "start": 35.595,
+      "end": 35.635,
+      "ph": 10
+    },
+    {
+      "text": "contenu.",
+      "start": 35.715,
+      "end": 36.2709,
+      "ph": 10
+    }
+  ],
+  "dur": 36.833333333333336,
+  "question_start": 32.013,
+  "cta_start": 33.865,
+  "pause_start": 33.285,
+  "pause_end": 33.785,
+  "trim": 0.115,
+  "original_gap": [
+    33.4,
+    33.59
+  ],
+  "method": "ElevenLabs native character alignment, split on whitespace, verified silence gap replaced by exactly 0.5s"
+}

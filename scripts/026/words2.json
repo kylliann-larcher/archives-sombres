@@ -3,620 +3,620 @@
   "words": [
     {
       "text": "On",
-      "start": 0,
-      "end": 0.0531,
+      "start": 0.015,
+      "end": 0.075,
       "ph": 0
     },
     {
       "text": "t'envoie",
-      "start": 0.1272,
-      "end": 0.4235,
+      "start": 0.135,
+      "end": 0.395,
       "ph": 0
     },
     {
       "text": "chez",
-      "start": 0.4976,
-      "end": 0.5717,
+      "start": 0.435,
+      "end": 0.555,
       "ph": 0
     },
     {
-      "text": "mamie…",
-      "start": 0.6457,
-      "end": 1.2383,
+      "text": "mamie",
+      "start": 0.615,
+      "end": 0.835,
       "ph": 0
     },
     {
       "text": "par",
-      "start": 1.4606,
-      "end": 1.6087,
+      "start": 0.875,
+      "end": 0.975,
       "ph": 0
     },
     {
       "text": "la",
-      "start": 1.6828,
-      "end": 1.7569,
+      "start": 1.015,
+      "end": 1.075,
       "ph": 0
     },
     {
       "text": "poste.",
-      "start": 1.8309,
-      "end": 2.3865,
+      "start": 1.155,
+      "end": 1.495,
       "ph": 0
     },
     {
       "text": "Avec",
-      "start": 2.7013,
-      "end": 2.942,
+      "start": 1.995,
+      "end": 2.155,
       "ph": 1
     },
     {
       "text": "les",
-      "start": 3.0161,
-      "end": 3.0902,
+      "start": 2.195,
+      "end": 2.315,
       "ph": 1
     },
     {
       "text": "timbres",
-      "start": 3.1643,
-      "end": 3.4606,
+      "start": 2.355,
+      "end": 2.715,
       "ph": 1
     },
     {
       "text": "collés",
-      "start": 3.5717,
-      "end": 3.7569,
+      "start": 2.755,
+      "end": 2.975,
       "ph": 1
     },
     {
       "text": "sur",
-      "start": 3.8309,
-      "end": 3.905,
+      "start": 3.015,
+      "end": 3.155,
       "ph": 1
     },
     {
       "text": "ton",
-      "start": 3.9791,
-      "end": 4.0531,
+      "start": 3.175,
+      "end": 3.275,
       "ph": 1
     },
     {
       "text": "manteau.",
-      "start": 4.1272,
-      "end": 4.6828,
+      "start": 3.315,
+      "end": 3.635,
       "ph": 1
     },
     {
       "text": "États-Unis,",
-      "start": 5.0161,
-      "end": 5.7569,
+      "start": 4.655,
+      "end": 5.255,
       "ph": 2
     },
     {
       "text": "1913:",
-      "start": 5.8309,
-      "end": 5.905,
+      "start": 5.555,
+      "end": 6.495,
       "ph": 2
     },
     {
       "text": "la",
-      "start": 7.1893,
-      "end": 7.2383,
+      "start": 7.155,
+      "end": 7.215,
       "ph": 2
     },
     {
       "text": "poste",
-      "start": 7.3124,
-      "end": 7.7569,
+      "start": 7.315,
+      "end": 7.695,
       "ph": 2
     },
     {
       "text": "lance",
-      "start": 7.8309,
-      "end": 8.0531,
+      "start": 7.755,
+      "end": 7.995,
       "ph": 2
     },
     {
       "text": "l'envoi",
-      "start": 8.1272,
-      "end": 8.4235,
+      "start": 8.035,
+      "end": 8.315,
       "ph": 2
     },
     {
       "text": "de",
-      "start": 8.4976,
-      "end": 8.5717,
+      "start": 8.355,
+      "end": 8.435,
       "ph": 2
     },
     {
       "text": "colis.",
-      "start": 8.6457,
-      "end": 9.0531,
+      "start": 8.455,
+      "end": 8.775,
       "ph": 2
     },
     {
       "text": "Et",
-      "start": 9.3124,
-      "end": 9.4606,
+      "start": 9.215,
+      "end": 9.395,
       "ph": 3
     },
     {
       "text": "aucune",
-      "start": 9.5346,
-      "end": 9.8309,
+      "start": 9.435,
+      "end": 9.755,
       "ph": 3
     },
     {
       "text": "règle",
-      "start": 9.905,
-      "end": 10.1272,
+      "start": 9.795,
+      "end": 10.075,
       "ph": 3
     },
     {
       "text": "n'interdit",
-      "start": 10.2013,
-      "end": 10.7198,
+      "start": 10.115,
+      "end": 10.535,
       "ph": 3
     },
     {
       "text": "d'y",
-      "start": 10.7689,
-      "end": 10.868,
+      "start": 10.575,
+      "end": 10.655,
       "ph": 3
     },
     {
-      "text": "mettre…",
-      "start": 10.905,
-      "end": 11.3494,
+      "text": "mettre",
+      "start": 10.695,
+      "end": 10.875,
       "ph": 3
     },
     {
       "text": "un",
-      "start": 11.5346,
-      "end": 11.6087,
+      "start": 10.915,
+      "end": 10.995,
       "ph": 3
     },
     {
       "text": "enfant.",
-      "start": 11.6828,
-      "end": 12.2383,
+      "start": 11.035,
+      "end": 11.335,
       "ph": 3
     },
     {
       "text": "En",
-      "start": 12.6207,
-      "end": 12.6457,
+      "start": 12.335,
+      "end": 12.435,
       "ph": 4
     },
     {
       "text": "février",
-      "start": 12.7198,
-      "end": 13.0161,
+      "start": 12.475,
+      "end": 12.815,
       "ph": 4
     },
     {
       "text": "1914,",
-      "start": 13.0902,
-      "end": 14.1522,
+      "start": 12.855,
+      "end": 13.815,
       "ph": 4
     },
     {
       "text": "dans",
-      "start": 14.1763,
-      "end": 14.2754,
+      "start": 14.015,
+      "end": 14.115,
       "ph": 4
     },
     {
       "text": "l'Idaho,",
-      "start": 14.3004,
-      "end": 15.0531,
+      "start": 14.135,
+      "end": 14.575,
       "ph": 4
     },
     {
       "text": "les",
-      "start": 15.0902,
-      "end": 15.1643,
+      "start": 14.935,
+      "end": 15.035,
       "ph": 4
     },
     {
       "text": "parents",
-      "start": 15.2383,
-      "end": 15.4606,
+      "start": 15.075,
+      "end": 15.295,
       "ph": 4
     },
     {
       "text": "de",
-      "start": 15.4976,
-      "end": 15.5346,
+      "start": 15.335,
+      "end": 15.375,
       "ph": 4
     },
     {
       "text": "la",
-      "start": 15.5717,
-      "end": 15.6087,
+      "start": 15.415,
+      "end": 15.455,
       "ph": 4
     },
     {
       "text": "petite",
-      "start": 15.6828,
-      "end": 15.9791,
+      "start": 15.535,
+      "end": 15.835,
       "ph": 4
     },
     {
       "text": "May",
-      "start": 16.0531,
-      "end": 16.2013,
+      "start": 15.954,
+      "end": 16.075,
       "ph": 4
     },
     {
       "text": "Pierstorff",
-      "start": 16.2754,
-      "end": 16.868,
+      "start": 16.155,
+      "end": 16.755,
       "ph": 4
     },
     {
       "text": "paient",
-      "start": 16.942,
-      "end": 17.1643,
+      "start": 16.875,
+      "end": 17.075,
       "ph": 4
     },
     {
       "text": "cinquante-trois",
-      "start": 17.2383,
-      "end": 17.7078,
+      "start": 17.135,
+      "end": 17.735,
       "ph": 4
     },
     {
       "text": "cents",
-      "start": 17.7569,
-      "end": 17.905,
+      "start": 17.795,
+      "end": 17.915,
       "ph": 4
     },
     {
       "text": "de",
-      "start": 17.942,
-      "end": 17.9791,
+      "start": 17.955,
+      "end": 18.015,
       "ph": 4
     },
     {
       "text": "timbres.",
-      "start": 18.0531,
-      "end": 18.8189,
+      "start": 18.115,
+      "end": 18.435,
       "ph": 4
     },
     {
       "text": "Elle",
-      "start": 18.843,
-      "end": 18.942,
+      "start": 18.935,
+      "end": 19.055,
       "ph": 5
     },
     {
       "text": "voyage",
-      "start": 19.0531,
-      "end": 19.2383,
+      "start": 19.075,
+      "end": 19.395,
       "ph": 5
     },
     {
       "text": "dans",
-      "start": 19.3124,
-      "end": 19.3865,
+      "start": 19.435,
+      "end": 19.515,
       "ph": 5
     },
     {
       "text": "le",
-      "start": 19.4235,
-      "end": 19.4606,
+      "start": 19.555,
+      "end": 19.635,
       "ph": 5
     },
     {
       "text": "wagon",
-      "start": 19.5717,
-      "end": 19.6828,
+      "start": 19.675,
+      "end": 19.935,
       "ph": 5
     },
     {
       "text": "postal",
-      "start": 19.7569,
-      "end": 20.2013,
+      "start": 19.955,
+      "end": 20.375,
       "ph": 5
     },
     {
       "text": "sur",
-      "start": 20.3124,
-      "end": 20.4235,
+      "start": 20.475,
+      "end": 20.675,
       "ph": 5
     },
     {
       "text": "plus",
-      "start": 20.4976,
-      "end": 20.5717,
+      "start": 20.715,
+      "end": 20.855,
       "ph": 5
     },
     {
       "text": "de",
-      "start": 20.6828,
-      "end": 20.7939,
+      "start": 20.895,
+      "end": 20.955,
       "ph": 5
     },
     {
       "text": "cent",
-      "start": 20.868,
-      "end": 20.942,
+      "start": 21.135,
+      "end": 21.315,
       "ph": 5
     },
     {
       "text": "kilomètres.",
-      "start": 21.0161,
-      "end": 21.6828,
+      "start": 21.355,
+      "end": 21.895,
       "ph": 5
     },
     {
       "text": "À",
-      "start": 21.905,
-      "end": 21.9791,
+      "start": 22.455,
+      "end": 22.495,
       "ph": 6
     },
     {
       "text": "l'arrivée,",
-      "start": 22.0161,
-      "end": 22.6828,
+      "start": 22.535,
+      "end": 22.935,
       "ph": 6
     },
     {
       "text": "le",
-      "start": 22.7198,
-      "end": 22.7939,
+      "start": 23.335,
+      "end": 23.375,
       "ph": 6
     },
     {
       "text": "postier",
-      "start": 22.868,
-      "end": 23.1643,
+      "start": 23.455,
+      "end": 23.815,
       "ph": 6
     },
     {
       "text": "la",
-      "start": 23.2383,
-      "end": 23.3124,
+      "start": 23.855,
+      "end": 23.915,
       "ph": 6
     },
     {
       "text": "livre",
-      "start": 23.3865,
-      "end": 23.6087,
+      "start": 23.955,
+      "end": 24.155,
       "ph": 6
     },
     {
       "text": "à",
-      "start": 23.6828,
-      "end": 23.7078,
+      "start": 24.175,
+      "end": 24.235,
       "ph": 6
     },
     {
       "text": "sa",
-      "start": 23.7319,
-      "end": 23.7569,
+      "start": 24.275,
+      "end": 24.375,
       "ph": 6
     },
     {
-      "text": "grand-mère!",
-      "start": 23.8309,
-      "end": 24.2013,
+      "text": "grand-mère.",
+      "start": 24.415,
+      "end": 24.855,
       "ph": 6
     },
     {
       "text": "La",
-      "start": 24.6457,
-      "end": 24.7198,
+      "start": 25.555,
+      "end": 25.655,
       "ph": 7
     },
     {
       "text": "poste",
-      "start": 24.7939,
-      "end": 25.1643,
+      "start": 25.675,
+      "end": 26.015,
       "ph": 7
     },
     {
       "text": "finit",
-      "start": 25.2383,
-      "end": 25.4606,
+      "start": 26.075,
+      "end": 26.295,
       "ph": 7
     },
     {
       "text": "par",
-      "start": 25.5346,
-      "end": 25.6087,
+      "start": 26.335,
+      "end": 26.435,
       "ph": 7
     },
     {
       "text": "interdire",
-      "start": 25.7569,
-      "end": 26.0531,
+      "start": 26.495,
+      "end": 26.955,
       "ph": 7
     },
     {
       "text": "d'envoyer",
-      "start": 26.1272,
-      "end": 26.4235,
+      "start": 26.975,
+      "end": 27.335,
       "ph": 7
     },
     {
       "text": "des",
-      "start": 26.4976,
-      "end": 26.5717,
+      "start": 27.375,
+      "end": 27.495,
       "ph": 7
     },
     {
       "text": "êtres",
-      "start": 26.6087,
-      "end": 26.7939,
+      "start": 27.535,
+      "end": 27.795,
       "ph": 7
     },
     {
       "text": "humains.",
-      "start": 26.868,
-      "end": 27.2754,
+      "start": 27.815,
+      "end": 28.055,
       "ph": 7
     },
     {
       "text": "Pourtant,",
-      "start": 27.5226,
-      "end": 28.1643,
+      "start": 28.615,
+      "end": 28.975,
       "ph": 8
     },
     {
       "text": "des",
-      "start": 28.2013,
-      "end": 28.2754,
+      "start": 29.335,
+      "end": 29.475,
       "ph": 8
     },
     {
       "text": "enfants",
-      "start": 28.3494,
-      "end": 28.6457,
+      "start": 29.515,
+      "end": 29.775,
       "ph": 8
     },
     {
       "text": "voyagent",
-      "start": 28.7569,
-      "end": 28.942,
+      "start": 29.815,
+      "end": 30.155,
       "ph": 8
     },
     {
       "text": "encore",
-      "start": 29.0161,
-      "end": 29.2383,
+      "start": 30.195,
+      "end": 30.435,
       "ph": 8
     },
     {
       "text": "ainsi",
-      "start": 29.3494,
-      "end": 29.5346,
+      "start": 30.475,
+      "end": 30.775,
       "ph": 8
     },
     {
       "text": "jusqu'en",
-      "start": 29.6087,
-      "end": 29.905,
+      "start": 30.835,
+      "end": 31.175,
       "ph": 8
     },
     {
       "text": "1915.",
-      "start": 29.9791,
-      "end": 31.1763,
+      "start": 31.235,
+      "end": 32.215,
       "ph": 8
     },
     {
       "text": "Et",
-      "start": 31.2383,
-      "end": 31.3124,
+      "start": 32.875,
+      "end": 32.955,
       "ph": 9
     },
     {
       "text": "toi,",
-      "start": 31.5717,
-      "end": 31.88,
+      "start": 32.995,
+      "end": 33.155,
       "ph": 9
     },
     {
       "text": "tes",
-      "start": 31.93,
-      "end": 31.9791,
+      "start": 33.575,
+      "end": 33.675,
       "ph": 9
     },
     {
       "text": "parents",
-      "start": 32.0902,
-      "end": 32.2013,
+      "start": 33.715,
+      "end": 33.915,
       "ph": 9
     },
     {
       "text": "t'auraient",
-      "start": 32.2263,
-      "end": 32.4235,
+      "start": 33.935,
+      "end": 34.135,
       "ph": 9
     },
     {
       "text": "posté?",
-      "start": 32.5346,
-      "end": 32.7198,
+      "start": 34.155,
+      "end": 34.475,
       "ph": 9
     },
     {
       "text": "N'hésite",
-      "start": 33.4343,
-      "end": 33.7306,
+      "start": 35.025,
+      "end": 35.325,
       "ph": 10
     },
     {
       "text": "pas",
-      "start": 33.7676,
-      "end": 33.8046,
+      "start": 35.345,
+      "end": 35.425,
       "ph": 10
     },
     {
       "text": "à",
-      "start": 33.8787,
-      "end": 33.8972,
+      "start": 35.465,
+      "end": 35.485,
       "ph": 10
     },
     {
       "text": "t'abonner",
-      "start": 33.9157,
-      "end": 34.3231,
+      "start": 35.545,
+      "end": 35.965,
       "ph": 10
     },
     {
       "text": "si",
-      "start": 34.3602,
-      "end": 34.3972,
+      "start": 35.985,
+      "end": 36.065,
       "ph": 10
     },
     {
       "text": "tu",
-      "start": 34.4713,
-      "end": 34.5454,
+      "start": 36.125,
+      "end": 36.205,
       "ph": 10
     },
     {
       "text": "aimes",
-      "start": 34.5944,
-      "end": 34.6935,
+      "start": 36.245,
+      "end": 36.365,
       "ph": 10
     },
     {
       "text": "ce",
-      "start": 34.7306,
-      "end": 34.7676,
+      "start": 36.405,
+      "end": 36.485,
       "ph": 10
     },
     {
       "text": "genre",
-      "start": 34.8417,
-      "end": 34.9157,
+      "start": 36.505,
+      "end": 36.645,
       "ph": 10
     },
     {
       "text": "de",
-      "start": 34.9898,
-      "end": 35.0639,
+      "start": 36.685,
+      "end": 36.765,
       "ph": 10
     },
     {
       "text": "contenu.",
-      "start": 35.138,
-      "end": 35.5105,
+      "start": 36.805,
+      "end": 37.145,
       "ph": 10
     }
   ],
-  "dur": 36.06666666666667,
-  "question_start": 31.2383,
-  "cta_start": 33.4343,
-  "pause_start": 32.895,
-  "pause_end": 33.395,
-  "trim": 0.095,
+  "dur": 37.9,
+  "question_start": 32.875,
+  "cta_start": 35.025,
+  "pause_start": 34.495000000000005,
+  "pause_end": 34.995000000000005,
+  "trim": 0.105,
   "original_gap": [
-    32.99,
-    33.22
+    34.6,
+    35.43
   ],
-  "method": "ElevenLabs native character alignment, split on whitespace, verified silence gap replaced by exactly 0.5s"
+  "method": "ElevenLabs Scribe word timings, voice v3 (calm), CTA gap set to 0.5s"
 }

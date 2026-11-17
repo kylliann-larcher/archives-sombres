@@ -28,7 +28,7 @@ wav('music.wav',bed);wav('sfx.wav',fx);wav('mix.wav',mix)
 stats=run(['-loglevel','info','-i','mix.wav','-af','loudnorm=I=-14:TP=-1.8:LRA=11:print_format=json','-f','null','-'])
 j=json.JSONDecoder().raw_decode(stats[stats.rfind('{'):])[0]
 filt=('loudnorm=I=-14:TP=-1.8:LRA=11:'+f'measured_I={j["input_i"]}:measured_TP={j["input_tp"]}:measured_LRA={j["input_lra"]}:measured_thresh={j["input_thresh"]}:offset={j["target_offset"]}:linear=true:print_format=json')
-run(['-v','error','-i','mix.wav','-af','acompressor=threshold=0.18:ratio=2.5:attack=5:release=100:makeup=1.4,loudnorm=I=-14:TP=-2.8:LRA=7:linear=false,volume=1.5dB,aresample=192000,alimiter=limit=0.77:level=false:attack=5:release=50:latency=true','-ar',str(SR),'mix-normalized.wav'])
+run(['-v','error','-i','mix.wav','-af','acompressor=threshold=0.18:ratio=2.5:attack=5:release=100:makeup=1.4,loudnorm=I=-14:TP=-2.8:LRA=7:linear=false,volume=1.5dB,aresample=192000,alimiter=limit=0.77:level=false:attack=5:release=50','-ar',str(SR),'mix-normalized.wav'])
 files=sorted((HERE/'shots').glob('shot_*.mp4'))
 if not files:raise RuntimeError('No shots')
 (HERE/'concat.txt').write_text(''.join("file '"+p.relative_to(HERE).as_posix()+"'\n" for p in files),encoding='utf-8')

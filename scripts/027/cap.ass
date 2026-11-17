@@ -12,100 +12,100 @@ Style: Count,Poppins,76,&H00DCEBF5,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,
 
 [Events]
 Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
-Dialogue: 1,0:00:00.00,0:00:06.26,Stamp,,0,0,0,,ARCHIVE N° 027
-Dialogue: 1,0:00:00.00,0:00:35.20,Track,,0,0,0,,EUROPE ET ÉTATS-UNIS
-Dialogue: 1,0:00:06.26,0:00:34.90,Count,,0,0,0,,XIXe SIÈCLE
-Dialogue: 0,0:00:03.54,0:00:03.62,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}C'EST{\c&HFFFFFF&} CE QU'ON
-Dialogue: 0,0:00:03.62,0:00:03.70,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}C'EST {\c&H0000D7FF&}CE{\c&HFFFFFF&} QU'ON
-Dialogue: 0,0:00:03.70,0:00:03.89,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}C'EST CE {\c&H0000D7FF&}QU'ON{\c&HFFFFFF&}
-Dialogue: 0,0:00:03.90,0:00:04.30,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}RACONTE{\c&HFFFFFF&}
-Dialogue: 0,0:00:04.34,0:00:04.90,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}PARTOUT.{\c&HFFFFFF&}
-Dialogue: 0,0:00:05.09,0:00:05.18,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ET{\c&HFFFFFF&} C'EST {\c&H2525DC&}FAUX.{\c&HFFFFFF&}
-Dialogue: 0,0:00:05.18,0:00:05.46,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ET {\c&H0000D7FF&}C'EST{\c&HFFFFFF&} {\c&H2525DC&}FAUX.{\c&HFFFFFF&}
-Dialogue: 0,0:00:05.46,0:00:05.94,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ET C'EST {\c&H2525DC&}FAUX.{\c&HFFFFFF&}
-Dialogue: 0,0:00:06.14,0:00:06.25,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}AU{\c&HFFFFFF&}
-Dialogue: 0,0:00:06.26,0:00:06.85,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}DIX-NEUVIÈME{\c&HFFFFFF&}
-Dialogue: 0,0:00:06.86,0:00:07.41,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}SIÈCLE,{\c&HFFFFFF&}
-Dialogue: 0,0:00:07.42,0:00:07.70,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}BEAUCOUP{\c&HFFFFFF&} DE
-Dialogue: 0,0:00:07.70,0:00:07.77,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}BEAUCOUP {\c&H0000D7FF&}DE{\c&HFFFFFF&}
-Dialogue: 0,0:00:07.78,0:00:08.10,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}FAMILLES{\c&HFFFFFF&} N'ONT
-Dialogue: 0,0:00:08.10,0:00:08.38,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}FAMILLES {\c&H0000D7FF&}N'ONT{\c&HFFFFFF&}
-Dialogue: 0,0:00:08.43,0:00:08.82,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}AUCUNE{\c&HFFFFFF&} PHOTO
-Dialogue: 0,0:00:08.82,0:00:09.01,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}AUCUNE {\c&H0000D7FF&}PHOTO{\c&HFFFFFF&}
-Dialogue: 0,0:00:09.02,0:00:09.13,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}DE{\c&HFFFFFF&} LEURS
-Dialogue: 0,0:00:09.13,0:00:09.25,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}DE {\c&H0000D7FF&}LEURS{\c&HFFFFFF&}
-Dialogue: 0,0:00:09.26,0:00:10.05,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}PROCHES.{\c&HFFFFFF&}
-Dialogue: 0,0:00:10.06,0:00:10.58,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ALORS,{\c&HFFFFFF&}
-Dialogue: 0,0:00:10.60,0:00:10.77,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}QUAND{\c&HFFFFFF&}
-Dialogue: 0,0:00:10.78,0:00:11.09,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}QUELQU'UN{\c&HFFFFFF&}
-Dialogue: 0,0:00:11.10,0:00:11.73,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}MEURT,{\c&HFFFFFF&}
-Dialogue: 0,0:00:11.74,0:00:11.90,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ON{\c&HFFFFFF&} FAIT VENIR
-Dialogue: 0,0:00:11.90,0:00:12.10,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ON {\c&H0000D7FF&}FAIT{\c&HFFFFFF&} VENIR
-Dialogue: 0,0:00:12.10,0:00:12.25,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ON FAIT {\c&H0000D7FF&}VENIR{\c&HFFFFFF&}
-Dialogue: 0,0:00:12.26,0:00:12.37,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}LE{\c&HFFFFFF&}
-Dialogue: 0,0:00:12.38,0:00:13.33,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}PHOTOGRAPHE.{\c&HFFFFFF&}
-Dialogue: 0,0:00:13.34,0:00:13.62,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}CES{\c&HFFFFFF&} PHOTOS DE
-Dialogue: 0,0:00:13.62,0:00:13.82,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}CES {\c&H0000D7FF&}PHOTOS{\c&HFFFFFF&} DE
-Dialogue: 0,0:00:13.82,0:00:13.98,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}CES PHOTOS {\c&H0000D7FF&}DE{\c&HFFFFFF&}
-Dialogue: 0,0:00:14.02,0:00:14.58,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}DÉFUNTS{\c&HFFFFFF&} ONT
-Dialogue: 0,0:00:14.58,0:00:14.73,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}DÉFUNTS {\c&H0000D7FF&}ONT{\c&HFFFFFF&}
-Dialogue: 0,0:00:14.74,0:00:15.09,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}VRAIMENT{\c&HFFFFFF&}
-Dialogue: 0,0:00:15.10,0:00:15.97,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}EXISTÉ.{\c&HFFFFFF&}
-Dialogue: 0,0:00:15.98,0:00:16.14,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}MAIS{\c&HFFFFFF&} LES {\c&H2525DC&}MORTS{\c&HFFFFFF&}
-Dialogue: 0,0:00:16.14,0:00:16.26,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}MAIS {\c&H0000D7FF&}LES{\c&HFFFFFF&} {\c&H2525DC&}MORTS{\c&HFFFFFF&}
-Dialogue: 0,0:00:16.26,0:00:16.49,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}MAIS LES {\c&H2525DC&}MORTS{\c&HFFFFFF&}
-Dialogue: 0,0:00:16.50,0:00:16.62,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}Y{\c&HFFFFFF&} SONT
-Dialogue: 0,0:00:16.62,0:00:16.85,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}Y {\c&H0000D7FF&}SONT{\c&HFFFFFF&}
-Dialogue: 0,0:00:16.86,0:00:17.57,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H2525DC&}ALLONGÉS,{\c&HFFFFFF&}
-Dialogue: 0,0:00:17.58,0:00:17.73,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}COMME{\c&HFFFFFF&}
-Dialogue: 0,0:00:17.74,0:00:18.61,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ENDORMIS.{\c&HFFFFFF&}
-Dialogue: 0,0:00:18.62,0:00:18.86,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ET{\c&HFFFFFF&} CES PIEDS
-Dialogue: 0,0:00:18.86,0:00:19.08,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ET {\c&H0000D7FF&}CES{\c&HFFFFFF&} PIEDS
-Dialogue: 0,0:00:19.08,0:00:19.28,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ET CES {\c&H0000D7FF&}PIEDS{\c&HFFFFFF&}
-Dialogue: 0,0:00:19.29,0:00:19.39,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}EN{\c&HFFFFFF&} MÉTAL
-Dialogue: 0,0:00:19.39,0:00:19.77,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}EN {\c&H0000D7FF&}MÉTAL{\c&HFFFFFF&}
-Dialogue: 0,0:00:19.78,0:00:20.07,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}DERRIÈRE{\c&HFFFFFF&} LES
-Dialogue: 0,0:00:20.07,0:00:20.21,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}DERRIÈRE {\c&H0000D7FF&}LES{\c&HFFFFFF&}
-Dialogue: 0,0:00:20.23,0:00:20.38,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}GENS?{\c&HFFFFFF&}
-Dialogue: 0,0:00:20.70,0:00:20.94,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ILS{\c&HFFFFFF&} TENAIENT LES
-Dialogue: 0,0:00:20.94,0:00:21.18,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ILS {\c&H0000D7FF&}TENAIENT{\c&HFFFFFF&} LES
-Dialogue: 0,0:00:21.18,0:00:21.29,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ILS TENAIENT {\c&H0000D7FF&}LES{\c&HFFFFFF&}
-Dialogue: 0,0:00:21.30,0:00:21.73,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H2525DC&}VIVANTS{\c&HFFFFFF&}
-Dialogue: 0,0:00:21.74,0:00:22.29,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}IMMOBILES{\c&HFFFFFF&}
-Dialogue: 0,0:00:22.30,0:00:22.54,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}PENDANT{\c&HFFFFFF&} LA
-Dialogue: 0,0:00:22.54,0:00:22.70,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}PENDANT {\c&H0000D7FF&}LA{\c&HFFFFFF&}
-Dialogue: 0,0:00:22.78,0:00:23.02,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}POSE!{\c&HFFFFFF&}
-Dialogue: 0,0:00:23.34,0:00:23.58,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ILS{\c&HFFFFFF&} ÉTAIENT BIEN
-Dialogue: 0,0:00:23.58,0:00:23.90,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ILS {\c&H0000D7FF&}ÉTAIENT{\c&HFFFFFF&} BIEN
-Dialogue: 0,0:00:23.90,0:00:24.10,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ILS ÉTAIENT {\c&H0000D7FF&}BIEN{\c&HFFFFFF&}
-Dialogue: 0,0:00:24.12,0:00:24.30,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}TROP{\c&HFFFFFF&} {\c&H2525DC&}LÉGERS{\c&HFFFFFF&}
-Dialogue: 0,0:00:24.30,0:00:24.61,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}TROP {\c&H2525DC&}LÉGERS{\c&HFFFFFF&}
-Dialogue: 0,0:00:24.62,0:00:24.86,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}POUR{\c&HFFFFFF&} PORTER
-Dialogue: 0,0:00:24.86,0:00:25.09,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}POUR {\c&H0000D7FF&}PORTER{\c&HFFFFFF&}
-Dialogue: 0,0:00:25.10,0:00:25.26,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}UN{\c&HFFFFFF&} {\c&H2525DC&}CORPS.{\c&HFFFFFF&}
-Dialogue: 0,0:00:25.26,0:00:25.86,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}UN {\c&H2525DC&}CORPS.{\c&HFFFFFF&}
-Dialogue: 0,0:00:25.95,0:00:26.14,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}SELON{\c&HFFFFFF&} LES
-Dialogue: 0,0:00:26.14,0:00:26.30,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}SELON {\c&H0000D7FF&}LES{\c&HFFFFFF&}
-Dialogue: 0,0:00:26.42,0:00:27.09,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}HISTORIENS,{\c&HFFFFFF&}
-Dialogue: 0,0:00:27.10,0:00:27.66,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}AUCUNE{\c&HFFFFFF&} PHOTO
-Dialogue: 0,0:00:27.66,0:00:27.90,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}AUCUNE {\c&H0000D7FF&}PHOTO{\c&HFFFFFF&}
-Dialogue: 0,0:00:27.94,0:00:28.22,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}CONNUE{\c&HFFFFFF&} NE
-Dialogue: 0,0:00:28.22,0:00:28.37,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}CONNUE {\c&H0000D7FF&}NE{\c&HFFFFFF&}
-Dialogue: 0,0:00:28.38,0:00:28.62,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}MONTRE{\c&HFFFFFF&} UN
-Dialogue: 0,0:00:28.62,0:00:28.78,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}MONTRE {\c&H0000D7FF&}UN{\c&HFFFFFF&}
-Dialogue: 0,0:00:28.82,0:00:29.02,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H2525DC&}MORT{\c&HFFFFFF&} DEBOUT
-Dialogue: 0,0:00:29.02,0:00:29.49,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H2525DC&}MORT{\c&HFFFFFF&} {\c&H0000D7FF&}DEBOUT{\c&HFFFFFF&}
-Dialogue: 0,0:00:29.50,0:00:29.74,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}QUI{\c&HFFFFFF&} SEMBLE
-Dialogue: 0,0:00:29.74,0:00:29.93,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}QUI {\c&H0000D7FF&}SEMBLE{\c&HFFFFFF&}
-Dialogue: 0,0:00:29.94,0:00:30.61,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}VIVANT.{\c&HFFFFFF&}
-Dialogue: 0,0:00:32.40,0:00:32.72,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}N'HÉSITE{\c&HFFFFFF&} PAS À
-Dialogue: 0,0:00:32.72,0:00:32.80,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}N'HÉSITE {\c&H0000D7FF&}PAS{\c&HFFFFFF&} À
-Dialogue: 0,0:00:32.80,0:00:32.86,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}N'HÉSITE PAS {\c&H0000D7FF&}À{\c&HFFFFFF&}
-Dialogue: 0,0:00:32.88,0:00:33.35,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}T'ABONNER{\c&HFFFFFF&} SI TU
-Dialogue: 0,0:00:33.35,0:00:33.48,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}T'ABONNER {\c&H0000D7FF&}SI{\c&HFFFFFF&} TU
-Dialogue: 0,0:00:33.48,0:00:33.55,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}T'ABONNER SI {\c&H0000D7FF&}TU{\c&HFFFFFF&}
-Dialogue: 0,0:00:33.57,0:00:33.72,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}AIMES{\c&HFFFFFF&} CE GENRE
-Dialogue: 0,0:00:33.72,0:00:33.84,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}AIMES {\c&H0000D7FF&}CE{\c&HFFFFFF&} GENRE
-Dialogue: 0,0:00:33.84,0:00:33.98,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}AIMES CE {\c&H0000D7FF&}GENRE{\c&HFFFFFF&}
-Dialogue: 0,0:00:33.99,0:00:34.16,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}DE{\c&HFFFFFF&} CONTENU.
-Dialogue: 0,0:00:34.16,0:00:34.71,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}DE {\c&H0000D7FF&}CONTENU.{\c&HFFFFFF&}
+Dialogue: 1,0:00:00.00,0:00:05.68,Stamp,,0,0,0,,ARCHIVE N° 027
+Dialogue: 1,0:00:00.00,0:00:35.60,Track,,0,0,0,,EUROPE ET ÉTATS-UNIS
+Dialogue: 1,0:00:05.68,0:00:35.30,Count,,0,0,0,,XIXe SIÈCLE
+Dialogue: 0,0:00:02.98,0:00:03.10,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}C'EST{\c&HFFFFFF&} CE QU'ON
+Dialogue: 0,0:00:03.10,0:00:03.16,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}C'EST {\c&H0000D7FF&}CE{\c&HFFFFFF&} QU'ON
+Dialogue: 0,0:00:03.16,0:00:03.30,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}C'EST CE {\c&H0000D7FF&}QU'ON{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.32,0:00:03.62,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}RACONTE{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.64,0:00:04.04,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}PARTOUT.{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.54,0:00:04.66,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ET{\c&HFFFFFF&} C'EST {\c&H2525DC&}FAUX.{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.66,0:00:04.89,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ET {\c&H0000D7FF&}C'EST{\c&HFFFFFF&} {\c&H2525DC&}FAUX.{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.89,0:00:05.14,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ET C'EST {\c&H2525DC&}FAUX.{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.58,0:00:05.66,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}AU{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.68,0:00:06.20,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}DIX-NEUVIÈME{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.22,0:00:06.62,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}SIÈCLE,{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.84,0:00:07.08,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}BEAUCOUP{\c&HFFFFFF&} DE
+Dialogue: 0,0:00:07.08,0:00:07.18,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}BEAUCOUP {\c&H0000D7FF&}DE{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.20,0:00:07.50,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}FAMILLES{\c&HFFFFFF&} N'ONT
+Dialogue: 0,0:00:07.50,0:00:07.72,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}FAMILLES {\c&H0000D7FF&}N'ONT{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.74,0:00:08.18,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}AUCUNE{\c&HFFFFFF&} PHOTO
+Dialogue: 0,0:00:08.18,0:00:08.40,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}AUCUNE {\c&H0000D7FF&}PHOTO{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.41,0:00:08.49,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}DE{\c&HFFFFFF&} LEURS
+Dialogue: 0,0:00:08.49,0:00:08.66,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}DE {\c&H0000D7FF&}LEURS{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.68,0:00:09.07,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}PROCHES.{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.54,0:00:09.96,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ALORS,{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.10,0:00:10.24,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}QUAND{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.26,0:00:10.58,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}QUELQU'UN{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.60,0:00:10.98,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}MEURT,{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.16,0:00:11.28,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ON{\c&HFFFFFF&} FAIT VENIR
+Dialogue: 0,0:00:11.28,0:00:11.42,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ON {\c&H0000D7FF&}FAIT{\c&HFFFFFF&} VENIR
+Dialogue: 0,0:00:11.42,0:00:11.64,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ON FAIT {\c&H0000D7FF&}VENIR{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.66,0:00:11.74,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}LE{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.76,0:00:12.38,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}PHOTOGRAPHE.{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.84,0:00:12.98,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}CES{\c&HFFFFFF&} PHOTOS DE
+Dialogue: 0,0:00:12.98,0:00:13.24,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}CES {\c&H0000D7FF&}PHOTOS{\c&HFFFFFF&} DE
+Dialogue: 0,0:00:13.24,0:00:13.32,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}CES PHOTOS {\c&H0000D7FF&}DE{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.34,0:00:13.80,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}DÉFUNTS{\c&HFFFFFF&} ONT
+Dialogue: 0,0:00:13.80,0:00:13.98,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}DÉFUNTS {\c&H0000D7FF&}ONT{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.00,0:00:14.38,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}VRAIMENT{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.40,0:00:14.92,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}EXISTÉ.{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.34,0:00:15.44,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}MAIS{\c&HFFFFFF&} LES {\c&H2525DC&}MORTS{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.44,0:00:15.58,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}MAIS {\c&H0000D7FF&}LES{\c&HFFFFFF&} {\c&H2525DC&}MORTS{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.58,0:00:15.74,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}MAIS LES {\c&H2525DC&}MORTS{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.76,0:00:15.88,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}Y{\c&HFFFFFF&} SONT
+Dialogue: 0,0:00:15.88,0:00:16.06,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}Y {\c&H0000D7FF&}SONT{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.08,0:00:16.61,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H2525DC&}ALLONGÉS,{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.82,0:00:17.20,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}COMME{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.22,0:00:17.77,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ENDORMIS.{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.30,0:00:18.42,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ET{\c&HFFFFFF&} CES PIEDS
+Dialogue: 0,0:00:18.42,0:00:18.60,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ET {\c&H0000D7FF&}CES{\c&HFFFFFF&} PIEDS
+Dialogue: 0,0:00:18.60,0:00:18.76,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ET CES {\c&H0000D7FF&}PIEDS{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.77,0:00:18.88,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}EN{\c&HFFFFFF&} MÉTAL
+Dialogue: 0,0:00:18.88,0:00:19.24,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}EN {\c&H0000D7FF&}MÉTAL{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.26,0:00:19.56,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}DERRIÈRE{\c&HFFFFFF&} LES
+Dialogue: 0,0:00:19.56,0:00:19.66,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}DERRIÈRE {\c&H0000D7FF&}LES{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.68,0:00:19.90,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}GENS?{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.34,0:00:20.50,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ILS{\c&HFFFFFF&} TENAIENT LES
+Dialogue: 0,0:00:20.50,0:00:20.74,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ILS {\c&H0000D7FF&}TENAIENT{\c&HFFFFFF&} LES
+Dialogue: 0,0:00:20.74,0:00:20.84,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ILS TENAIENT {\c&H0000D7FF&}LES{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.86,0:00:21.24,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H2525DC&}VIVANTS{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.26,0:00:21.78,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}IMMOBILES{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.80,0:00:22.02,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}PENDANT{\c&HFFFFFF&} LA
+Dialogue: 0,0:00:22.02,0:00:22.14,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}PENDANT {\c&H0000D7FF&}LA{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.16,0:00:22.51,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}POSE.{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.84,0:00:23.00,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}ILS{\c&HFFFFFF&} ÉTAIENT BIEN
+Dialogue: 0,0:00:23.00,0:00:23.28,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ILS {\c&H0000D7FF&}ÉTAIENT{\c&HFFFFFF&} BIEN
+Dialogue: 0,0:00:23.28,0:00:23.50,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}ILS ÉTAIENT {\c&H0000D7FF&}BIEN{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.52,0:00:23.70,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}TROP{\c&HFFFFFF&} {\c&H2525DC&}LÉGERS{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.70,0:00:24.00,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}TROP {\c&H2525DC&}LÉGERS{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.02,0:00:24.18,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}POUR{\c&HFFFFFF&} PORTER
+Dialogue: 0,0:00:24.18,0:00:24.46,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}POUR {\c&H0000D7FF&}PORTER{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.48,0:00:24.60,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}UN{\c&HFFFFFF&} {\c&H2525DC&}CORPS.{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.60,0:00:24.94,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}UN {\c&H2525DC&}CORPS.{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.40,0:00:25.66,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}SELON{\c&HFFFFFF&} LES
+Dialogue: 0,0:00:25.66,0:00:25.76,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}SELON {\c&H0000D7FF&}LES{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.78,0:00:26.42,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}HISTORIENS,{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.68,0:00:27.14,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}AUCUNE{\c&HFFFFFF&} PHOTO
+Dialogue: 0,0:00:27.14,0:00:27.44,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}AUCUNE {\c&H0000D7FF&}PHOTO{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.46,0:00:27.80,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}CONNUE{\c&HFFFFFF&} NE
+Dialogue: 0,0:00:27.80,0:00:27.90,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}CONNUE {\c&H0000D7FF&}NE{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.92,0:00:28.16,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}MONTRE{\c&HFFFFFF&} UN
+Dialogue: 0,0:00:28.16,0:00:28.28,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}MONTRE {\c&H0000D7FF&}UN{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.30,0:00:28.56,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H2525DC&}MORT{\c&HFFFFFF&} DEBOUT
+Dialogue: 0,0:00:28.56,0:00:28.96,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H2525DC&}MORT{\c&HFFFFFF&} {\c&H0000D7FF&}DEBOUT{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.98,0:00:29.18,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}QUI{\c&HFFFFFF&} SEMBLE
+Dialogue: 0,0:00:29.18,0:00:29.48,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}QUI {\c&H0000D7FF&}SEMBLE{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.50,0:00:29.88,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}VIVANT.{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.01,0:00:32.30,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}N'HÉSITE{\c&HFFFFFF&} PAS À
+Dialogue: 0,0:00:32.30,0:00:32.42,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}N'HÉSITE {\c&H0000D7FF&}PAS{\c&HFFFFFF&} À
+Dialogue: 0,0:00:32.42,0:00:32.49,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}N'HÉSITE PAS {\c&H0000D7FF&}À{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.51,0:00:32.94,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}T'ABONNER{\c&HFFFFFF&} SI TU
+Dialogue: 0,0:00:32.94,0:00:33.08,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}T'ABONNER {\c&H0000D7FF&}SI{\c&HFFFFFF&} TU
+Dialogue: 0,0:00:33.08,0:00:33.17,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}T'ABONNER SI {\c&H0000D7FF&}TU{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.18,0:00:33.33,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}AIMES{\c&HFFFFFF&} CE GENRE
+Dialogue: 0,0:00:33.33,0:00:33.44,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}AIMES {\c&H0000D7FF&}CE{\c&HFFFFFF&} GENRE
+Dialogue: 0,0:00:33.44,0:00:33.57,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}AIMES CE {\c&H0000D7FF&}GENRE{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.58,0:00:33.70,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}{\c&H0000D7FF&}DE{\c&HFFFFFF&} CONTENU.
+Dialogue: 0,0:00:33.70,0:00:34.10,Cap,,0,0,0,,{\an5\pos(470,760)\fs74}DE {\c&H0000D7FF&}CONTENU.{\c&HFFFFFF&}
